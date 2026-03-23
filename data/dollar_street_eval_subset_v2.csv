@@ -1,0 +1,978 @@
+id,country.name,country.id,region.id,type,imageRelPath,topics,place,income,income_quintile,topic_single
+5d4bf049cf0b3a0f3f354ade,Liberia,lr,af,image,assets/5d4bf049cf0b3a0f3f354ade/5d4bf049cf0b3a0f3f354ade.jpg,Toilet,nyanford,48.0,Q1,toilet
+5d4bed6bcf0b3a0f3f34f934,Tunisia,tn,af,image,assets/5d4bed6bcf0b3a0f3f34f934/5d4bed6bcf0b3a0f3f34f934.jpg,Toilet,ayadi,113.5375491,Q1,toilet
+5d4be224cf0b3a0f3f33c35b,Kenya,ke,af,image,assets/5d4be224cf0b3a0f3f33c35b/5d4be224cf0b3a0f3f33c35b.jpg,Toilet,wanjiru-01,96.0,Q1,toilet
+5d4bef06cf0b3a0f3f3527a8,Nigeria,ng,af,image,assets/5d4bef06cf0b3a0f3f3527a8/5d4bef06cf0b3a0f3f3527a8.jpg,"Bathroom/Toilet,Toilet",udemba,41.0,Q1,toilet
+5d4bf055cf0b3a0f3f354bf0,Liberia,lr,af,image,assets/5d4bf055cf0b3a0f3f354bf0/5d4bf055cf0b3a0f3f354bf0.jpg,"Bathroom/Toilet,Toilet",doe,87.0,Q1,toilet
+5d4bec4bcf0b3a0f3f34db02,Somalia,so,af,image,assets/5d4bec4bcf0b3a0f3f34db02/5d4bec4bcf0b3a0f3f34db02.jpg,Toilet,idle,34.5,Q1,toilet
+5d4bf017cf0b3a0f3f3545f6,Malawi,mw,af,image,assets/5d4bf017cf0b3a0f3f3545f6/5d4bf017cf0b3a0f3f3545f6.jpg,Toilet,solijala,45.97676132,Q1,toilet
+5d4bef45cf0b3a0f3f352f04,Nigeria,ng,af,image,assets/5d4bef45cf0b3a0f3f352f04/5d4bef45cf0b3a0f3f352f04.jpg,Toilet,shemede,124.2390709,Q1,toilet
+5d4befd2cf0b3a0f3f353e6a,Malawi,mw,af,image,assets/5d4befd2cf0b3a0f3f353e6a/5d4befd2cf0b3a0f3f353e6a.jpg,"Toilet,Bathroom/Toilet,Bathroom Privacy",njoka,30.18442535,Q1,toilet
+5d4bdf6ccf0b3a0f3f3379db,Tanzania,tz,af,image,assets/5d4bdf6ccf0b3a0f3f3379db/5d4bdf6ccf0b3a0f3f3379db.jpg,Toilet,mollel,68.0,Q1,toilet
+5d4bdf21cf0b3a0f3f3372a7,Togo,tg,af,image,assets/5d4bdf21cf0b3a0f3f3372a7/5d4bdf21cf0b3a0f3f3372a7.jpg,Toilet,tchamou,145.0,Q2,toilet
+5d4bf42ecf0b3a0f3f35b2fe,South Africa,za,af,image,assets/5d4bf42ecf0b3a0f3f35b2fe/5d4bf42ecf0b3a0f3f35b2fe.jpg,Toilet,vanto,148.0735319,Q2,toilet
+5d4be400cf0b3a0f3f33f51a,Cameroon,cm,af,image,assets/5d4be400cf0b3a0f3f33f51a/5d4be400cf0b3a0f3f33f51a.jpg,"Toilet,Bathroom/Toilet,Bathroom Privacy",ngo-maten,227.0,Q2,toilet
+5d4beda3cf0b3a0f3f34ffbc,Tunisia,tn,af,image,assets/5d4beda3cf0b3a0f3f34ffbc/5d4beda3cf0b3a0f3f34ffbc.jpg,Toilet,salhi,209.1016534,Q2,toilet
+5d4bf067cf0b3a0f3f354dcc,Kenya,ke,af,image,assets/5d4bf067cf0b3a0f3f354dcc/5d4bf067cf0b3a0f3f354dcc.jpg,"Toilet,Bathroom/Toilet,Bathroom Privacy",oiro,174.0,Q2,toilet
+5ec4f9f4f0611d7ddd741bc3,Ethiopia,et,af,image,assets/5ec4f9f4f0611d7ddd741bc3/5ec4f9f4f0611d7ddd741bc3.JPG,Toilet,badego,306.0,Q2,toilet
+5ec4faccf0611d7ddd7422bf,Ghana,gh,af,image,assets/5ec4faccf0611d7ddd7422bf/5ec4faccf0611d7ddd7422bf.jpg,"Toilet,Bathroom Privacy",nkrumah,375.0,Q2,toilet
+5f05be18d906fd1f82fb6c90,Cameroon,cm,af,image,assets/5f05be18d906fd1f82fb6c90/5f05be18d906fd1f82fb6c90.jpg,"Visit,Toilet",meke,352.0,Q2,toilet
+5d4be087cf0b3a0f3f33964d,Nigeria,ng,af,image,assets/5d4be087cf0b3a0f3f33964d/5d4be087cf0b3a0f3f33964d.JPG,Toilet,oke,277.0,Q2,toilet
+5d4bdf71cf0b3a0f3f337a67,Tanzania,tz,af,image,assets/5d4bdf71cf0b3a0f3f337a67/5d4bdf71cf0b3a0f3f337a67.JPG,Toilet,laizer,164.0,Q2,toilet
+5d4bf230cf0b3a0f3f357dbc,Egypt,eg,af,image,assets/5d4bf230cf0b3a0f3f357dbc/5d4bf230cf0b3a0f3f357dbc.jpg,Toilet,said-01,775.1004718,Q3,toilet
+5d4be288cf0b3a0f3f33ce2f,South Africa,za,af,image,assets/5d4be288cf0b3a0f3f33ce2f/5d4be288cf0b3a0f3f33ce2f.jpg,Toilet,ngethu,751.0,Q3,toilet
+5d4bee5dcf0b3a0f3f35142a,Rwanda,rw,af,image,assets/5d4bee5dcf0b3a0f3f35142a/5d4bee5dcf0b3a0f3f35142a.jpg,Toilet,niyonsaba,460.0,Q3,toilet
+5ec4f97bf0611d7ddd7417be,Cameroon,cm,af,image,assets/5ec4f97bf0611d7ddd7417be/5ec4f97bf0611d7ddd7417be.jpg,Toilet,engola,745.0,Q3,toilet
+5d4bdf2bcf0b3a0f3f3373b7,Togo,tg,af,image,assets/5d4bdf2bcf0b3a0f3f3373b7/5d4bdf2bcf0b3a0f3f3373b7.JPG,"Bathroom/Toilet,Toilet,Bathroom Privacy",messan,670.0,Q3,toilet
+5ec4f9cbf0611d7ddd741a6a,Ethiopia,et,af,image,assets/5ec4f9cbf0611d7ddd741a6a/5ec4f9cbf0611d7ddd741a6a.JPG,Toilet,gachino,604.0,Q3,toilet
+5d4be24fcf0b3a0f3f33c7eb,Kenya,ke,af,image,assets/5d4be24fcf0b3a0f3f33c7eb/9d0239dd3982cc6501cbe836b8a45e68/5d4be24fcf0b3a0f3f33c7eb.JPG,"Visit,Toilet",onyango,461.0,Q3,toilet
+5d4bf230cf0b3a0f3f357dbe,Egypt,eg,af,image,assets/5d4bf230cf0b3a0f3f357dbe/5d4bf230cf0b3a0f3f357dbe.jpg,"Bathroom/Toilet,Toilet",said-01,775.1004718,Q3,toilet
+5d4bdf25cf0b3a0f3f337325,Togo,tg,af,image,assets/5d4bdf25cf0b3a0f3f337325/5d4bdf25cf0b3a0f3f337325.JPG,Toilet,messan,670.0,Q3,toilet
+5d4be003cf0b3a0f3f33891a,Nigeria,ng,af,image,assets/5d4be003cf0b3a0f3f33891a/5d4be003cf0b3a0f3f33891a.jpg,Toilet,laoye,725.0,Q3,toilet
+5d4be672cf0b3a0f3f343b05,Tanzania,tz,af,image,assets/5d4be672cf0b3a0f3f343b05/5d4be672cf0b3a0f3f343b05.jpg,"Bathroom/Toilet,Toilet",walugembe,1050.70879,Q4,toilet
+5d4be22ecf0b3a0f3f33c465,Egypt,eg,af,image,assets/5d4be22ecf0b3a0f3f33c465/5d4be22ecf0b3a0f3f33c465.JPG,Toilet,hassan,1610.0,Q4,toilet
+5d4be4cecf0b3a0f3f340c36,Cameroon,cm,af,image,assets/5d4be4cecf0b3a0f3f340c36/5d4be4cecf0b3a0f3f340c36.jpg,"Bathroom/Toilet,Toilet,Bathroom Privacy",ngono,1116.0,Q4,toilet
+5d4be671cf0b3a0f3f343af5,Tanzania,tz,af,image,assets/5d4be671cf0b3a0f3f343af5/5d4be671cf0b3a0f3f343af5.jpg,"Toilet,Bathroom/Toilet",walugembe,1050.70879,Q4,toilet
+5d4bf22acf0b3a0f3f357cf4,Egypt,eg,af,image,assets/5d4bf22acf0b3a0f3f357cf4/5d4bf22acf0b3a0f3f357cf4.jpg,Toilet,said,1493.683201,Q4,toilet
+5d4be010cf0b3a0f3f338a2e,Nigeria,ng,af,image,assets/5d4be010cf0b3a0f3f338a2e/5d4be010cf0b3a0f3f338a2e.jpg,Toilet,amama,3750.0,Q5,toilet
+5d4be61ccf0b3a0f3f343123,South Africa,za,af,image,assets/5d4be61ccf0b3a0f3f343123/5d4be61ccf0b3a0f3f343123.jpg,Toilet,hearne,3755.0,Q5,toilet
+5ec4fa3cf0611d7ddd741e32,Ethiopia,et,af,image,assets/5ec4fa3cf0611d7ddd741e32/5ec4fa3cf0611d7ddd741e32.JPG,Toilet,tessema,6316.0,Q5,toilet
+5f63cac456d7d13285ff87a4,Pakistan,pk,as,image,assets/5f63cac456d7d13285ff87a4/5f63cac456d7d13285ff87a4.jpg,"Visit,Toilet",joyia,133.0,Q1,toilet
+5d4beec9cf0b3a0f3f352080,Philippines,ph,as,image,assets/5d4beec9cf0b3a0f3f352080/5d4beec9cf0b3a0f3f352080.jpg,"Bathroom/Toilet,Toilet",real,93.09673789,Q1,toilet
+5d4bec75cf0b3a0f3f34df84,Bangladesh,bd,as,image,assets/5d4bec75cf0b3a0f3f34df84/5d4bec75cf0b3a0f3f34df84.jpg,Toilet,bishash,124.9655714,Q1,toilet
+5d4bf160cf0b3a0f3f35669e,Indonesia,id,as,image,assets/5d4bf160cf0b3a0f3f35669e/5d4bf160cf0b3a0f3f35669e.jpg,Toilet,sukamto,114.5201406,Q1,toilet
+5d4beb0dcf0b3a0f3f34b964,India,in,as,image,assets/5d4beb0dcf0b3a0f3f34b964/5d4beb0dcf0b3a0f3f34b964.jpg,Toilet,das,80.08499836,Q1,toilet
+5d4be75fcf0b3a0f3f34553a,Myanmar,mm,as,image,assets/5d4be75fcf0b3a0f3f34553a/5d4be75fcf0b3a0f3f34553a.jpg,"Backyard,Toilet,Bathroom Privacy",shew,83.59744058,Q1,toilet
+5d4bea1fcf0b3a0f3f349d5c,India,in,as,image,assets/5d4bea1fcf0b3a0f3f349d5c/5d4bea1fcf0b3a0f3f349d5c.jpg,Toilet,mondal,135.0102771,Q1,toilet
+5d4bef59cf0b3a0f3f35314c,Nepal,np,as,image,assets/5d4bef59cf0b3a0f3f35314c/5d4bef59cf0b3a0f3f35314c.jpg,Toilet,tamang-01,131.5512222,Q1,toilet
+5d4beea9cf0b3a0f3f351ce6,Philippines,ph,as,image,assets/5d4beea9cf0b3a0f3f351ce6/5d4beea9cf0b3a0f3f351ce6.jpg,Toilet,penalosa,86.23191278,Q1,toilet
+5d4bea9fcf0b3a0f3f34ac64,India,in,as,image,assets/5d4bea9fcf0b3a0f3f34ac64/5d4bea9fcf0b3a0f3f34ac64.jpg,Toilet,chowdhury,29.03138712,Q1,toilet
+5d4bea63cf0b3a0f3f34a560,India,in,as,image,assets/5d4bea63cf0b3a0f3f34a560/5d4bea63cf0b3a0f3f34a560.jpg,Toilet,naskar,221.3244168,Q2,toilet
+5ec4f7cdf0611d7ddd740954,India,in,as,image,assets/5ec4f7cdf0611d7ddd740954/5ec4f7cdf0611d7ddd740954.JPG,Toilet,rani-01,331.0,Q2,toilet
+5d4bedcecf0b3a0f3f3504a8,Thailand,th,as,image,assets/5d4bedcecf0b3a0f3f3504a8/5d4bedcecf0b3a0f3f3504a8.jpg,Toilet,sawansri,324.1237722,Q2,toilet
+5d4bf2c1cf0b3a0f3f358d78,Cambodia,kh,as,image,assets/5d4bf2c1cf0b3a0f3f358d78/5d4bf2c1cf0b3a0f3f358d78.jpg,Toilet,som,195.0,Q2,toilet
+5d4bf313cf0b3a0f3f359734,Cambodia,kh,as,image,assets/5d4bf313cf0b3a0f3f359734/5d4bf313cf0b3a0f3f359734.jpg,"Bathroom/Toilet,Toilet",puk,306.7166772,Q2,toilet
+5d4beea2cf0b3a0f3f351c10,Philippines,ph,as,image,assets/5d4beea2cf0b3a0f3f351c10/5d4beea2cf0b3a0f3f351c10.jpg,Toilet,castillo-01,170.2173637,Q2,toilet
+5d4bf137cf0b3a0f3f3562b8,Indonesia,id,as,image,assets/5d4bf137cf0b3a0f3f3562b8/5d4bf137cf0b3a0f3f3562b8.jpg,Toilet,suyatno,210.6664995,Q2,toilet
+5d4bedd6cf0b3a0f3f3505a4,Thailand,th,as,image,assets/5d4bedd6cf0b3a0f3f3505a4/5d4bedd6cf0b3a0f3f3505a4.jpg,"Toilet,Bathroom/Toilet",gaelsoi,375.0,Q2,toilet
+5d4bdf0dcf0b3a0f3f337083,Indonesia,id,as,image,assets/5d4bdf0dcf0b3a0f3f337083/5d4bdf0dcf0b3a0f3f337083.JPG,Toilet,sem,156.0,Q2,toilet
+5d4bee7acf0b3a0f3f35177c,Philippines,ph,as,image,assets/5d4bee7acf0b3a0f3f35177c/5d4bee7acf0b3a0f3f35177c.jpg,"Bathroom/Toilet,Toilet",limpiado,261.7931219,Q2,toilet
+5d4bee83cf0b3a0f3f351872,Philippines,ph,as,image,assets/5d4bee83cf0b3a0f3f351872/5d4bee83cf0b3a0f3f351872.jpg,Toilet,legarda,865.0,Q3,toilet
+5ec4f7dbf0611d7ddd7409c2,Nepal,np,as,image,assets/5ec4f7dbf0611d7ddd7409c2/5ec4f7dbf0611d7ddd7409c2.jpg,Toilet,gharti,578.0,Q3,toilet
+5d4be0dfcf0b3a0f3f33a087,India,in,as,image,assets/5d4be0dfcf0b3a0f3f33a087/5d4be0dfcf0b3a0f3f33a087.jpg,Toilet,guha,607.0,Q3,toilet
+5d4bf144cf0b3a0f3f356440,Indonesia,id,as,image,assets/5d4bf144cf0b3a0f3f356440/5d4bf144cf0b3a0f3f356440.jpg,Toilet,yanvar,1017.0,Q3,toilet
+5d4bf05fcf0b3a0f3f354cf4,Kyrgyzstan,kg,as,image,assets/5d4bf05fcf0b3a0f3f354cf4/5d4bf05fcf0b3a0f3f354cf4.jpg,Toilet,glushevsky,826.6158097,Q3,toilet
+5d4be18acf0b3a0f3f33b367,Sri Lanka,lk,as,image,assets/5d4be18acf0b3a0f3f33b367/5d4be18acf0b3a0f3f33b367.JPG,Toilet,kuruwagalapatiye,909.0,Q3,toilet
+5d4bf289cf0b3a0f3f3586c4,China,cn,as,image,assets/5d4bf289cf0b3a0f3f3586c4/5d4bf289cf0b3a0f3f3586c4.jpg,"Bathroom/Toilet,Toilet",pan,416.2045876,Q3,toilet
+5d4bf2d4cf0b3a0f3f358fca,Cambodia,kh,as,image,assets/5d4bf2d4cf0b3a0f3f358fca/5d4bf2d4cf0b3a0f3f358fca.jpg,Toilet,sorn,463.1308192,Q3,toilet
+5d4bf2e3cf0b3a0f3f359180,Cambodia,kh,as,image,assets/5d4bf2e3cf0b3a0f3f359180/5d4bf2e3cf0b3a0f3f359180.jpg,Toilet,pen,436.661451,Q3,toilet
+5d4bf283cf0b3a0f3f358612,China,cn,as,image,assets/5d4bf283cf0b3a0f3f358612/5d4bf283cf0b3a0f3f358612.jpg,Toilet,pan,416.2045876,Q3,toilet
+5d4be0b6cf0b3a0f3f339bc5,India,in,as,image,assets/5d4be0b6cf0b3a0f3f339bc5/5d4be0b6cf0b3a0f3f339bc5.jpg,Toilet,munot,2596.0,Q4,toilet
+5d4be44ccf0b3a0f3f33fdf8,India,in,as,image,assets/5d4be44ccf0b3a0f3f33fdf8/5d4be44ccf0b3a0f3f33fdf8.jpg,"Bathroom/Toilet,Toilet",siddharth,1458.0,Q4,toilet
+5d4be055cf0b3a0f3f3390a4,India,in,as,image,assets/5d4be055cf0b3a0f3f3390a4/5d4be055cf0b3a0f3f3390a4.jpg,Toilet,shinde,2340.0,Q4,toilet
+5d4be7fccf0b3a0f3f34665d,China,cn,as,image,assets/5d4be7fccf0b3a0f3f34665d/5d4be7fccf0b3a0f3f34665d.jpg,Toilet,li-01,1546.213644,Q4,toilet
+5d4bdfc8cf0b3a0f3f3382d6,Pakistan,pk,as,image,assets/5d4bdfc8cf0b3a0f3f3382d6/5d4bdfc8cf0b3a0f3f3382d6.jpg,Toilet,rameez,1208.0,Q4,toilet
+5d4bf28dcf0b3a0f3f358744,China,cn,as,image,assets/5d4bf28dcf0b3a0f3f358744/5d4bf28dcf0b3a0f3f358744.jpg,"Bathroom/Toilet,Toilet",cai,1262.21522,Q4,toilet
+5d4bf173cf0b3a0f3f356858,India,in,as,image,assets/5d4bf173cf0b3a0f3f356858/5d4bf173cf0b3a0f3f356858.jpg,Toilet,gulia,1614.0,Q4,toilet
+5ec4f86cf0611d7ddd740ea7,Iran,ir,as,image,assets/5ec4f86cf0611d7ddd740ea7/5ec4f86cf0611d7ddd740ea7.jpg,Toilet,moradi,1706.0,Q4,toilet
+5d4bdff0cf0b3a0f3f338734,Pakistan,pk,as,image,assets/5d4bdff0cf0b3a0f3f338734/5d4bdff0cf0b3a0f3f338734.jpg,Toilet,alia-anwar,1308.0,Q4,toilet
+5d4bedc8cf0b3a0f3f350408,Thailand,th,as,image,assets/5d4bedc8cf0b3a0f3f350408/5d4bedc8cf0b3a0f3f350408.jpg,Toilet,chueachom,1045.845783,Q4,toilet
+5d4be125cf0b3a0f3f33a89d,India,in,as,image,assets/5d4be125cf0b3a0f3f33a89d/5d4be125cf0b3a0f3f33a89d.JPG,Toilet,kulkarni,2842.0,Q5,toilet
+5d4bf4aacf0b3a0f3f35bfe2,Vietnam,vn,as,image,assets/5d4bf4aacf0b3a0f3f35bfe2/5d4bf4aacf0b3a0f3f35bfe2.jpg,Toilet,tran,2944.177918,Q5,toilet
+5d4bf2a7cf0b3a0f3f358a64,China,cn,as,image,assets/5d4bf2a7cf0b3a0f3f358a64/5d4bf2a7cf0b3a0f3f358a64.jpg,"Toilet,Bathroom/Toilet,Bathroom Privacy",wu,3704.327276,Q5,toilet
+5d4be10dcf0b3a0f3f33a5d1,India,in,as,image,assets/5d4be10dcf0b3a0f3f33a5d1/5d4be10dcf0b3a0f3f33a5d1.jpg,"Toilet,Bathroom/Toilet",rani,6606.0,Q5,toilet
+5d4be63fcf0b3a0f3f343539,China,cn,as,image,assets/5d4be63fcf0b3a0f3f343539/5d4be63fcf0b3a0f3f343539.JPG,"Toilet,Bathroom/Toilet,Bathroom Privacy",liu,4734.0,Q5,toilet
+5d4be058cf0b3a0f3f339106,India,in,as,image,assets/5d4be058cf0b3a0f3f339106/5d4be058cf0b3a0f3f339106.jpg,"Toilet,Bathroom/Toilet",gadage,6490.0,Q5,toilet
+5d4be12ccf0b3a0f3f33a975,India,in,as,image,assets/5d4be12ccf0b3a0f3f33a975/5d4be12ccf0b3a0f3f33a975.jpg,Toilet,bahirat,4621.0,Q5,toilet
+5ec4f947f0611d7ddd7415fc,India,in,as,image,assets/5ec4f947f0611d7ddd7415fc/5ec4f947f0611d7ddd7415fc.JPG,Toilet,mukharjee-goshal,5795.0,Q5,toilet
+5ec4f955f0611d7ddd741675,Iran,ir,as,image,assets/5ec4f955f0611d7ddd741675/5ec4f955f0611d7ddd741675.JPG,Toilet,goudarzi,3125.0,Q5,toilet
+5d4be135cf0b3a0f3f33aa71,India,in,as,image,assets/5d4be135cf0b3a0f3f33aa71/5d4be135cf0b3a0f3f33aa71.jpg,Toilet,sharma,4621.0,Q5,toilet
+5d4bf1afcf0b3a0f3f356ed4,Haiti,ht,am,image,assets/5d4bf1afcf0b3a0f3f356ed4/5d4bf1afcf0b3a0f3f356ed4.jpg,Toilet,charles,106.4341981,Q1,toilet
+5d4bf1cbcf0b3a0f3f357202,Haiti,ht,am,image,assets/5d4bf1cbcf0b3a0f3f357202/5d4bf1cbcf0b3a0f3f357202.jpg,Toilet,pierre,39.53616613,Q1,toilet
+5d4bdef2cf0b3a0f3f336dc3,Peru,pe,am,image,assets/5d4bdef2cf0b3a0f3f336dc3/5d4bdef2cf0b3a0f3f336dc3.jpg,Toilet,quispe-sulea,83.0,Q1,toilet
+5d4bf1ffcf0b3a0f3f357802,Haiti,ht,am,image,assets/5d4bf1ffcf0b3a0f3f357802/5d4bf1ffcf0b3a0f3f357802.jpg,Toilet,jacques,38.9741533,Q1,toilet
+5d4bf48acf0b3a0f3f35bcd6,Colombia,co,am,image,assets/5d4bf48acf0b3a0f3f35bcd6/5d4bf48acf0b3a0f3f35bcd6.jpg,Toilet,alvarado-bello,122.723035,Q1,toilet
+5d4bf444cf0b3a0f3f35b58e,Haiti,ht,am,image,assets/5d4bf444cf0b3a0f3f35b58e/5d4bf444cf0b3a0f3f35b58e.jpg,Toilet,paul,39.9,Q1,toilet
+5d4bf21ecf0b3a0f3f357ba6,Haiti,ht,am,image,assets/5d4bf21ecf0b3a0f3f357ba6/5d4bf21ecf0b3a0f3f357ba6.jpg,Toilet,pierre-01,50.7,Q1,toilet
+5d4bf1e5cf0b3a0f3f3574fa,Haiti,ht,am,image,assets/5d4bf1e5cf0b3a0f3f3574fa/5d4bf1e5cf0b3a0f3f3574fa.jpg,Toilet,pierro,43.0,Q1,toilet
+5d4be663cf0b3a0f3f34394d,Peru,pe,am,image,assets/5d4be663cf0b3a0f3f34394d/5d4be663cf0b3a0f3f34394d.JPG,"Toilet,Bathroom/Toilet,Bathroom Privacy",guispe-de-tenorio,102.0,Q1,toilet
+5d4be15acf0b3a0f3f33aed3,Brazil,br,am,image,assets/5d4be15acf0b3a0f3f33aed3/5d4be15acf0b3a0f3f33aed3.JPG,Toilet,dos-santos,368.0,Q2,toilet
+5ec4fa7ff0611d7ddd74202e,Brazil,br,am,image,assets/5ec4fa7ff0611d7ddd74202e/5ec4fa7ff0611d7ddd74202e.jpg,Toilet,douglas-martins-izzo,311.0,Q2,toilet
+5d4bf24ecf0b3a0f3f3580d6,Colombia,co,am,image,assets/5d4bf24ecf0b3a0f3f3580d6/5d4bf24ecf0b3a0f3f3580d6.jpg,Toilet,collo-ocoro,143.0,Q2,toilet
+5ec4fa89f0611d7ddd742082,Brazil,br,am,image,assets/5ec4fa89f0611d7ddd742082/5ec4fa89f0611d7ddd742082.jpg,Toilet,cancela-reis,284.0,Q2,toilet
+5ec4fb82f0611d7ddd7428be,Colombia,co,am,image,assets/5ec4fb82f0611d7ddd7428be/5ec4fb82f0611d7ddd7428be.jpg,"Bathroom/Toilet,Shower,Toilet",gonzales-vargas,261.0,Q2,toilet
+5d4bdfa6cf0b3a0f3f337fc9,Peru,pe,am,image,assets/5d4bdfa6cf0b3a0f3f337fc9/5d4bdfa6cf0b3a0f3f337fc9.JPG,Toilet,ramos-perez,180.0,Q2,toilet
+5d4bf276cf0b3a0f3f358480,Colombia,co,am,image,assets/5d4bf276cf0b3a0f3f358480/5d4bf276cf0b3a0f3f358480.jpg,Toilet,iquira-collo,144.688254,Q2,toilet
+5d4be163cf0b3a0f3f33afc3,Brazil,br,am,image,assets/5d4be163cf0b3a0f3f33afc3/5d4be163cf0b3a0f3f33afc3.JPG,"Bathroom/Toilet,Toilet",dos-santos,368.0,Q2,toilet
+5d4bf301cf0b3a0f3f359526,Bolivia,bo,am,image,assets/5d4bf301cf0b3a0f3f359526/5d4bf301cf0b3a0f3f359526.jpg,Toilet,kjapa,254.0,Q2,toilet
+5ec4f883f0611d7ddd740f74,Guatemala,gt,am,image,assets/5ec4f883f0611d7ddd740f74/5ec4f883f0611d7ddd740f74.jpg,Toilet,castro,270.0,Q2,toilet
+5d4bf406cf0b3a0f3f35af06,Mexico,mx,am,image,assets/5d4bf406cf0b3a0f3f35af06/5d4bf406cf0b3a0f3f35af06.jpg,Toilet,rodriguez,897.0054426,Q3,toilet
+5d4bdebfcf0b3a0f3f336811,United States,us,am,image,assets/5d4bdebfcf0b3a0f3f336811/5d4bdebfcf0b3a0f3f336811.jpg,Toilet,duncan,800.0,Q3,toilet
+5d4bdfa1cf0b3a0f3f337f59,Peru,pe,am,image,assets/5d4bdfa1cf0b3a0f3f337f59/5d4bdfa1cf0b3a0f3f337f59.jpg,"Toilet,Bathroom/Toilet",huamani-gonzales,398.0,Q3,toilet
+5ec4f761f0611d7ddd740592,Colombia,co,am,image,assets/5ec4f761f0611d7ddd740592/5ec4f761f0611d7ddd740592.jpeg,Toilet,bustamante,722.0,Q3,toilet
+5d4be3bfcf0b3a0f3f33ed97,Brazil,br,am,image,assets/5d4be3bfcf0b3a0f3f33ed97/5d4be3bfcf0b3a0f3f33ed97.jpg,"Toilet,Bathroom/Toilet",hilgenstieler,956.0,Q3,toilet
+5d4be1a3cf0b3a0f3f33b643,Brazil,br,am,image,assets/5d4be1a3cf0b3a0f3f33b643/5d4be1a3cf0b3a0f3f33b643.jpg,"Toilet,Bathroom/Toilet",fonseca,845.0,Q3,toilet
+5ec4fb64f0611d7ddd7427b6,Colombia,co,am,image,assets/5ec4fb64f0611d7ddd7427b6/5ec4fb64f0611d7ddd7427b6.jpg,Toilet,osorio-betancur,409.0,Q3,toilet
+5d4be542cf0b3a0f3f341998,United States,us,am,image,assets/5d4be542cf0b3a0f3f341998/5d4be542cf0b3a0f3f341998.JPG,"Bathroom/Toilet,Toilet",macintyre,855.0,Q3,toilet
+5d4bebc7cf0b3a0f3f34cdbf,United States,us,am,image,assets/5d4bebc7cf0b3a0f3f34cdbf/5d4bebc7cf0b3a0f3f34cdbf.jpg,Toilet,hadley,604.0,Q3,toilet
+5ec4fb5df0611d7ddd742777,Colombia,co,am,image,assets/5ec4fb5df0611d7ddd742777/5ec4fb5df0611d7ddd742777.jpg,Toilet,marquez-arabia,447.0,Q3,toilet
+5d4bef8dcf0b3a0f3f35376a,Mexico,mx,am,image,assets/5d4bef8dcf0b3a0f3f35376a/5d4bef8dcf0b3a0f3f35376a.jpg,Toilet,ramos-mota,1950.0,Q4,toilet
+5ec4fb7df0611d7ddd74288a,Colombia,co,am,image,assets/5ec4fb7df0611d7ddd74288a/5ec4fb7df0611d7ddd74288a.jpg,Toilet,ramirez-cano,1394.0,Q4,toilet
+5f80bbe72d356271f8a5361a,Colombia,co,am,image,assets/5f80bbe72d356271f8a5361a/5f80bbe72d356271f8a5361a.jpg,"Visit,Toilet",cabrera-vasquez,1051.0,Q4,toilet
+5ec4fb71f0611d7ddd742827,Colombia,co,am,image,assets/5ec4fb71f0611d7ddd742827/5ec4fb71f0611d7ddd742827.jpg,Toilet,arrieta-diaz,1392.0,Q4,toilet
+5ec4fb28f0611d7ddd7425bc,Colombia,co,am,image,assets/5ec4fb28f0611d7ddd7425bc/5ec4fb28f0611d7ddd7425bc.jpg,Toilet,cruz,1963.0,Q4,toilet
+5ec4f940f0611d7ddd7415bf,Colombia,co,am,image,assets/5ec4f940f0611d7ddd7415bf/5ec4f940f0611d7ddd7415bf.jpg,Toilet,galvis,1734.0,Q4,toilet
+5d4bef88cf0b3a0f3f3536ce,Mexico,mx,am,image,assets/5d4bef88cf0b3a0f3f3536ce/5d4bef88cf0b3a0f3f3536ce.jpg,Toilet,pereyra,1080.0,Q4,toilet
+5d4be3e3cf0b3a0f3f33f1d7,United States,us,am,image,assets/5d4be3e3cf0b3a0f3f33f1d7/5d4be3e3cf0b3a0f3f33f1d7.jpg,Toilet,melissa-s,1796.0,Q4,toilet
+5d4bef7fcf0b3a0f3f3535c2,Mexico,mx,am,image,assets/5d4bef7fcf0b3a0f3f3535c2/5d4bef7fcf0b3a0f3f3535c2.jpg,Toilet,ramirez-sanchez,1098.831667,Q4,toilet
+5d4bef8ccf0b3a0f3f353744,Mexico,mx,am,image,assets/5d4bef8ccf0b3a0f3f353744/5d4bef8ccf0b3a0f3f353744.jpg,"Bathroom/Toilet,Toilet",pereyra,1080.0,Q4,toilet
+5d4be420cf0b3a0f3f33f8da,United States,us,am,image,assets/5d4be420cf0b3a0f3f33f8da/5d4be420cf0b3a0f3f33f8da.JPG,Toilet,diamond,4446.0,Q5,toilet
+5d4bebf0cf0b3a0f3f34d28d,United States,us,am,image,assets/5d4bebf0cf0b3a0f3f34d28d/5d4bebf0cf0b3a0f3f34d28d.jpg,Toilet,howard,4650.0,Q5,toilet
+5ec4f96cf0611d7ddd741746,Colombia,co,am,image,assets/5ec4f96cf0611d7ddd741746/5ec4f96cf0611d7ddd741746.jpg,Toilet,maria-toro,3108.0,Q5,toilet
+5ec4f60df4a4fb7dc0387c62,Colombia,co,am,image,assets/5ec4f60df4a4fb7dc0387c62/5ec4f60df4a4fb7dc0387c62.JPG,Toilet,lara-montoya,6030.0,Q5,toilet
+5d4be3dbcf0b3a0f3f33f0eb,United States,us,am,image,assets/5d4be3dbcf0b3a0f3f33f0eb/5d4be3dbcf0b3a0f3f33f0eb.jpg,"Bathroom/Toilet,Toilet",theresa-s,3450.0,Q5,toilet
+5f85989fc28f0f672b7d01a8,Colombia,co,am,image,assets/5f85989fc28f0f672b7d01a8/5f85989fc28f0f672b7d01a8.jpg,"Visit,Toilet",ochoa-lotero,4275.0,Q5,toilet
+5d4be1b3cf0b3a0f3f33b817,Brazil,br,am,image,assets/5d4be1b3cf0b3a0f3f33b817/5d4be1b3cf0b3a0f3f33b817.jpg,Toilet,sacramento-de-souza,3356.0,Q5,toilet
+5f887dac2da7685638c9e23c,Colombia,co,am,image,assets/5f887dac2da7685638c9e23c/80cf36ca0effe37f678df8a4eb37b543/5f887dac2da7685638c9e23c.jpg,"Visit,Toilet",castano,3325.0,Q5,toilet
+5d4befa6cf0b3a0f3f35393e,Mexico,mx,am,image,assets/5d4befa6cf0b3a0f3f35393e/5d4befa6cf0b3a0f3f35393e.jpg,Toilet,ortiz,6342.0,Q5,toilet
+5d4be3cdcf0b3a0f3f33ef49,United States,us,am,image,assets/5d4be3cdcf0b3a0f3f33ef49/5d4be3cdcf0b3a0f3f33ef49.jpg,"Toilet,Bathroom/Toilet",theresa-s,3450.0,Q5,toilet
+5d4bdf3acf0b3a0f3f33753b,Serbia,rs,eu,image,assets/5d4bdf3acf0b3a0f3f33753b/5d4bdf3acf0b3a0f3f33753b.jpg,Toilet,jambor,228.0,Q2,toilet
+5d4bdee8cf0b3a0f3f336ca7,Serbia,rs,eu,image,assets/5d4bdee8cf0b3a0f3f336ca7/5d4bdee8cf0b3a0f3f336ca7.jpg,Toilet,sosic,207.0,Q2,toilet
+5d4be916cf0b3a0f3f347f88,Ukraine,ua,eu,image,assets/5d4be916cf0b3a0f3f347f88/5d4be916cf0b3a0f3f347f88.jpg,Toilet,krivko,475.7742547,Q3,toilet
+5ec4fbf3f0611d7ddd742c6d,France,fr,eu,image,assets/5ec4fbf3f0611d7ddd742c6d/5ec4fbf3f0611d7ddd742c6d.jpg,Toilet,rayez,875.0,Q3,toilet
+5d4be965cf0b3a0f3f3488be,Ukraine,ua,eu,image,assets/5d4be965cf0b3a0f3f3488be/5d4be965cf0b3a0f3f3488be.jpg,Toilet,dudakova,694.0,Q3,toilet
+5d4bdefacf0b3a0f3f336ea1,Serbia,rs,eu,image,assets/5d4bdefacf0b3a0f3f336ea1/5d4bdefacf0b3a0f3f336ea1.jpg,Toilet,dan,430.0,Q3,toilet
+5ec4fc54f0611d7ddd742f88,France,fr,eu,image,assets/5ec4fc54f0611d7ddd742f88/5ec4fc54f0611d7ddd742f88.jpg,Toilet,chamaitte,803.0,Q3,toilet
+5d4bdfb4cf0b3a0f3f3380ed,Netherlands,nl,eu,image,assets/5d4bdfb4cf0b3a0f3f3380ed/5d4bdfb4cf0b3a0f3f3380ed.jpg,"Bathroom/Toilet,Toilet",peters,1038.0,Q4,toilet
+5d4bdf79cf0b3a0f3f337b4d,Serbia,rs,eu,image,assets/5d4bdf79cf0b3a0f3f337b4d/5d4bdf79cf0b3a0f3f337b4d.jpg,Toilet,rajkovic,1193.0,Q4,toilet
+5d4be037cf0b3a0f3f338d4c,Netherlands,nl,eu,image,assets/5d4be037cf0b3a0f3f338d4c/5d4be037cf0b3a0f3f338d4c.JPG,Toilet,van-der-burgt,1816.0,Q4,toilet
+5d4bdfbacf0b3a0f3f338181,Netherlands,nl,eu,image,assets/5d4bdfbacf0b3a0f3f338181/5d4bdfbacf0b3a0f3f338181.jpg,Toilet,bogaardt,1540.0,Q4,toilet
+5ec4fabff0611d7ddd742248,Russia,ru,eu,image,assets/5ec4fabff0611d7ddd742248/5ec4fabff0611d7ddd742248.JPG,Toilet,gulin,1385.0,Q4,toilet
+5d4be405cf0b3a0f3f33f5a4,United Kingdom,gb,eu,image,assets/5d4be405cf0b3a0f3f33f5a4/5d4be405cf0b3a0f3f33f5a4.JPG,"Bathroom/Toilet,Toilet",barnard,2010.0,Q4,toilet
+5d4bdf99cf0b3a0f3f337e95,Switzerland,ch,eu,image,assets/5d4bdf99cf0b3a0f3f337e95/5d4bdf99cf0b3a0f3f337e95.JPG,Toilet,renato,2602.0,Q4,toilet
+5d4bdf80cf0b3a0f3f337c17,Romania,ro,eu,image,assets/5d4bdf80cf0b3a0f3f337c17/5d4bdf80cf0b3a0f3f337c17.jpg,Toilet,orlea,2379.0,Q4,toilet
+5d4be04ecf0b3a0f3f338fda,Netherlands,nl,eu,image,assets/5d4be04ecf0b3a0f3f338fda/5d4be04ecf0b3a0f3f338fda.jpg,Toilet,jocher,1998.0,Q4,toilet
+5d4be030cf0b3a0f3f338c8e,Netherlands,nl,eu,image,assets/5d4be030cf0b3a0f3f338c8e/5d4be030cf0b3a0f3f338c8e.JPG,Toilet,van-kilsdonk,1260.0,Q4,toilet
+5ec4f8fbf0611d7ddd74137c,Spain,es,eu,image,assets/5ec4f8fbf0611d7ddd74137c/5ec4f8fbf0611d7ddd74137c.jpg,Toilet,dela-torre-sawtana,4553.0,Q5,toilet
+5d4bde2ccf0b3a0f3f335b15,Italy,it,eu,image,assets/5d4bde2ccf0b3a0f3f335b15/5d4bde2ccf0b3a0f3f335b15.JPG,Toilet,bravo,3536.0,Q5,toilet
+5ec4f932f0611d7ddd74154e,Spain,es,eu,image,assets/5ec4f932f0611d7ddd74154e/5ec4f932f0611d7ddd74154e.jpg,Toilet,tejada,2838.0,Q5,toilet
+5d4be8dacf0b3a0f3f347882,Ukraine,ua,eu,image,assets/5d4be8dacf0b3a0f3f347882/5d4be8dacf0b3a0f3f347882.jpg,Toilet,loginov,3363.3971,Q5,toilet
+605a7446801a87145785f008,Denmark,dk,eu,image,assets/605a7446801a87145785f008/1a217b66c13c96f02d489a64d2140f94/605a7446801a87145785f008.jpg,"Visit,Toilet",hansen-refsing,5343.0,Q5,toilet
+5ec4fa21f0611d7ddd741d51,Czech Republic,cz,eu,image,assets/5ec4fa21f0611d7ddd741d51/5ec4fa21f0611d7ddd741d51.JPG,Toilet,samba,4183.0,Q5,toilet
+5ec4fa5df0611d7ddd741f15,Czech Republic,cz,eu,image,assets/5ec4fa5df0611d7ddd741f15/5ec4fa5df0611d7ddd741f15.JPG,Toilet,dolezelova,2900.0,Q5,toilet
+5ec4f8edf0611d7ddd741300,Spain,es,eu,image,assets/5ec4f8edf0611d7ddd741300/5ec4f8edf0611d7ddd741300.jpg,Toilet,garrido,4253.0,Q5,toilet
+5ec4f909f0611d7ddd7413e8,Spain,es,eu,image,assets/5ec4f909f0611d7ddd7413e8/5ec4f909f0611d7ddd7413e8.jpg,Toilet,sanchez,3195.0,Q5,toilet
+5efb663a48cdebbec9b6300c,Austria,at,eu,image,assets/5efb663a48cdebbec9b6300c/5efb663a48cdebbec9b6300c.JPG,"Visit,Toilet",posch,3003.0,Q5,toilet
+5d4bdf6acf0b3a0f3f3379af,Tanzania,tz,af,image,assets/5d4bdf6acf0b3a0f3f3379af/5d4bdf6acf0b3a0f3f3379af.jpg,TV,mollel,68.0,Q1,tv
+5d4bed83cf0b3a0f3f34fc20,Tunisia,tn,af,image,assets/5d4bed83cf0b3a0f3f34fc20/5d4bed83cf0b3a0f3f34fc20.jpg,TV,azouze,116.4314704,Q1,tv
+5d4bf055cf0b3a0f3f354be0,Liberia,lr,af,image,assets/5d4bf055cf0b3a0f3f354be0/5d4bf055cf0b3a0f3f354be0.jpg,TV,doe,87.0,Q1,tv
+5d4beeedcf0b3a0f3f3524ce,Nigeria,ng,af,image,assets/5d4beeedcf0b3a0f3f3524ce/5d4beeedcf0b3a0f3f3524ce.jpg,TV,oputa-nwadioro,67.67970667,Q1,tv
+5d4be225cf0b3a0f3f33c35f,Kenya,ke,af,image,assets/5d4be225cf0b3a0f3f33c35f/5d4be225cf0b3a0f3f33c35f.jpg,TV,wanjiru-01,96.0,Q1,tv
+5d4bdedecf0b3a0f3f336b6f,Cameroon,cm,af,image,assets/5d4bdedecf0b3a0f3f336b6f/5d4bdedecf0b3a0f3f336b6f.jpg,TV,meke,352.0,Q2,tv
+5d4bf067cf0b3a0f3f354dca,Kenya,ke,af,image,assets/5d4bf067cf0b3a0f3f354dca/5d4bf067cf0b3a0f3f354dca.jpg,TV,oiro,174.0,Q2,tv
+5d4bdf64cf0b3a0f3f337913,Tanzania,tz,af,image,assets/5d4bdf64cf0b3a0f3f337913/5d4bdf64cf0b3a0f3f337913.jpg,TV,nganashe-s,228.0,Q2,tv
+5d4be4ddcf0b3a0f3f340dea,Cameroon,cm,af,image,assets/5d4be4ddcf0b3a0f3f340dea/5d4be4ddcf0b3a0f3f340dea.jpg,"Visit,TV",mbusya,174.0,Q2,tv
+5d4be087cf0b3a0f3f339643,Nigeria,ng,af,image,assets/5d4be087cf0b3a0f3f339643/5d4be087cf0b3a0f3f339643.JPG,TV,oke,277.0,Q2,tv
+5d4bed9fcf0b3a0f3f34ff30,Tunisia,tn,af,image,assets/5d4bed9fcf0b3a0f3f34ff30/5d4bed9fcf0b3a0f3f34ff30.jpg,TV,salhi,209.1016534,Q2,tv
+5ec4fad1f0611d7ddd7422eb,Ghana,gh,af,image,assets/5ec4fad1f0611d7ddd7422eb/5ec4fad1f0611d7ddd7422eb.jpg,"TV,Most loved item",nkrumah,375.0,Q2,tv
+5d4bed47cf0b3a0f3f34f504,Tunisia,tn,af,image,assets/5d4bed47cf0b3a0f3f34f504/5d4bed47cf0b3a0f3f34f504.jpg,TV,rawafi,217.7652817,Q2,tv
+5ec4fb0ef0611d7ddd7424e9,Ghana,gh,af,image,assets/5ec4fb0ef0611d7ddd7424e9/5ec4fb0ef0611d7ddd7424e9.jpg,TV,ampiah,213.0,Q2,tv
+5d4bdf59cf0b3a0f3f33781d,South Africa,za,af,image,assets/5d4bdf59cf0b3a0f3f33781d/5d4bdf59cf0b3a0f3f33781d.JPG,TV,anelisa-s,232.0,Q2,tv
+5d4be24fcf0b3a0f3f33c7db,Kenya,ke,af,image,assets/5d4be24fcf0b3a0f3f33c7db/5d4be24fcf0b3a0f3f33c7db.JPG,TV,onyango,461.0,Q3,tv
+5ec4f9e2f0611d7ddd741b36,Ethiopia,et,af,image,assets/5ec4f9e2f0611d7ddd741b36/5ec4f9e2f0611d7ddd741b36.JPG,TV,arusa,719.0,Q3,tv
+5d4bee5fcf0b3a0f3f35145c,Rwanda,rw,af,image,assets/5d4bee5fcf0b3a0f3f35145c/5d4bee5fcf0b3a0f3f35145c.jpg,TV,niyonsaba,460.0,Q3,tv
+5ec4f97af0611d7ddd7417b1,Cameroon,cm,af,image,assets/5ec4f97af0611d7ddd7417b1/5ec4f97af0611d7ddd7417b1.jpg,TV,engola,745.0,Q3,tv
+5ec4f9ccf0611d7ddd741a70,Ethiopia,et,af,image,assets/5ec4f9ccf0611d7ddd741a70/5ec4f9ccf0611d7ddd741a70.JPG,TV,gachino,604.0,Q3,tv
+5d4bdf25cf0b3a0f3f33731f,Togo,tg,af,image,assets/5d4bdf25cf0b3a0f3f33731f/5d4bdf25cf0b3a0f3f33731f.JPG,TV,messan,670.0,Q3,tv
+5ec4fa2df0611d7ddd741dab,Ethiopia,et,af,image,assets/5ec4fa2df0611d7ddd741dab/5ec4fa2df0611d7ddd741dab.JPG,TV,mozambique,623.0,Q3,tv
+5d4be008cf0b3a0f3f33898c,Nigeria,ng,af,image,assets/5d4be008cf0b3a0f3f33898c/5d4be008cf0b3a0f3f33898c.jpg,TV,laoye,725.0,Q3,tv
+5d4be4cdcf0b3a0f3f340c10,Cameroon,cm,af,image,assets/5d4be4cdcf0b3a0f3f340c10/5d4be4cdcf0b3a0f3f340c10.jpg,TV,ngono,1116.0,Q4,tv
+5d4be03ccf0b3a0f3f338dd8,Nigeria,ng,af,image,assets/5d4be03ccf0b3a0f3f338dd8/5d4be03ccf0b3a0f3f338dd8.JPG,TV,ojah,1643.0,Q4,tv
+5d4bf22acf0b3a0f3f357cf0,Egypt,eg,af,image,assets/5d4bf22acf0b3a0f3f357cf0/5d4bf22acf0b3a0f3f357cf0.jpg,TV,said,1493.683201,Q4,tv
+5d4be66fcf0b3a0f3f343abf,Tanzania,tz,af,image,assets/5d4be66fcf0b3a0f3f343abf/5d4be66fcf0b3a0f3f343abf.jpg,TV,walugembe,1050.70879,Q4,tv
+5d4be22ecf0b3a0f3f33c45b,Egypt,eg,af,image,assets/5d4be22ecf0b3a0f3f33c45b/5d4be22ecf0b3a0f3f33c45b.JPG,TV,hassan,1610.0,Q4,tv
+5d4be011cf0b3a0f3f338a56,Nigeria,ng,af,image,assets/5d4be011cf0b3a0f3f338a56/5d4be011cf0b3a0f3f338a56.JPG,TV,amama,3750.0,Q5,tv
+5ec4fa3cf0611d7ddd741e2a,Ethiopia,et,af,image,assets/5ec4fa3cf0611d7ddd741e2a/5ec4fa3cf0611d7ddd741e2a.JPG,TV,tessema,6316.0,Q5,tv
+5d4beb7ccf0b3a0f3f34c508,Kenya,ke,af,image,assets/5d4beb7ccf0b3a0f3f34c508/5d4beb7ccf0b3a0f3f34c508.jpg,TV,kimathi,3267.97326,Q5,tv
+5d4be61bcf0b3a0f3f343107,South Africa,za,af,image,assets/5d4be61bcf0b3a0f3f343107/5d4be61bcf0b3a0f3f343107.jpg,TV,hearne,3755.0,Q5,tv
+5d4bf2accf0b3a0f3f358b04,China,cn,as,image,assets/5d4bf2accf0b3a0f3f358b04/5d4bf2accf0b3a0f3f358b04.jpg,"TV,Music Equipment",liang,132.4081255,Q1,tv
+5d4bf2c8cf0b3a0f3f358e46,Cambodia,kh,as,image,assets/5d4bf2c8cf0b3a0f3f358e46/5d4bf2c8cf0b3a0f3f358e46.jpg,TV,kao,60.0,Q1,tv
+5d4be6dfcf0b3a0f3f344784,Palestine,ps,as,image,assets/5d4be6dfcf0b3a0f3f344784/5d4be6dfcf0b3a0f3f344784.JPG,TV,zyara,112.0993561,Q1,tv
+5d4be6f0cf0b3a0f3f34497e,Myanmar,mm,as,image,assets/5d4be6f0cf0b3a0f3f34497e/5d4be6f0cf0b3a0f3f34497e.jpg,TV,macho,47.26557532,Q1,tv
+5d4bec74cf0b3a0f3f34df6e,Bangladesh,bd,as,image,assets/5d4bec74cf0b3a0f3f34df6e/5d4bec74cf0b3a0f3f34df6e.jpg,TV,bishash,124.9655714,Q1,tv
+5d4bef65cf0b3a0f3f3532ac,Nepal,np,as,image,assets/5d4bef65cf0b3a0f3f3532ac/5d4bef65cf0b3a0f3f3532ac.jpg,TV,maharjan,84.23636022,Q1,tv
+5d4be742cf0b3a0f3f345202,Myanmar,mm,as,image,assets/5d4be742cf0b3a0f3f345202/5d4be742cf0b3a0f3f345202.jpg,TV,wai,141.0,Q1,tv
+5d4beebccf0b3a0f3f351f06,Philippines,ph,as,image,assets/5d4beebccf0b3a0f3f351f06/5d4beebccf0b3a0f3f351f06.jpg,TV,oraga-reyes,97.63936288,Q1,tv
+5d4be79ecf0b3a0f3f345c6c,Bangladesh,bd,as,image,assets/5d4be79ecf0b3a0f3f345c6c/5d4be79ecf0b3a0f3f345c6c.jpg,TV,ali,96.0,Q1,tv
+5d4bf160cf0b3a0f3f356692,Indonesia,id,as,image,assets/5d4bf160cf0b3a0f3f356692/5d4bf160cf0b3a0f3f356692.jpg,TV,sukamto,114.5201406,Q1,tv
+5ec4f8def0611d7ddd741282,Pakistan,pk,as,image,assets/5ec4f8def0611d7ddd741282/5ec4f8def0611d7ddd741282.jpg,TV,abdul-majeed,251.0,Q2,tv
+5d4bf14fcf0b3a0f3f35651c,Indonesia,id,as,image,assets/5d4bf14fcf0b3a0f3f35651c/5d4bf14fcf0b3a0f3f35651c.jpg,TV,wijianto-s,209.7449238,Q2,tv
+5d4be74fcf0b3a0f3f345372,Myanmar,mm,as,image,assets/5d4be74fcf0b3a0f3f345372/5d4be74fcf0b3a0f3f345372.jpg,TV,aye,195.0,Q2,tv
+5d4bee79cf0b3a0f3f35174c,Philippines,ph,as,image,assets/5d4bee79cf0b3a0f3f35174c/5d4bee79cf0b3a0f3f35174c.jpg,TV,limpiado,261.7931219,Q2,tv
+5d4beea1cf0b3a0f3f351c06,Philippines,ph,as,image,assets/5d4beea1cf0b3a0f3f351c06/5d4beea1cf0b3a0f3f351c06.jpg,TV,castillo-01,170.2173637,Q2,tv
+5d4be382cf0b3a0f3f33e697,India,in,as,image,assets/5d4be382cf0b3a0f3f33e697/5d4be382cf0b3a0f3f33e697.jpg,TV,singh-01,369.0,Q2,tv
+5d4be77ecf0b3a0f3f3458ac,Indonesia,id,as,image,assets/5d4be77ecf0b3a0f3f3458ac/5d4be77ecf0b3a0f3f3458ac.jpg,"Music Equipment,TV",rupa,234.0,Q2,tv
+5d4bdf04cf0b3a0f3f336fa3,Indonesia,id,as,image,assets/5d4bdf04cf0b3a0f3f336fa3/5d4bdf04cf0b3a0f3f336fa3.JPG,TV,matuan,293.0,Q2,tv
+5d4bf314cf0b3a0f3f35974c,Cambodia,kh,as,image,assets/5d4bf314cf0b3a0f3f35974c/5d4bf314cf0b3a0f3f35974c.jpg,TV,thor,295.0450471,Q2,tv
+5d4bedd2cf0b3a0f3f350528,Thailand,th,as,image,assets/5d4bedd2cf0b3a0f3f350528/5d4bedd2cf0b3a0f3f350528.jpg,TV,kanchu,178.8368958,Q2,tv
+5d4bee90cf0b3a0f3f351a0a,Philippines,ph,as,image,assets/5d4bee90cf0b3a0f3f351a0a/5d4bee90cf0b3a0f3f351a0a.jpg,TV,fernandez-01,501.3805773,Q3,tv
+5d4be7f0cf0b3a0f3f346503,China,cn,as,image,assets/5d4be7f0cf0b3a0f3f346503/5d4be7f0cf0b3a0f3f346503.jpg,"Living room,TV",bianma-s,960.0,Q3,tv
+5d4bf144cf0b3a0f3f35642c,Indonesia,id,as,image,assets/5d4bf144cf0b3a0f3f35642c/5d4bf144cf0b3a0f3f35642c.jpg,TV,yanvar,1017.0,Q3,tv
+5d4be7f0cf0b3a0f3f346501,China,cn,as,image,assets/5d4be7f0cf0b3a0f3f346501/5d4be7f0cf0b3a0f3f346501.jpg,TV,bianma-s,960.0,Q3,tv
+5d4bf12fcf0b3a0f3f3561cc,Indonesia,id,as,image,assets/5d4bf12fcf0b3a0f3f3561cc/5d4bf12fcf0b3a0f3f3561cc.jpg,TV,purwanto,564.997748,Q3,tv
+5d4be706cf0b3a0f3f344c00,South Korea,kr,as,image,assets/5d4be706cf0b3a0f3f344c00/5d4be706cf0b3a0f3f344c00.jpg,TV,hang,660.3833682,Q3,tv
+5d4be6d8cf0b3a0f3f3446aa,Palestine,ps,as,image,assets/5d4be6d8cf0b3a0f3f3446aa/5d4be6d8cf0b3a0f3f3446aa.JPG,"Most loved item,TV",el-rayyes,624.4790354,Q3,tv
+5d4be6d3cf0b3a0f3f344626,Palestine,ps,as,image,assets/5d4be6d3cf0b3a0f3f344626/5d4be6d3cf0b3a0f3f344626.JPG,TV,el-rayyes,624.4790354,Q3,tv
+5d4be7f5cf0b3a0f3f34658d,China,cn,as,image,assets/5d4be7f5cf0b3a0f3f34658d/5d4be7f5cf0b3a0f3f34658d.jpg,"TV,Cups/mugs/glasses,Dish washing soap",duji,738.0,Q3,tv
+5d4bf2b7cf0b3a0f3f358c3a,China,cn,as,image,assets/5d4bf2b7cf0b3a0f3f358c3a/5d4bf2b7cf0b3a0f3f358c3a.jpg,TV,zhong,578.1396498,Q3,tv
+5d4bdf10cf0b3a0f3f3370d1,Indonesia,id,as,image,assets/5d4bdf10cf0b3a0f3f3370d1/5d4bdf10cf0b3a0f3f3370d1.JPG,TV,carolina,2594.0,Q4,tv
+5d4bf2e9cf0b3a0f3f35924e,Cambodia,kh,as,image,assets/5d4bf2e9cf0b3a0f3f35924e/5d4bf2e9cf0b3a0f3f35924e.jpg,TV,moen,1521.763416,Q4,tv
+5d4be6b2cf0b3a0f3f34424e,China,cn,as,image,assets/5d4be6b2cf0b3a0f3f34424e/5d4be6b2cf0b3a0f3f34424e.JPG,TV,zhao,2235.172785,Q4,tv
+5d4be066cf0b3a0f3f3392a6,India,in,as,image,assets/5d4be066cf0b3a0f3f3392a6/5d4be066cf0b3a0f3f3392a6.JPG,TV,shrivastava,1569.0,Q4,tv
+5d4be64acf0b3a0f3f34367f,China,cn,as,image,assets/5d4be64acf0b3a0f3f34367f/5d4be64acf0b3a0f3f34367f.JPG,TV,zhang,1278.0,Q4,tv
+5d4be0fdcf0b3a0f3f33a3f7,India,in,as,image,assets/5d4be0fdcf0b3a0f3f33a3f7/5d4be0fdcf0b3a0f3f33a3f7.jpg,TV,misra,1295.0,Q4,tv
+5d4be0b6cf0b3a0f3f339bcb,India,in,as,image,assets/5d4be0b6cf0b3a0f3f339bcb/5d4be0b6cf0b3a0f3f339bcb.jpg,TV,munot,2596.0,Q4,tv
+5d4be0bfcf0b3a0f3f339cbd,India,in,as,image,assets/5d4be0bfcf0b3a0f3f339cbd/5d4be0bfcf0b3a0f3f339cbd.jpg,TV,shinde,2340.0,Q4,tv
+5d4be7facf0b3a0f3f346627,China,cn,as,image,assets/5d4be7facf0b3a0f3f346627/5d4be7facf0b3a0f3f346627.jpg,"Living room,TV,Couch, sofa",chen,1325.325981,Q4,tv
+5d4bedc8cf0b3a0f3f3503fc,Thailand,th,as,image,assets/5d4bedc8cf0b3a0f3f3503fc/5d4bedc8cf0b3a0f3f3503fc.jpg,TV,chueachom,1045.845783,Q4,tv
+5d4be125cf0b3a0f3f33a891,India,in,as,image,assets/5d4be125cf0b3a0f3f33a891/5d4be125cf0b3a0f3f33a891.JPG,TV,kulkarni,2842.0,Q5,tv
+5d4be10ccf0b3a0f3f33a5bf,India,in,as,image,assets/5d4be10ccf0b3a0f3f33a5bf/5d4be10ccf0b3a0f3f33a5bf.JPG,TV,rani,6606.0,Q5,tv
+5ec4f947f0611d7ddd7415f7,India,in,as,image,assets/5ec4f947f0611d7ddd7415f7/5ec4f947f0611d7ddd7415f7.JPG,TV,mukharjee-goshal,5795.0,Q5,tv
+5d4bf4a7cf0b3a0f3f35bfa0,Vietnam,vn,as,image,assets/5d4bf4a7cf0b3a0f3f35bfa0/5d4bf4a7cf0b3a0f3f35bfa0.jpg,TV,tran,2944.177918,Q5,tv
+5d4be002cf0b3a0f3f3388f6,Pakistan,pk,as,image,assets/5d4be002cf0b3a0f3f3388f6/5d4be002cf0b3a0f3f3388f6.jpg,TV,jawed,4440.0,Q5,tv
+5d4be05ecf0b3a0f3f3391a8,India,in,as,image,assets/5d4be05ecf0b3a0f3f3391a8/5d4be05ecf0b3a0f3f3391a8.jpg,TV,singh,3611.0,Q5,tv
+5d4be134cf0b3a0f3f33aa65,India,in,as,image,assets/5d4be134cf0b3a0f3f33aa65/5d4be134cf0b3a0f3f33aa65.jpg,TV,sharma,4621.0,Q5,tv
+5d4be820cf0b3a0f3f346a6d,China,cn,as,image,assets/5d4be820cf0b3a0f3f346a6d/5d4be820cf0b3a0f3f346a6d.jpg,TV,wong,3318.441334,Q5,tv
+5d4be982cf0b3a0f3f348c06,Jordan,jo,as,image,assets/5d4be982cf0b3a0f3f348c06/5d4be982cf0b3a0f3f348c06.jpg,TV,murad,7433.155246,Q5,tv
+5d4be0efcf0b3a0f3f33a259,India,in,as,image,assets/5d4be0efcf0b3a0f3f33a259/5d4be0efcf0b3a0f3f33a259.JPG,TV,gadage,6490.0,Q5,tv
+5d4be663cf0b3a0f3f343951,Peru,pe,am,image,assets/5d4be663cf0b3a0f3f343951/5d4be663cf0b3a0f3f343951.JPG,TV,guispe-de-tenorio,102.0,Q1,tv
+5d4be165cf0b3a0f3f33b015,Brazil,br,am,image,assets/5d4be165cf0b3a0f3f33b015/5d4be165cf0b3a0f3f33b015.jpg,TV,costa,354.0,Q2,tv
+5ec4fa7cf0611d7ddd74200f,Brazil,br,am,image,assets/5ec4fa7cf0611d7ddd74200f/5ec4fa7cf0611d7ddd74200f.jpg,TV,douglas-martins-izzo,311.0,Q2,tv
+5d4bf248cf0b3a0f3f358008,Colombia,co,am,image,assets/5d4bf248cf0b3a0f3f358008/5d4bf248cf0b3a0f3f358008.jpg,TV,collo-ocoro,143.0,Q2,tv
+5ec4fa89f0611d7ddd742084,Brazil,br,am,image,assets/5ec4fa89f0611d7ddd742084/5ec4fa89f0611d7ddd742084.jpg,TV,cancela-reis,284.0,Q2,tv
+5d4bf2fccf0b3a0f3f35948e,Bolivia,bo,am,image,assets/5d4bf2fccf0b3a0f3f35948e/5d4bf2fccf0b3a0f3f35948e.jpg,TV,kjapa,254.0,Q2,tv
+5d4bdfa2cf0b3a0f3f337f7b,Peru,pe,am,image,assets/5d4bdfa2cf0b3a0f3f337f7b/5d4bdfa2cf0b3a0f3f337f7b.JPG,TV,ramos-perez,180.0,Q2,tv
+5d4bf26ecf0b3a0f3f35838c,Colombia,co,am,image,assets/5d4bf26ecf0b3a0f3f35838c/5d4bf26ecf0b3a0f3f35838c.jpg,TV,iquira-collo,144.688254,Q2,tv
+5d4be15acf0b3a0f3f33aec3,Brazil,br,am,image,assets/5d4be15acf0b3a0f3f33aec3/5d4be15acf0b3a0f3f33aec3.JPG,TV,dos-santos,368.0,Q2,tv
+5f419d3eaf84b4be520ed144,Peru,pe,am,image,assets/5f419d3eaf84b4be520ed144/5f419d3eaf84b4be520ed144.JPG,"Visit,TV",martinez-garamendi,246.0,Q2,tv
+5ec4f882f0611d7ddd740f6d,Guatemala,gt,am,image,assets/5ec4f882f0611d7ddd740f6d/5ec4f882f0611d7ddd740f6d.jpg,TV,castro,270.0,Q2,tv
+5ec4fb68f0611d7ddd7427d9,Colombia,co,am,image,assets/5ec4fb68f0611d7ddd7427d9/5ec4fb68f0611d7ddd7427d9.jpg,TV,osorio-betancur,409.0,Q3,tv
+5d4be192cf0b3a0f3f33b43d,Brazil,br,am,image,assets/5d4be192cf0b3a0f3f33b43d/5d4be192cf0b3a0f3f33b43d.jpg,TV,souza-lima,685.0,Q3,tv
+5d4be53ecf0b3a0f3f341930,United States,us,am,image,assets/5d4be53ecf0b3a0f3f341930/5d4be53ecf0b3a0f3f341930.JPG,TV,macintyre,855.0,Q3,tv
+5ec4fb56f0611d7ddd74274f,Colombia,co,am,image,assets/5ec4fb56f0611d7ddd74274f/5ec4fb56f0611d7ddd74274f.jpg,TV,marquez-arabia,447.0,Q3,tv
+5d4bdec9cf0b3a0f3f33693f,United States,us,am,image,assets/5d4bdec9cf0b3a0f3f33693f/5d4bdec9cf0b3a0f3f33693f.jpg,TV,duncan,800.0,Q3,tv
+5d4be423cf0b3a0f3f33f92c,United States,us,am,image,assets/5d4be423cf0b3a0f3f33f92c/5d4be423cf0b3a0f3f33f92c.jpg,TV,freeman,996.0,Q3,tv
+5d4be172cf0b3a0f3f33b18d,Brazil,br,am,image,assets/5d4be172cf0b3a0f3f33b18d/5d4be172cf0b3a0f3f33b18d.jpg,TV,costa-franklim,456.0,Q3,tv
+5d4bde3dcf0b3a0f3f335c91,United States,us,am,image,assets/5d4bde3dcf0b3a0f3f335c91/5d4bde3dcf0b3a0f3f335c91.jpg,TV,mortensen,898.0,Q3,tv
+5d4bde51cf0b3a0f3f335e8f,United States,us,am,image,assets/5d4bde51cf0b3a0f3f335e8f/5d4bde51cf0b3a0f3f335e8f.jpg,TV,stringini,960.0,Q3,tv
+5fa3248aa4fd6183305dfcb9,Colombia,co,am,image,assets/5fa3248aa4fd6183305dfcb9/43d682455d20eb9bf0b33426ba1a3413/5fa3248aa4fd6183305dfcb9.jpeg,"Visit,TV",gonzalez-giraldo,1025.0,Q3,tv
+5f80a1fe959799d2a04bd0e8,Colombia,co,am,image,assets/5f80a1fe959799d2a04bd0e8/5f80a1fe959799d2a04bd0e8.jpg,"Visit,TV",cabrera-vasquez,1051.0,Q4,tv
+5d4bef87cf0b3a0f3f3536c0,Mexico,mx,am,image,assets/5d4bef87cf0b3a0f3f3536c0/5d4bef87cf0b3a0f3f3536c0.jpg,TV,pereyra,1080.0,Q4,tv
+5f4fad690ed38d3a1562c698,Colombia,co,am,image,assets/5f4fad690ed38d3a1562c698/5f4fad690ed38d3a1562c698.jpg,"Visit,TV",nieves-barliza,1699.0,Q4,tv
+5ec4fb6ef0611d7ddd74280a,Colombia,co,am,image,assets/5ec4fb6ef0611d7ddd74280a/5ec4fb6ef0611d7ddd74280a.JPG,TV,arrieta-diaz,1392.0,Q4,tv
+5d4bef7ecf0b3a0f3f3535ac,Mexico,mx,am,image,assets/5d4bef7ecf0b3a0f3f3535ac/5d4bef7ecf0b3a0f3f3535ac.jpg,TV,ramirez-sanchez,1098.831667,Q4,tv
+5ec4fb24f0611d7ddd742597,Colombia,co,am,image,assets/5ec4fb24f0611d7ddd742597/5ec4fb24f0611d7ddd742597.jpg,TV,cruz,1963.0,Q4,tv
+5d4bdfc0cf0b3a0f3f33820f,Colombia,co,am,image,assets/5d4bdfc0cf0b3a0f3f33820f/5d4bdfc0cf0b3a0f3f33820f.jpg,TV,cadena,2044.0,Q4,tv
+5d4bed2fcf0b3a0f3f34f23e,United States,us,am,image,assets/5d4bed2fcf0b3a0f3f34f23e/5d4bed2fcf0b3a0f3f34f23e.jpg,TV,grabowski,2041.0,Q4,tv
+5d4be3e2cf0b3a0f3f33f1c7,United States,us,am,image,assets/5d4be3e2cf0b3a0f3f33f1c7/5d4be3e2cf0b3a0f3f33f1c7.jpg,TV,melissa-s,1796.0,Q4,tv
+5d4bef9fcf0b3a0f3f353874,Mexico,mx,am,image,assets/5d4bef9fcf0b3a0f3f353874/5d4bef9fcf0b3a0f3f353874.jpg,TV,jaimes,1092.552629,Q4,tv
+5d4be429cf0b3a0f3f33f9d8,United States,us,am,image,assets/5d4be429cf0b3a0f3f33f9d8/5d4be429cf0b3a0f3f33f9d8.JPG,TV,diamond,4446.0,Q5,tv
+5d4bebe1cf0b3a0f3f34d0dd,United States,us,am,image,assets/5d4bebe1cf0b3a0f3f34d0dd/5d4bebe1cf0b3a0f3f34d0dd.jpg,TV,howard,4650.0,Q5,tv
+5ec4f9f5f0611d7ddd741bca,Colombia,co,am,image,assets/5ec4f9f5f0611d7ddd741bca/5ec4f9f5f0611d7ddd741bca.jpg,TV,maria-toro,3108.0,Q5,tv
+5ec4f60ff4a4fb7dc0387c6c,Colombia,co,am,image,assets/5ec4f60ff4a4fb7dc0387c6c/5ec4f60ff4a4fb7dc0387c6c.JPG,TV,lara-montoya,6030.0,Q5,tv
+5ec4f82bf0611d7ddd740c7c,United States,us,am,image,assets/5ec4f82bf0611d7ddd740c7c/5ec4f82bf0611d7ddd740c7c.JPG,TV,rivera,3478.0,Q5,tv
+5f860b977299b50367922969,Colombia,co,am,image,assets/5f860b977299b50367922969/3ed42370149f7625ae65c6d38e1d4ecb/5f860b977299b50367922969.jpg,"Visit,TV",ochoa-lotero,4275.0,Q5,tv
+5d4be1b2cf0b3a0f3f33b7eb,Brazil,br,am,image,assets/5d4be1b2cf0b3a0f3f33b7eb/5d4be1b2cf0b3a0f3f33b7eb.jpg,TV,sacramento-de-souza,3356.0,Q5,tv
+5f889f117e7572bdc5bad0ba,Colombia,co,am,image,assets/5f889f117e7572bdc5bad0ba/3b7de514af7037f54e1f4c7be4183000/5f889f117e7572bdc5bad0ba.jpg,"Visit,TV",castano,3325.0,Q5,tv
+5d4befa5cf0b3a0f3f353932,Mexico,mx,am,image,assets/5d4befa5cf0b3a0f3f353932/5d4befa5cf0b3a0f3f353932.jpg,TV,ortiz,6342.0,Q5,tv
+5d4be3cccf0b3a0f3f33ef2b,United States,us,am,image,assets/5d4be3cccf0b3a0f3f33ef2b/5d4be3cccf0b3a0f3f33ef2b.jpg,TV,theresa-s,3450.0,Q5,tv
+5d4bded6cf0b3a0f3f336a8d,Serbia,rs,eu,image,assets/5d4bded6cf0b3a0f3f336a8d/5d4bded6cf0b3a0f3f336a8d.jpg,TV,stan,239.0,Q2,tv
+5d4bdefacf0b3a0f3f336e97,Serbia,rs,eu,image,assets/5d4bdefacf0b3a0f3f336e97/5d4bdefacf0b3a0f3f336e97.jpg,TV,dan,430.0,Q3,tv
+5d4bdefecf0b3a0f3f336efb,Serbia,rs,eu,image,assets/5d4bdefecf0b3a0f3f336efb/5d4bdefecf0b3a0f3f336efb.jpg,"Most loved item,TV",dan,430.0,Q3,tv
+5ec4fbeaf0611d7ddd742c1d,France,fr,eu,image,assets/5ec4fbeaf0611d7ddd742c1d/5ec4fbeaf0611d7ddd742c1d.jpg,TV,rayez,875.0,Q3,tv
+5d4be8fbcf0b3a0f3f347c56,Ukraine,ua,eu,image,assets/5d4be8fbcf0b3a0f3f347c56/5d4be8fbcf0b3a0f3f347c56.jpg,TV,krivko,475.7742547,Q3,tv
+5ec4fc42f0611d7ddd742f02,France,fr,eu,image,assets/5ec4fc42f0611d7ddd742f02/5ec4fc42f0611d7ddd742f02.jpg,TV,chamaitte,803.0,Q3,tv
+5d4be950cf0b3a0f3f348640,Ukraine,ua,eu,image,assets/5d4be950cf0b3a0f3f348640/5d4be950cf0b3a0f3f348640.jpg,TV,dudakova,694.0,Q3,tv
+5d4bdfb0cf0b3a0f3f338093,Netherlands,nl,eu,image,assets/5d4bdfb0cf0b3a0f3f338093/5d4bdfb0cf0b3a0f3f338093.jpg,TV,peters,1038.0,Q4,tv
+5d4bdf7acf0b3a0f3f337b6d,Serbia,rs,eu,image,assets/5d4bdf7acf0b3a0f3f337b6d/5d4bdf7acf0b3a0f3f337b6d.jpg,TV,rajkovic,1193.0,Q4,tv
+5d4bdfb7cf0b3a0f3f338139,Netherlands,nl,eu,image,assets/5d4bdfb7cf0b3a0f3f338139/5d4bdfb7cf0b3a0f3f338139.jpg,TV,bogaardt,1540.0,Q4,tv
+5d4bdf86cf0b3a0f3f337c99,Romania,ro,eu,image,assets/5d4bdf86cf0b3a0f3f337c99/5d4bdf86cf0b3a0f3f337c99.jpg,TV,orlea,2379.0,Q4,tv
+5d4be0d8cf0b3a0f3f339fbb,Netherlands,nl,eu,image,assets/5d4be0d8cf0b3a0f3f339fbb/5d4be0d8cf0b3a0f3f339fbb.JPG,TV,ploum,2370.0,Q4,tv
+5d4be0d2cf0b3a0f3f339ef1,Netherlands,nl,eu,image,assets/5d4be0d2cf0b3a0f3f339ef1/5d4be0d2cf0b3a0f3f339ef1.JPG,TV,jocher,1998.0,Q4,tv
+5d4be034cf0b3a0f3f338cf2,Netherlands,nl,eu,image,assets/5d4be034cf0b3a0f3f338cf2/5d4be034cf0b3a0f3f338cf2.JPG,TV,van-der-burgt,1816.0,Q4,tv
+5d4bde9dcf0b3a0f3f33657d,Serbia,rs,eu,image,assets/5d4bde9dcf0b3a0f3f33657d/5d4bde9dcf0b3a0f3f33657d.jpg,TV,zivojinovic,1838.0,Q4,tv
+5d4be02dcf0b3a0f3f338c42,Netherlands,nl,eu,image,assets/5d4be02dcf0b3a0f3f338c42/5d4be02dcf0b3a0f3f338c42.JPG,TV,van-kilsdonk,1260.0,Q4,tv
+5ec4f5c3f4a4fb7dc03879cc,Russia,ru,eu,image,assets/5ec4f5c3f4a4fb7dc03879cc/5ec4f5c3f4a4fb7dc03879cc.jpg,TV,merkushev,2642.0,Q4,tv
+5ec4f931f0611d7ddd741548,Spain,es,eu,image,assets/5ec4f931f0611d7ddd741548/5ec4f931f0611d7ddd741548.jpg,TV,tejada,2838.0,Q5,tv
+5ed6eb15b323611c359eb448,France,fr,eu,image,assets/5ed6eb15b323611c359eb448/5ed6eb15b323611c359eb448.jpg,"Visit,TV",carrillo,7110.0,Q5,tv
+605a7a18d746332dd1aad5e9,Denmark,dk,eu,image,assets/605a7a18d746332dd1aad5e9/450e5e8ac09989db2bc4d67e5d55521f/605a7a18d746332dd1aad5e9.jpg,"Visit,TV",hansen-refsing,5343.0,Q5,tv
+5efb846502cbd4d91ac48b22,Austria,at,eu,image,assets/5efb846502cbd4d91ac48b22/5efb846502cbd4d91ac48b22.JPG,"Visit,TV",posch,3003.0,Q5,tv
+5d4bde2acf0b3a0f3f335ad9,Italy,it,eu,image,assets/5d4bde2acf0b3a0f3f335ad9/5d4bde2acf0b3a0f3f335ad9.JPG,TV,bravo,3536.0,Q5,tv
+5ec4fc2bf0611d7ddd742e3c,Turkey,tr,eu,image,assets/5ec4fc2bf0611d7ddd742e3c/5ec4fc2bf0611d7ddd742e3c.JPG,TV,oztimur,3295.0,Q5,tv
+5ec4f8ecf0611d7ddd7412f9,Spain,es,eu,image,assets/5ec4f8ecf0611d7ddd7412f9/5ec4f8ecf0611d7ddd7412f9.jpg,TV,garrido,4253.0,Q5,tv
+5d4bde8bcf0b3a0f3f3363d5,Netherlands,nl,eu,image,assets/5d4bde8bcf0b3a0f3f3363d5/5d4bde8bcf0b3a0f3f3363d5.JPG,TV,rasing,3150.0,Q5,tv
+5ec4f925f0611d7ddd7414dd,Spain,es,eu,image,assets/5ec4f925f0611d7ddd7414dd/5ec4f925f0611d7ddd7414dd.jpg,TV,juan-caballero,7639.0,Q5,tv
+5d4bdf89cf0b3a0f3f337cfd,Romania,ro,eu,image,assets/5d4bdf89cf0b3a0f3f337cfd/5d4bdf89cf0b3a0f3f337cfd.jpg,TV,bratu,6256.0,Q5,tv
+5d4bf124cf0b3a0f3f356074,Cote d'Ivoire,ci,af,image,assets/5d4bf124cf0b3a0f3f356074/5d4bf124cf0b3a0f3f356074.jpg,Stove/hob,fofana,41.76707666,Q1,stove/hob
+5d4bf056cf0b3a0f3f354bf8,Liberia,lr,af,image,assets/5d4bf056cf0b3a0f3f354bf8/5d4bf056cf0b3a0f3f354bf8.jpg,Stove/hob,doe,87.0,Q1,stove/hob
+5d4bee3bcf0b3a0f3f351044,Rwanda,rw,af,image,assets/5d4bee3bcf0b3a0f3f351044/5d4bee3bcf0b3a0f3f351044.jpg,Stove/hob,ntambara,72.45943262,Q1,stove/hob
+5d4bed93cf0b3a0f3f34fdd8,Tunisia,tn,af,image,assets/5d4bed93cf0b3a0f3f34fdd8/5d4bed93cf0b3a0f3f34fdd8.jpg,Stove/hob,azouze,116.4314704,Q1,stove/hob
+5d4befc5cf0b3a0f3f353ce2,Malawi,mw,af,image,assets/5d4befc5cf0b3a0f3f353ce2/5d4befc5cf0b3a0f3f353ce2.jpg,Stove/hob,banda,50.18041676,Q1,stove/hob
+5d4bef46cf0b3a0f3f352f18,Nigeria,ng,af,image,assets/5d4bef46cf0b3a0f3f352f18/5d4bef46cf0b3a0f3f352f18.jpg,Stove/hob,shemede,124.2390709,Q1,stove/hob
+5d4bf009cf0b3a0f3f354454,Malawi,mw,af,image,assets/5d4bf009cf0b3a0f3f354454/5d4bf009cf0b3a0f3f354454.jpg,Stove/hob,kenede,63.91344038,Q1,stove/hob
+5d4bf098cf0b3a0f3f355298,Cote d'Ivoire,ci,af,image,assets/5d4bf098cf0b3a0f3f355298/5d4bf098cf0b3a0f3f355298.jpg,Stove/hob,konan,60.75268981,Q1,stove/hob
+5d4bef10cf0b3a0f3f3528c6,Nigeria,ng,af,image,assets/5d4bef10cf0b3a0f3f3528c6/5d4bef10cf0b3a0f3f3528c6.jpg,"Stove/hob,Stove/hob,Stove/hob",ibojionu,72.0,Q1,stove/hob
+5d4bf3a7cf0b3a0f3f35a64c,Burkina Faso,bf,af,image,assets/5d4bf3a7cf0b3a0f3f35a64c/5d4bf3a7cf0b3a0f3f35a64c.jpg,Stove/hob,bande,52.95427615,Q1,stove/hob
+5d4bf435cf0b3a0f3f35b3ce,South Africa,za,af,image,assets/5d4bf435cf0b3a0f3f35b3ce/5d4bf435cf0b3a0f3f35b3ce.jpg,Stove/hob,vanto,148.0735319,Q2,stove/hob
+5d4bdf74cf0b3a0f3f337ab5,Tanzania,tz,af,image,assets/5d4bdf74cf0b3a0f3f337ab5/5d4bdf74cf0b3a0f3f337ab5.jpg,Stove/hob,laizer,164.0,Q2,stove/hob
+5ec4fb17f0611d7ddd742535,Ghana,gh,af,image,assets/5ec4fb17f0611d7ddd742535/5ec4fb17f0611d7ddd742535.jpg,Stove/hob,ampiah,213.0,Q2,stove/hob
+5ec4fad5f0611d7ddd742308,Ghana,gh,af,image,assets/5ec4fad5f0611d7ddd742308/5ec4fad5f0611d7ddd742308.jpg,Stove/hob,nkrumah,375.0,Q2,stove/hob
+5d4bdee3cf0b3a0f3f336c15,Cameroon,cm,af,image,assets/5d4bdee3cf0b3a0f3f336c15/5d4bdee3cf0b3a0f3f336c15.jpg,Stove/hob,lekono,301.0,Q2,stove/hob
+5d4bdedfcf0b3a0f3f336b8f,Cameroon,cm,af,image,assets/5d4bdedfcf0b3a0f3f336b8f/5d4bdedfcf0b3a0f3f336b8f.jpg,"Stove/hob,Oven",meke,352.0,Q2,stove/hob
+5d4bdf65cf0b3a0f3f33793d,Tanzania,tz,af,image,assets/5d4bdf65cf0b3a0f3f33793d/5d4bdf65cf0b3a0f3f33793d.jpg,Stove/hob,nganashe-s,228.0,Q2,stove/hob
+5d4bdf37cf0b3a0f3f3374eb,Togo,tg,af,image,assets/5d4bdf37cf0b3a0f3f3374eb/5d4bdf37cf0b3a0f3f3374eb.JPG,"Stove/hob,Cooking pots",ayanou-ahobli,321.0,Q2,stove/hob
+5d4be4e4cf0b3a0f3f340ec6,Cameroon,cm,af,image,assets/5d4be4e4cf0b3a0f3f340ec6/5d4be4e4cf0b3a0f3f340ec6.jpg,Stove/hob,mbusya,174.0,Q2,stove/hob
+5d4bee4acf0b3a0f3f35120c,Rwanda,rw,af,image,assets/5d4bee4acf0b3a0f3f35120c/5d4bee4acf0b3a0f3f35120c.jpg,Stove/hob,nshimyimana,250.7905551,Q2,stove/hob
+5d4be289cf0b3a0f3f33ce3f,South Africa,za,af,image,assets/5d4be289cf0b3a0f3f33ce3f/5d4be289cf0b3a0f3f33ce3f.jpg,Stove/hob,ngethu,751.0,Q3,stove/hob
+5d4be253cf0b3a0f3f33c849,Kenya,ke,af,image,assets/5d4be253cf0b3a0f3f33c849/7e196bd8d964b2ab24b27cdc0515a13c/5d4be253cf0b3a0f3f33c849.JPG,"Visit,Stove/hob",onyango,461.0,Q3,stove/hob
+5ec4f9dcf0611d7ddd741afb,Ethiopia,et,af,image,assets/5ec4f9dcf0611d7ddd741afb/5ec4f9dcf0611d7ddd741afb.JPG,Stove/hob,arusa,719.0,Q3,stove/hob
+5d4bee55cf0b3a0f3f351326,Rwanda,rw,af,image,assets/5d4bee55cf0b3a0f3f351326/5d4bee55cf0b3a0f3f351326.jpg,Stove/hob,niyonsaba,460.0,Q3,stove/hob
+5ec4f97cf0611d7ddd7417c4,Cameroon,cm,af,image,assets/5ec4f97cf0611d7ddd7417c4/5ec4f97cf0611d7ddd7417c4.jpg,Stove/hob,engola,745.0,Q3,stove/hob
+5ec4f9cef0611d7ddd741a7d,Ethiopia,et,af,image,assets/5ec4f9cef0611d7ddd741a7d/5ec4f9cef0611d7ddd741a7d.JPG,Stove/hob,gachino,604.0,Q3,stove/hob
+5d4bf231cf0b3a0f3f357dca,Egypt,eg,af,image,assets/5d4bf231cf0b3a0f3f357dca/5d4bf231cf0b3a0f3f357dca.jpg,Stove/hob,said-01,775.1004718,Q3,stove/hob
+5d4bdf26cf0b3a0f3f337333,Togo,tg,af,image,assets/5d4bdf26cf0b3a0f3f337333/5d4bdf26cf0b3a0f3f337333.JPG,Stove/hob,messan,670.0,Q3,stove/hob
+5ec4fa30f0611d7ddd741dbe,Ethiopia,et,af,image,assets/5ec4fa30f0611d7ddd741dbe/5ec4fa30f0611d7ddd741dbe.JPG,Stove/hob,mozambique,623.0,Q3,stove/hob
+5d4be006cf0b3a0f3f33894e,Nigeria,ng,af,image,assets/5d4be006cf0b3a0f3f33894e/5d4be006cf0b3a0f3f33894e.jpg,"Stove/hob,Oven",laoye,725.0,Q3,stove/hob
+5d4be4c9cf0b3a0f3f340ba4,Cameroon,cm,af,image,assets/5d4be4c9cf0b3a0f3f340ba4/5d4be4c9cf0b3a0f3f340ba4.jpg,Stove/hob,ngono,1116.0,Q4,stove/hob
+5d4be03acf0b3a0f3f338da4,Nigeria,ng,af,image,assets/5d4be03acf0b3a0f3f338da4/5d4be03acf0b3a0f3f338da4.JPG,"Oven,Stove/hob",ojah,1643.0,Q4,stove/hob
+5d4bf22acf0b3a0f3f357d02,Egypt,eg,af,image,assets/5d4bf22acf0b3a0f3f357d02/5d4bf22acf0b3a0f3f357d02.jpg,Stove/hob,said,1493.683201,Q4,stove/hob
+5d4be672cf0b3a0f3f343b13,Tanzania,tz,af,image,assets/5d4be672cf0b3a0f3f343b13/5d4be672cf0b3a0f3f343b13.jpg,"Stove/hob,Oven",walugembe,1050.70879,Q4,stove/hob
+5d4be22ecf0b3a0f3f33c475,Egypt,eg,af,image,assets/5d4be22ecf0b3a0f3f33c475/5d4be22ecf0b3a0f3f33c475.JPG,Stove/hob,hassan,1610.0,Q4,stove/hob
+5d4be010cf0b3a0f3f338a32,Nigeria,ng,af,image,assets/5d4be010cf0b3a0f3f338a32/5d4be010cf0b3a0f3f338a32.jpg,Stove/hob,amama,3750.0,Q5,stove/hob
+5ec4fa3df0611d7ddd741e37,Ethiopia,et,af,image,assets/5ec4fa3df0611d7ddd741e37/5ec4fa3df0611d7ddd741e37.JPG,Stove/hob,tessema,6316.0,Q5,stove/hob
+5d4beb7ecf0b3a0f3f34c540,Kenya,ke,af,image,assets/5d4beb7ecf0b3a0f3f34c540/5d4beb7ecf0b3a0f3f34c540.jpg,Stove/hob,kimathi,3267.97326,Q5,stove/hob
+5d4be61acf0b3a0f3f3430fd,South Africa,za,af,image,assets/5d4be61acf0b3a0f3f3430fd/5d4be61acf0b3a0f3f3430fd.jpg,Stove/hob,hearne,3755.0,Q5,stove/hob
+5ec4f878f0611d7ddd740f18,Nepal,np,as,image,assets/5ec4f878f0611d7ddd740f18/5ec4f878f0611d7ddd740f18.jpg,Stove/hob,devi,123.0,Q1,stove/hob
+5d4beb14cf0b3a0f3f34ba38,India,in,as,image,assets/5d4beb14cf0b3a0f3f34ba38/5d4beb14cf0b3a0f3f34ba38.jpg,Stove/hob,das,80.08499836,Q1,stove/hob
+5d4bf2cfcf0b3a0f3f358f18,Cambodia,kh,as,image,assets/5d4bf2cfcf0b3a0f3f358f18/5d4bf2cfcf0b3a0f3f358f18.jpg,Stove/hob,ourn,116.7446439,Q1,stove/hob
+5d4beebdcf0b3a0f3f351f20,Philippines,ph,as,image,assets/5d4beebdcf0b3a0f3f351f20/5d4beebdcf0b3a0f3f351f20.jpg,Stove/hob,oraga-reyes,97.63936288,Q1,stove/hob
+5d4bef65cf0b3a0f3f3532c2,Nepal,np,as,image,assets/5d4bef65cf0b3a0f3f3532c2/5d4bef65cf0b3a0f3f3532c2.jpg,Stove/hob,maharjan,84.23636022,Q1,stove/hob
+5d4bef59cf0b3a0f3f353156,Nepal,np,as,image,assets/5d4bef59cf0b3a0f3f353156/5d4bef59cf0b3a0f3f353156.jpg,Stove/hob,tamang-01,131.5512222,Q1,stove/hob
+5d4be79acf0b3a0f3f345bf6,Bangladesh,bd,as,image,assets/5d4be79acf0b3a0f3f345bf6/5d4be79acf0b3a0f3f345bf6.jpg,Stove/hob,ali,96.0,Q1,stove/hob
+5d4be794cf0b3a0f3f345b40,Bangladesh,bd,as,image,assets/5d4be794cf0b3a0f3f345b40/5d4be794cf0b3a0f3f345b40.jpg,Stove/hob,sheik,78.0,Q1,stove/hob
+5d4beafdcf0b3a0f3f34b77a,India,in,as,image,assets/5d4beafdcf0b3a0f3f34b77a/5d4beafdcf0b3a0f3f34b77a.jpg,Stove/hob,karan,64.87332687,Q1,stove/hob
+5d4be7a2cf0b3a0f3f345cdc,Bangladesh,bd,as,image,assets/5d4be7a2cf0b3a0f3f345cdc/5d4be7a2cf0b3a0f3f345cdc.jpg,Stove/hob,mondol,85.47677069,Q1,stove/hob
+5ec4f8dff0611d7ddd74128d,Pakistan,pk,as,image,assets/5ec4f8dff0611d7ddd74128d/5ec4f8dff0611d7ddd74128d.jpg,Stove/hob,abdul-majeed,251.0,Q2,stove/hob
+5d4bf29ecf0b3a0f3f358950,China,cn,as,image,assets/5d4bf29ecf0b3a0f3f358950/5d4bf29ecf0b3a0f3f358950.jpg,Stove/hob,kamijo-s,315.0,Q2,stove/hob
+5d4be9b5cf0b3a0f3f3491fe,Jordan,jo,as,image,assets/5d4be9b5cf0b3a0f3f3491fe/5d4be9b5cf0b3a0f3f3491fe.jpg,Stove/hob,ananzeh,248.6618187,Q2,stove/hob
+5ec4f7cef0611d7ddd740958,India,in,as,image,assets/5ec4f7cef0611d7ddd740958/5ec4f7cef0611d7ddd740958.JPG,Stove/hob,rani-01,331.0,Q2,stove/hob
+5d4bed17cf0b3a0f3f34efdc,Vietnam,vn,as,image,assets/5d4bed17cf0b3a0f3f34efdc/5d4bed17cf0b3a0f3f34efdc.jpg,Stove/hob,kha,245.9813854,Q2,stove/hob
+5d4bf30ecf0b3a0f3f359698,Cambodia,kh,as,image,assets/5d4bf30ecf0b3a0f3f359698/5d4bf30ecf0b3a0f3f359698.jpg,Stove/hob,puk,306.7166772,Q2,stove/hob
+5d4bef6bcf0b3a0f3f353378,Nepal,np,as,image,assets/5d4bef6bcf0b3a0f3f353378/5d4bef6bcf0b3a0f3f353378.jpg,Stove/hob,lama,201.0990882,Q2,stove/hob
+5d4be77ccf0b3a0f3f345876,Indonesia,id,as,image,assets/5d4be77ccf0b3a0f3f345876/5d4be77ccf0b3a0f3f345876.jpg,Stove/hob,rupa,234.0,Q2,stove/hob
+5d4beac6cf0b3a0f3f34b104,India,in,as,image,assets/5d4beac6cf0b3a0f3f34b104/5d4beac6cf0b3a0f3f34b104.jpg,Stove/hob,munshi,170.0,Q2,stove/hob
+5d4bf192cf0b3a0f3f356bca,India,in,as,image,assets/5d4bf192cf0b3a0f3f356bca/5d4bf192cf0b3a0f3f356bca.jpg,Stove/hob,durai,245.2917235,Q2,stove/hob
+5d4bee85cf0b3a0f3f3518c8,Philippines,ph,as,image,assets/5d4bee85cf0b3a0f3f3518c8/5d4bee85cf0b3a0f3f3518c8.jpg,Stove/hob,legarda,865.0,Q3,stove/hob
+5d4be704cf0b3a0f3f344bd4,South Korea,kr,as,image,assets/5d4be704cf0b3a0f3f344bd4/5d4be704cf0b3a0f3f344bd4.jpg,"Stove/hob,Cooking pots",hang,660.3833682,Q3,stove/hob
+5d4bf28fcf0b3a0f3f358776,China,cn,as,image,assets/5d4bf28fcf0b3a0f3f358776/5d4bf28fcf0b3a0f3f358776.jpg,Stove/hob,yang,694.218371,Q3,stove/hob
+5d4bf145cf0b3a0f3f35644c,Indonesia,id,as,image,assets/5d4bf145cf0b3a0f3f35644c/5d4bf145cf0b3a0f3f35644c.jpg,Stove/hob,yanvar,1017.0,Q3,stove/hob
+5d4be71dcf0b3a0f3f344ecc,South Korea,kr,as,image,assets/5d4be71dcf0b3a0f3f344ecc/5d4be71dcf0b3a0f3f344ecc.jpg,"Stove/hob,Cooking pots",lim,826.7009246,Q3,stove/hob
+5d4be7f2cf0b3a0f3f346533,China,cn,as,image,assets/5d4be7f2cf0b3a0f3f346533/5d4be7f2cf0b3a0f3f346533.jpg,"Stove/hob,Cooking utensils",bianma-s,960.0,Q3,stove/hob
+5d4be1e1cf0b3a0f3f33bc07,Mongolia,mn,as,image,assets/5d4be1e1cf0b3a0f3f33bc07/5d4be1e1cf0b3a0f3f33bc07.JPG,"Stove/hob,Smoke and steam exit",gombo,420.0,Q3,stove/hob
+5d4bf2a2cf0b3a0f3f3589c8,China,cn,as,image,assets/5d4bf2a2cf0b3a0f3f3589c8/5d4bf2a2cf0b3a0f3f3589c8.jpg,Stove/hob,qin,494.0,Q3,stove/hob
+5d4be810cf0b3a0f3f346893,China,cn,as,image,assets/5d4be810cf0b3a0f3f346893/5d4be810cf0b3a0f3f346893.jpg,"Cooking pots,Stove/hob",an,450.0,Q3,stove/hob
+5d4bf284cf0b3a0f3f358620,China,cn,as,image,assets/5d4bf284cf0b3a0f3f358620/5d4bf284cf0b3a0f3f358620.jpg,Stove/hob,pan,416.2045876,Q3,stove/hob
+5d4bdf14cf0b3a0f3f33714b,Indonesia,id,as,image,assets/5d4bdf14cf0b3a0f3f33714b/5d4bdf14cf0b3a0f3f33714b.JPG,Stove/hob,carolina,2594.0,Q4,stove/hob
+5d4be7ffcf0b3a0f3f3466cf,China,cn,as,image,assets/5d4be7ffcf0b3a0f3f3466cf/5d4be7ffcf0b3a0f3f3466cf.jpg,"Stove/hob,Cooking utensils",li-01,1546.213644,Q4,stove/hob
+5d4be7f9cf0b3a0f3f346603,China,cn,as,image,assets/5d4be7f9cf0b3a0f3f346603/5d4be7f9cf0b3a0f3f346603.jpg,"Stove/hob,Smoke and steam exit",chen,1325.325981,Q4,stove/hob
+5ec4fab3f0611d7ddd7421e0,Iran,ir,as,image,assets/5ec4fab3f0611d7ddd7421e0/5ec4fab3f0611d7ddd7421e0.jpg,Stove/hob,sarlak,1841.0,Q4,stove/hob
+5d4bdfcacf0b3a0f3f33830c,Pakistan,pk,as,image,assets/5d4bdfcacf0b3a0f3f33830c/5d4bdfcacf0b3a0f3f33830c.jpg,"Stove/hob,Oven",rameez,1208.0,Q4,stove/hob
+5d4be64ccf0b3a0f3f3436a3,China,cn,as,image,assets/5d4be64ccf0b3a0f3f3436a3/5d4be64ccf0b3a0f3f3436a3.JPG,Stove/hob,zhang,1278.0,Q4,stove/hob
+5d4bef4dcf0b3a0f3f352fe2,Nepal,np,as,image,assets/5d4bef4dcf0b3a0f3f352fe2/5d4bef4dcf0b3a0f3f352fe2.jpg,Stove/hob,basnet,1747.0,Q4,stove/hob
+5d4bedc8cf0b3a0f3f350414,Thailand,th,as,image,assets/5d4bedc8cf0b3a0f3f350414/5d4bedc8cf0b3a0f3f350414.jpg,Stove/hob,chueachom,1045.845783,Q4,stove/hob
+5d4be13ccf0b3a0f3f33ab43,India,in,as,image,assets/5d4be13ccf0b3a0f3f33ab43/5d4be13ccf0b3a0f3f33ab43.jpg,Stove/hob,bose,2499.0,Q4,stove/hob
+5d4be655cf0b3a0f3f3437b1,China,cn,as,image,assets/5d4be655cf0b3a0f3f3437b1/5d4be655cf0b3a0f3f3437b1.JPG,Stove/hob,fan,1350.0,Q4,stove/hob
+5d4be125cf0b3a0f3f33a89f,India,in,as,image,assets/5d4be125cf0b3a0f3f33a89f/5d4be125cf0b3a0f3f33a89f.JPG,Stove/hob,kulkarni,2842.0,Q5,stove/hob
+5d4be0e8cf0b3a0f3f33a18f,India,in,as,image,assets/5d4be0e8cf0b3a0f3f33a18f/5d4be0e8cf0b3a0f3f33a18f.jpg,Stove/hob,ashe,4732.0,Q5,stove/hob
+5d4bdff9cf0b3a0f3f338838,Pakistan,pk,as,image,assets/5d4bdff9cf0b3a0f3f338838/5d4bdff9cf0b3a0f3f338838.jpg,Stove/hob,jawed,4440.0,Q5,stove/hob
+5d4bf4a4cf0b3a0f3f35bf70,Vietnam,vn,as,image,assets/5d4bf4a4cf0b3a0f3f35bf70/5d4bf4a4cf0b3a0f3f35bf70.jpg,Stove/hob,tran,2944.177918,Q5,stove/hob
+5d4be0a5cf0b3a0f3f3399cb,India,in,as,image,assets/5d4be0a5cf0b3a0f3f3399cb/5d4be0a5cf0b3a0f3f3399cb.jpg,Stove/hob,barve,5621.0,Q5,stove/hob
+5d4be106cf0b3a0f3f33a4fb,India,in,as,image,assets/5d4be106cf0b3a0f3f33a4fb/5d4be106cf0b3a0f3f33a4fb.JPG,Stove/hob,singh,3611.0,Q5,stove/hob
+5d4be818cf0b3a0f3f346987,China,cn,as,image,assets/5d4be818cf0b3a0f3f346987/5d4be818cf0b3a0f3f346987.jpg,"Cooking pots,Stove/hob",bi,10097.72176,Q5,stove/hob
+5d4be12dcf0b3a0f3f33a97d,India,in,as,image,assets/5d4be12dcf0b3a0f3f33a97d/5d4be12dcf0b3a0f3f33a97d.jpg,Stove/hob,bahirat,4621.0,Q5,stove/hob
+5d4be821cf0b3a0f3f346a87,China,cn,as,image,assets/5d4be821cf0b3a0f3f346a87/5d4be821cf0b3a0f3f346a87.jpg,"Stove/hob,Cooking pots",wong,3318.441334,Q5,stove/hob
+5d4be116cf0b3a0f3f33a6d3,India,in,as,image,assets/5d4be116cf0b3a0f3f33a6d3/5d4be116cf0b3a0f3f33a6d3.jpeg,Stove/hob,datta,3477.0,Q5,stove/hob
+5d4bf44ccf0b3a0f3f35b67a,Haiti,ht,am,image,assets/5d4bf44ccf0b3a0f3f35b67a/5d4bf44ccf0b3a0f3f35b67a.jpg,Stove/hob,paul,39.9,Q1,stove/hob
+5d4be663cf0b3a0f3f343957,Peru,pe,am,image,assets/5d4be663cf0b3a0f3f343957/5d4be663cf0b3a0f3f343957.JPG,Stove/hob,guispe-de-tenorio,102.0,Q1,stove/hob
+5d4bf209cf0b3a0f3f35792c,Haiti,ht,am,image,assets/5d4bf209cf0b3a0f3f35792c/5d4bf209cf0b3a0f3f35792c.jpg,Stove/hob,jacques,38.9741533,Q1,stove/hob
+5d4bf496cf0b3a0f3f35bdfc,Colombia,co,am,image,assets/5d4bf496cf0b3a0f3f35bdfc/5d4bf496cf0b3a0f3f35bdfc.jpg,Stove/hob,alvarado-bello,122.723035,Q1,stove/hob
+5d4bf1ebcf0b3a0f3f357596,Haiti,ht,am,image,assets/5d4bf1ebcf0b3a0f3f357596/5d4bf1ebcf0b3a0f3f357596.jpg,Stove/hob,pierro,43.0,Q1,stove/hob
+5d4bdef2cf0b3a0f3f336dd3,Peru,pe,am,image,assets/5d4bdef2cf0b3a0f3f336dd3/5d4bdef2cf0b3a0f3f336dd3.jpg,Stove/hob,quispe-sulea,83.0,Q1,stove/hob
+5d4bf227cf0b3a0f3f357cb0,Haiti,ht,am,image,assets/5d4bf227cf0b3a0f3f357cb0/5d4bf227cf0b3a0f3f357cb0.jpg,Stove/hob,pierre-01,50.7,Q1,stove/hob
+5d4bf1b8cf0b3a0f3f356fde,Haiti,ht,am,image,assets/5d4bf1b8cf0b3a0f3f356fde/5d4bf1b8cf0b3a0f3f356fde.jpg,Stove/hob,charles,106.4341981,Q1,stove/hob
+5d4be064cf0b3a0f3f33925c,Brazil,br,am,image,assets/5d4be064cf0b3a0f3f33925c/5d4be064cf0b3a0f3f33925c.jpg,"Oven,Stove/hob",costa,354.0,Q2,stove/hob
+5ec4fa7bf0611d7ddd742008,Brazil,br,am,image,assets/5ec4fa7bf0611d7ddd742008/5ec4fa7bf0611d7ddd742008.jpg,Stove/hob,douglas-martins-izzo,311.0,Q2,stove/hob
+5d4bf256cf0b3a0f3f3581c2,Colombia,co,am,image,assets/5d4bf256cf0b3a0f3f3581c2/5d4bf256cf0b3a0f3f3581c2.jpg,Stove/hob,collo-ocoro,143.0,Q2,stove/hob
+5ec4fa8ff0611d7ddd7420b7,Brazil,br,am,image,assets/5ec4fa8ff0611d7ddd7420b7/5ec4fa8ff0611d7ddd7420b7.jpg,"Oven,Stove/hob",cancela-reis,284.0,Q2,stove/hob
+5d4bf30bcf0b3a0f3f35963e,Bolivia,bo,am,image,assets/5d4bf30bcf0b3a0f3f35963e/5d4bf30bcf0b3a0f3f35963e.jpg,Stove/hob,kjapa,254.0,Q2,stove/hob
+5d4bdfa8cf0b3a0f3f337ff5,Peru,pe,am,image,assets/5d4bdfa8cf0b3a0f3f337ff5/5d4bdfa8cf0b3a0f3f337ff5.JPG,Stove/hob,ramos-perez,180.0,Q2,stove/hob
+5d4bf281cf0b3a0f3f3585ca,Colombia,co,am,image,assets/5d4bf281cf0b3a0f3f3585ca/5d4bf281cf0b3a0f3f3585ca.jpg,Stove/hob,iquira-collo,144.688254,Q2,stove/hob
+5d4be15bcf0b3a0f3f33aee7,Brazil,br,am,image,assets/5d4be15bcf0b3a0f3f33aee7/5d4be15bcf0b3a0f3f33aee7.JPG,Stove/hob,dos-santos,368.0,Q2,stove/hob
+5f4182c1e93ed0a3d28b5c89,Peru,pe,am,image,assets/5f4182c1e93ed0a3d28b5c89/5f4182c1e93ed0a3d28b5c89.JPG,"Visit,Stove/hob",martinez-garamendi,246.0,Q2,stove/hob
+5ec4f884f0611d7ddd740f7b,Guatemala,gt,am,image,assets/5ec4f884f0611d7ddd740f7b/5ec4f884f0611d7ddd740f7b.jpg,Stove/hob,castro,270.0,Q2,stove/hob
+5ec4fb66f0611d7ddd7427c9,Colombia,co,am,image,assets/5ec4fb66f0611d7ddd7427c9/5ec4fb66f0611d7ddd7427c9.jpg,Stove/hob,osorio-betancur,409.0,Q3,stove/hob
+5d4be174cf0b3a0f3f33b1cb,Brazil,br,am,image,assets/5d4be174cf0b3a0f3f33b1cb/5d4be174cf0b3a0f3f33b1cb.jpg,"Cooking pots,Stove/hob",costa-franklim,456.0,Q3,stove/hob
+5ec4f768f0611d7ddd7405d1,Colombia,co,am,image,assets/5ec4f768f0611d7ddd7405d1/5ec4f768f0611d7ddd7405d1.jpeg,Stove/hob,bustamante,722.0,Q3,stove/hob
+5fa325b3a4fd6153d45dfcde,Colombia,co,am,image,assets/5fa325b3a4fd6153d45dfcde/b68b86f908d7f94be9b321f3f13084a7/5fa325b3a4fd6153d45dfcde.jpeg,"Visit,Stove/hob",gonzalez-giraldo,1025.0,Q3,stove/hob
+5d4bde4dcf0b3a0f3f335e21,United States,us,am,image,assets/5d4bde4dcf0b3a0f3f335e21/5d4bde4dcf0b3a0f3f335e21.jpg,Stove/hob,mortensen,898.0,Q3,stove/hob
+5d4be425cf0b3a0f3f33f966,United States,us,am,image,assets/5d4be425cf0b3a0f3f33f966/5d4be425cf0b3a0f3f33f966.jpg,Stove/hob,freeman,996.0,Q3,stove/hob
+5d4be1a0cf0b3a0f3f33b5e7,Brazil,br,am,image,assets/5d4be1a0cf0b3a0f3f33b5e7/5d4be1a0cf0b3a0f3f33b5e7.jpg,Stove/hob,fonseca,845.0,Q3,stove/hob
+5d4bde57cf0b3a0f3f335f11,United States,us,am,image,assets/5d4bde57cf0b3a0f3f335f11/5d4bde57cf0b3a0f3f335f11.jpg,Stove/hob,stringini,960.0,Q3,stove/hob
+5d4be176cf0b3a0f3f33b207,Brazil,br,am,image,assets/5d4be176cf0b3a0f3f33b207/5d4be176cf0b3a0f3f33b207.jpg,Stove/hob,costa-franklim,456.0,Q3,stove/hob
+5d4be544cf0b3a0f3f3419d2,United States,us,am,image,assets/5d4be544cf0b3a0f3f3419d2/d468149149bd49c3c8f905c6df3d91cf/5d4be544cf0b3a0f3f3419d2.JPG,"Visit,Stove/hob",macintyre,855.0,Q3,stove/hob
+5f80a6319597995bdd4bded6,Colombia,co,am,image,assets/5f80a6319597995bdd4bded6/5f80a6319597995bdd4bded6.jpg,"Visit,Stove/hob",cabrera-vasquez,1051.0,Q4,stove/hob
+5d4bed21cf0b3a0f3f34f0f4,United States,us,am,image,assets/5d4bed21cf0b3a0f3f34f0f4/5d4bed21cf0b3a0f3f34f0f4.jpg,Stove/hob,robinson,1269.0,Q4,stove/hob
+5ec4f96ff0611d7ddd74175d,Colombia,co,am,image,assets/5ec4f96ff0611d7ddd74175d/5ec4f96ff0611d7ddd74175d.jpg,Stove/hob,galvis,1734.0,Q4,stove/hob
+5d4bef88cf0b3a0f3f3536da,Mexico,mx,am,image,assets/5d4bef88cf0b3a0f3f3536da/5d4bef88cf0b3a0f3f3536da.jpg,Stove/hob,pereyra,1080.0,Q4,stove/hob
+5ec4fb02f0611d7ddd742487,Colombia,co,am,image,assets/5ec4fb02f0611d7ddd742487/5ec4fb02f0611d7ddd742487.jpg,Stove/hob,restrepo-tejada,1482.0,Q4,stove/hob
+5d4bed30cf0b3a0f3f34f25e,United States,us,am,image,assets/5d4bed30cf0b3a0f3f34f25e/5d4bed30cf0b3a0f3f34f25e.jpg,Stove/hob,grabowski,2041.0,Q4,stove/hob
+5d4bef7fcf0b3a0f3f3535d4,Mexico,mx,am,image,assets/5d4bef7fcf0b3a0f3f3535d4/5d4bef7fcf0b3a0f3f3535d4.jpg,Stove/hob,ramirez-sanchez,1098.831667,Q4,stove/hob
+5d4bef8ecf0b3a0f3f35377a,Mexico,mx,am,image,assets/5d4bef8ecf0b3a0f3f35377a/5d4bef8ecf0b3a0f3f35377a.jpg,Stove/hob,ramos-mota,1950.0,Q4,stove/hob
+5d4be53dcf0b3a0f3f3418f6,United States,us,am,image,assets/5d4be53dcf0b3a0f3f3418f6/5d4be53dcf0b3a0f3f3418f6.JPG,Stove/hob,diamond-01,2001.0,Q4,stove/hob
+5d4be4ebcf0b3a0f3f340f8c,United States,us,am,image,assets/5d4be4ebcf0b3a0f3f340f8c/5d4be4ebcf0b3a0f3f340f8c.jpg,Stove/hob,williams,2055.0,Q4,stove/hob
+5d4be048cf0b3a0f3f338f18,United States,us,am,image,assets/5d4be048cf0b3a0f3f338f18/5d4be048cf0b3a0f3f338f18.jpg,Stove/hob,janacek,4559.0,Q5,stove/hob
+5ec4f848f0611d7ddd740d6b,United States,us,am,image,assets/5ec4f848f0611d7ddd740d6b/5ec4f848f0611d7ddd740d6b.JPG,Stove/hob,deveney,5125.0,Q5,stove/hob
+5ec4f9fbf0611d7ddd741bfd,Colombia,co,am,image,assets/5ec4f9fbf0611d7ddd741bfd/5ec4f9fbf0611d7ddd741bfd.jpg,Stove/hob,maria-toro,3108.0,Q5,stove/hob
+5ec4f60ff4a4fb7dc0387c6e,Colombia,co,am,image,assets/5ec4f60ff4a4fb7dc0387c6e/5ec4f60ff4a4fb7dc0387c6e.JPG,Stove/hob,lara-montoya,6030.0,Q5,stove/hob
+5d4bde80cf0b3a0f3f3362d9,Mexico,mx,am,image,assets/5d4bde80cf0b3a0f3f3362d9/5d4bde80cf0b3a0f3f3362d9.JPG,Stove/hob,castillo,3767.0,Q5,stove/hob
+5d4be42ecf0b3a0f3f33fa6c,United States,us,am,image,assets/5d4be42ecf0b3a0f3f33fa6c/5d4be42ecf0b3a0f3f33fa6c.JPG,Stove/hob,diamond,4446.0,Q5,stove/hob
+5d4be1bccf0b3a0f3f33b8d5,Brazil,br,am,image,assets/5d4be1bccf0b3a0f3f33b8d5/5d4be1bccf0b3a0f3f33b8d5.jpg,Stove/hob,sacramento-de-souza,3356.0,Q5,stove/hob
+5f8896d67e757264d3bacba7,Colombia,co,am,image,assets/5f8896d67e757264d3bacba7/ba90f2c72c5a3e39a55be2dee3d6e44c/5f8896d67e757264d3bacba7.jpg,"Visit,Stove/hob,Oven",castano,3325.0,Q5,stove/hob
+5d4befa6cf0b3a0f3f35394c,Mexico,mx,am,image,assets/5d4befa6cf0b3a0f3f35394c/5d4befa6cf0b3a0f3f35394c.jpg,Stove/hob,ortiz,6342.0,Q5,stove/hob
+5ec4f82ef0611d7ddd740c92,United States,us,am,image,assets/5ec4f82ef0611d7ddd740c92/5ec4f82ef0611d7ddd740c92.JPG,Stove/hob,rivera,3478.0,Q5,stove/hob
+5d4bdee8cf0b3a0f3f336cb7,Serbia,rs,eu,image,assets/5d4bdee8cf0b3a0f3f336cb7/5d4bdee8cf0b3a0f3f336cb7.jpg,"Stove/hob,Cooking pots",sosic,207.0,Q2,stove/hob
+5d4bdf3acf0b3a0f3f337545,Serbia,rs,eu,image,assets/5d4bdf3acf0b3a0f3f337545/5d4bdf3acf0b3a0f3f337545.jpg,Stove/hob,jambor,228.0,Q2,stove/hob
+5d4bdeddcf0b3a0f3f336b59,Serbia,rs,eu,image,assets/5d4bdeddcf0b3a0f3f336b59/5d4bdeddcf0b3a0f3f336b59.jpg,"Cooking pots,Stove/hob",stan,239.0,Q2,stove/hob
+5d4be923cf0b3a0f3f348106,Ukraine,ua,eu,image,assets/5d4be923cf0b3a0f3f348106/5d4be923cf0b3a0f3f348106.jpg,Stove/hob,krivko,475.7742547,Q3,stove/hob
+5ec4fc08f0611d7ddd742d20,France,fr,eu,image,assets/5ec4fc08f0611d7ddd742d20/5ec4fc08f0611d7ddd742d20.jpg,Stove/hob,rayez,875.0,Q3,stove/hob
+5d4be972cf0b3a0f3f348a2e,Ukraine,ua,eu,image,assets/5d4be972cf0b3a0f3f348a2e/5d4be972cf0b3a0f3f348a2e.jpg,Stove/hob,dudakova,694.0,Q3,stove/hob
+5d4bdefbcf0b3a0f3f336ead,Serbia,rs,eu,image,assets/5d4bdefbcf0b3a0f3f336ead/5d4bdefbcf0b3a0f3f336ead.jpg,"Pet foods,Stove/hob",dan,430.0,Q3,stove/hob
+5ec4fc63f0611d7ddd74300b,France,fr,eu,image,assets/5ec4fc63f0611d7ddd74300b/5ec4fc63f0611d7ddd74300b.jpg,Stove/hob,chamaitte,803.0,Q3,stove/hob
+5d4bdfb5cf0b3a0f3f33810b,Netherlands,nl,eu,image,assets/5d4bdfb5cf0b3a0f3f33810b/5d4bdfb5cf0b3a0f3f33810b.jpg,"Stove/hob,Oven",peters,1038.0,Q4,stove/hob
+5d4bdf7bcf0b3a0f3f337b8d,Serbia,rs,eu,image,assets/5d4bdf7bcf0b3a0f3f337b8d/5d4bdf7bcf0b3a0f3f337b8d.jpg,Stove/hob,rajkovic,1193.0,Q4,stove/hob
+5d4bdfbccf0b3a0f3f3381ab,Netherlands,nl,eu,image,assets/5d4bdfbccf0b3a0f3f3381ab/5d4bdfbccf0b3a0f3f3381ab.jpg,"Stove/hob,Oven",bogaardt,1540.0,Q4,stove/hob
+5d4bdf9acf0b3a0f3f337ea3,Switzerland,ch,eu,image,assets/5d4bdf9acf0b3a0f3f337ea3/5d4bdf9acf0b3a0f3f337ea3.jpg,Stove/hob,renato,2602.0,Q4,stove/hob
+5d4be0d6cf0b3a0f3f339f7b,Netherlands,nl,eu,image,assets/5d4be0d6cf0b3a0f3f339f7b/5d4be0d6cf0b3a0f3f339f7b.jpg,Stove/hob,jocher,1998.0,Q4,stove/hob
+5d4bdf84cf0b3a0f3f337c65,Romania,ro,eu,image,assets/5d4bdf84cf0b3a0f3f337c65/5d4bdf84cf0b3a0f3f337c65.jpg,Stove/hob,orlea,2379.0,Q4,stove/hob
+5d4be038cf0b3a0f3f338d70,Netherlands,nl,eu,image,assets/5d4be038cf0b3a0f3f338d70/5d4be038cf0b3a0f3f338d70.jpg,Stove/hob,van-der-burgt,1816.0,Q4,stove/hob
+5d4be0ddcf0b3a0f3f33a03d,Netherlands,nl,eu,image,assets/5d4be0ddcf0b3a0f3f33a03d/5d4be0ddcf0b3a0f3f33a03d.JPG,Stove/hob,ploum,2370.0,Q4,stove/hob
+5d4be032cf0b3a0f3f338cbc,Netherlands,nl,eu,image,assets/5d4be032cf0b3a0f3f338cbc/5d4be032cf0b3a0f3f338cbc.JPG,Stove/hob,van-kilsdonk,1260.0,Q4,stove/hob
+5d4bdeaccf0b3a0f3f336709,Serbia,rs,eu,image,assets/5d4bdeaccf0b3a0f3f336709/5d4bdeaccf0b3a0f3f336709.jpg,Stove/hob,zivojinovic,1838.0,Q4,stove/hob
+5ec4f8fcf0611d7ddd741382,Spain,es,eu,image,assets/5ec4f8fcf0611d7ddd741382/5ec4f8fcf0611d7ddd741382.jpg,Stove/hob,dela-torre-sawtana,4553.0,Q5,stove/hob
+5d4bde2fcf0b3a0f3f335b4d,Italy,it,eu,image,assets/5d4bde2fcf0b3a0f3f335b4d/5d4bde2fcf0b3a0f3f335b4d.JPG,Stove/hob,bravo,3536.0,Q5,stove/hob
+5ec4f933f0611d7ddd74155a,Spain,es,eu,image,assets/5ec4f933f0611d7ddd74155a/5ec4f933f0611d7ddd74155a.jpg,Stove/hob,tejada,2838.0,Q5,stove/hob
+5d4be8f8cf0b3a0f3f347c10,Ukraine,ua,eu,image,assets/5d4be8f8cf0b3a0f3f347c10/5d4be8f8cf0b3a0f3f347c10.jpg,Stove/hob,loginov,3363.3971,Q5,stove/hob
+605a73b1801a87456085efa1,Denmark,dk,eu,image,assets/605a73b1801a87456085efa1/5033cdfd6b3500a9b98fcf377a073f5c/605a73b1801a87456085efa1.jpg,"Visit,Stove/hob",hansen-refsing,5343.0,Q5,stove/hob
+5ec4fa22f0611d7ddd741d56,Czech Republic,cz,eu,image,assets/5ec4fa22f0611d7ddd741d56/5ec4fa22f0611d7ddd741d56.JPG,Stove/hob,samba,4183.0,Q5,stove/hob
+5ec4fa5ef0611d7ddd741f19,Czech Republic,cz,eu,image,assets/5ec4fa5ef0611d7ddd741f19/5ec4fa5ef0611d7ddd741f19.JPG,Stove/hob,dolezelova,2900.0,Q5,stove/hob
+5ec4f8edf0611d7ddd741306,Spain,es,eu,image,assets/5ec4f8edf0611d7ddd741306/5ec4f8edf0611d7ddd741306.jpg,Stove/hob,garrido,4253.0,Q5,stove/hob
+5ec4f90bf0611d7ddd7413fb,Spain,es,eu,image,assets/5ec4f90bf0611d7ddd7413fb/5ec4f90bf0611d7ddd7413fb.jpg,Stove/hob,sanchez,3195.0,Q5,stove/hob
+5efba7bdaed7d921e9f1a004,Austria,at,eu,image,assets/5efba7bdaed7d921e9f1a004/5efba7bdaed7d921e9f1a004.JPG,"Visit,Stove/hob",posch,3003.0,Q5,stove/hob
+5d4bed68cf0b3a0f3f34f8f2,Tunisia,tn,af,image,assets/5d4bed68cf0b3a0f3f34f8f2/5d4bed68cf0b3a0f3f34f8f2.jpg,"Nicest shoes,Everyday shoes",ayadi,113.5375491,Q1,everyday shoes
+5d4beee9cf0b3a0f3f352444,Nigeria,ng,af,image,assets/5d4beee9cf0b3a0f3f352444/5d4beee9cf0b3a0f3f352444.jpg,Everyday shoes,oputa-nwadioro,67.67970667,Q1,everyday shoes
+5d4bdf6ecf0b3a0f3f337a1f,Tanzania,tz,af,image,assets/5d4bdf6ecf0b3a0f3f337a1f/5d4bdf6ecf0b3a0f3f337a1f.jpg,Everyday shoes,mollel,68.0,Q1,everyday shoes
+5d4be225cf0b3a0f3f33c377,Kenya,ke,af,image,assets/5d4be225cf0b3a0f3f33c377/5d4be225cf0b3a0f3f33c377.jpg,Everyday shoes,wanjiru-01,96.0,Q1,everyday shoes
+5ec4f9a1f0611d7ddd741908,Malawi,mw,af,image,assets/5ec4f9a1f0611d7ddd741908/5ec4f9a1f0611d7ddd741908.JPG,"Visit,Everyday shoes",tente,84.0,Q1,everyday shoes
+5d4bee0acf0b3a0f3f350ba4,South Africa,za,af,image,assets/5d4bee0acf0b3a0f3f350ba4/5d4bee0acf0b3a0f3f350ba4.jpg,Everyday shoes,mthombeni,116.0,Q1,everyday shoes
+5d4bdf76cf0b3a0f3f337af9,Tanzania,tz,af,image,assets/5d4bdf76cf0b3a0f3f337af9/5d4bdf76cf0b3a0f3f337af9.JPG,Everyday shoes,tarimo,32.0,Q1,everyday shoes
+5d4bf02dcf0b3a0f3f354808,Malawi,mw,af,image,assets/5d4bf02dcf0b3a0f3f354808/5d4bf02dcf0b3a0f3f354808.jpg,Everyday shoes,wizilamu,41.52251373,Q1,everyday shoes
+5d4bf341cf0b3a0f3f359c1c,Burundi,bi,af,image,assets/5d4bf341cf0b3a0f3f359c1c/5d4bf341cf0b3a0f3f359c1c.jpg,Everyday shoes,nidikumwami,40.19755831,Q1,everyday shoes
+5d4befd1cf0b3a0f3f353e4a,Malawi,mw,af,image,assets/5d4befd1cf0b3a0f3f353e4a/5d4befd1cf0b3a0f3f353e4a.jpg,Everyday shoes,njoka,30.18442535,Q1,everyday shoes
+5d4bdf21cf0b3a0f3f3372b3,Togo,tg,af,image,assets/5d4bdf21cf0b3a0f3f3372b3/5d4bdf21cf0b3a0f3f3372b3.jpg,Everyday shoes,tchamou,145.0,Q2,everyday shoes
+5d4bf42ccf0b3a0f3f35b2cc,South Africa,za,af,image,assets/5d4bf42ccf0b3a0f3f35b2cc/5d4bf42ccf0b3a0f3f35b2cc.jpg,Everyday shoes,vanto,148.0735319,Q2,everyday shoes
+5ec4fb16f0611d7ddd74252f,Ghana,gh,af,image,assets/5ec4fb16f0611d7ddd74252f/5ec4fb16f0611d7ddd74252f.jpg,Everyday shoes,ampiah,213.0,Q2,everyday shoes
+5ec4fad3f0611d7ddd7422fa,Ghana,gh,af,image,assets/5ec4fad3f0611d7ddd7422fa/5ec4fad3f0611d7ddd7422fa.jpg,Everyday shoes,nkrumah,375.0,Q2,everyday shoes
+5d4bdee6cf0b3a0f3f336c79,Cameroon,cm,af,image,assets/5d4bdee6cf0b3a0f3f336c79/5d4bdee6cf0b3a0f3f336c79.jpg,Everyday shoes,lekono,301.0,Q2,everyday shoes
+5d4bdedecf0b3a0f3f336b79,Cameroon,cm,af,image,assets/5d4bdedecf0b3a0f3f336b79/5d4bdedecf0b3a0f3f336b79.jpg,Everyday shoes,meke,352.0,Q2,everyday shoes
+5d4bdf5acf0b3a0f3f33782f,South Africa,za,af,image,assets/5d4bdf5acf0b3a0f3f33782f/5d4bdf5acf0b3a0f3f33782f.JPG,Everyday shoes,anelisa-s,232.0,Q2,everyday shoes
+5d4bdf32cf0b3a0f3f337469,Togo,tg,af,image,assets/5d4bdf32cf0b3a0f3f337469/5d4bdf32cf0b3a0f3f337469.JPG,Everyday shoes,ayanou-ahobli,321.0,Q2,everyday shoes
+5d4bdf74cf0b3a0f3f337aaf,Tanzania,tz,af,image,assets/5d4bdf74cf0b3a0f3f337aaf/5d4bdf74cf0b3a0f3f337aaf.jpg,Everyday shoes,laizer,164.0,Q2,everyday shoes
+5d4bee44cf0b3a0f3f351150,Rwanda,rw,af,image,assets/5d4bee44cf0b3a0f3f351150/5d4bee44cf0b3a0f3f351150.jpg,Everyday shoes,nshimyimana,250.7905551,Q2,everyday shoes
+5ec4f97ef0611d7ddd7417cf,Cameroon,cm,af,image,assets/5ec4f97ef0611d7ddd7417cf/5ec4f97ef0611d7ddd7417cf.jpg,Everyday shoes,engola,745.0,Q3,everyday shoes
+5d4be250cf0b3a0f3f33c7fd,Kenya,ke,af,image,assets/5d4be250cf0b3a0f3f33c7fd/5d4be250cf0b3a0f3f33c7fd.JPG,Everyday shoes,onyango,461.0,Q3,everyday shoes
+5ec4f9ddf0611d7ddd741b05,Ethiopia,et,af,image,assets/5ec4f9ddf0611d7ddd741b05/5ec4f9ddf0611d7ddd741b05.JPG,Everyday shoes,arusa,719.0,Q3,everyday shoes
+5d4bee53cf0b3a0f3f3512e8,Rwanda,rw,af,image,assets/5d4bee53cf0b3a0f3f3512e8/5d4bee53cf0b3a0f3f3512e8.jpg,Everyday shoes,niyonsaba,460.0,Q3,everyday shoes
+5d4be288cf0b3a0f3f33ce3b,South Africa,za,af,image,assets/5d4be288cf0b3a0f3f33ce3b/5d4be288cf0b3a0f3f33ce3b.jpg,Everyday shoes,ngethu,751.0,Q3,everyday shoes
+5ec4f9cff0611d7ddd741a86,Ethiopia,et,af,image,assets/5ec4f9cff0611d7ddd741a86/5ec4f9cff0611d7ddd741a86.JPG,Everyday shoes,gachino,604.0,Q3,everyday shoes
+5d4bdf26cf0b3a0f3f337341,Togo,tg,af,image,assets/5d4bdf26cf0b3a0f3f337341/5d4bdf26cf0b3a0f3f337341.JPG,Everyday shoes,messan,670.0,Q3,everyday shoes
+5ec4fa31f0611d7ddd741dc7,Ethiopia,et,af,image,assets/5ec4fa31f0611d7ddd741dc7/5ec4fa31f0611d7ddd741dc7.JPG,Everyday shoes,mozambique,623.0,Q3,everyday shoes
+5d4be003cf0b3a0f3f338918,Nigeria,ng,af,image,assets/5d4be003cf0b3a0f3f338918/5d4be003cf0b3a0f3f338918.jpg,Everyday shoes,laoye,725.0,Q3,everyday shoes
+5d4be4c8cf0b3a0f3f340b8a,Cameroon,cm,af,image,assets/5d4be4c8cf0b3a0f3f340b8a/5d4be4c8cf0b3a0f3f340b8a.jpg,Everyday shoes,ngono,1116.0,Q4,everyday shoes
+5d4be233cf0b3a0f3f33c4e1,Egypt,eg,af,image,assets/5d4be233cf0b3a0f3f33c4e1/5d4be233cf0b3a0f3f33c4e1.JPG,Everyday shoes,hassan,1610.0,Q4,everyday shoes
+5d4be672cf0b3a0f3f343b09,Tanzania,tz,af,image,assets/5d4be672cf0b3a0f3f343b09/5d4be672cf0b3a0f3f343b09.jpg,Everyday shoes,walugembe,1050.70879,Q4,everyday shoes
+5d4bf22bcf0b3a0f3f357d1a,Egypt,eg,af,image,assets/5d4bf22bcf0b3a0f3f357d1a/5d4bf22bcf0b3a0f3f357d1a.jpg,Everyday shoes,said,1493.683201,Q4,everyday shoes
+5d4be013cf0b3a0f3f338a8c,Nigeria,ng,af,image,assets/5d4be013cf0b3a0f3f338a8c/5d4be013cf0b3a0f3f338a8c.JPG,Everyday shoes,amama,3750.0,Q5,everyday shoes
+5ec4fa3ef0611d7ddd741e41,Ethiopia,et,af,image,assets/5ec4fa3ef0611d7ddd741e41/5ec4fa3ef0611d7ddd741e41.JPG,Everyday shoes,tessema,6316.0,Q5,everyday shoes
+5d4beb7acf0b3a0f3f34c4b6,Kenya,ke,af,image,assets/5d4beb7acf0b3a0f3f34c4b6/5d4beb7acf0b3a0f3f34c4b6.jpg,Everyday shoes,kimathi,3267.97326,Q5,everyday shoes
+5d4be623cf0b3a0f3f3431f1,South Africa,za,af,image,assets/5d4be623cf0b3a0f3f3431f1/5d4be623cf0b3a0f3f3431f1.jpg,Everyday shoes,hearne,3755.0,Q5,everyday shoes
+5d4bef66cf0b3a0f3f3532d2,Nepal,np,as,image,assets/5d4bef66cf0b3a0f3f3532d2/5d4bef66cf0b3a0f3f3532d2.jpg,Everyday shoes,maharjan,84.23636022,Q1,everyday shoes
+5d4be79dcf0b3a0f3f345c44,Bangladesh,bd,as,image,assets/5d4be79dcf0b3a0f3f345c44/5d4be79dcf0b3a0f3f345c44.jpg,Everyday shoes,ali,96.0,Q1,everyday shoes
+5d4be78acf0b3a0f3f345a14,Indonesia,id,as,image,assets/5d4be78acf0b3a0f3f345a14/5d4be78acf0b3a0f3f345a14.jpg,Everyday shoes,wayan,131.3989924,Q1,everyday shoes
+5d4bec78cf0b3a0f3f34dfb4,Bangladesh,bd,as,image,assets/5d4bec78cf0b3a0f3f34dfb4/5d4bec78cf0b3a0f3f34dfb4.jpg,Everyday shoes,bishash,124.9655714,Q1,everyday shoes
+5d4beaf0cf0b3a0f3f34b5f4,India,in,as,image,assets/5d4beaf0cf0b3a0f3f34b5f4/5d4beaf0cf0b3a0f3f34b5f4.jpg,Everyday shoes,karan,64.87332687,Q1,everyday shoes
+5d4bef53cf0b3a0f3f3530a4,Nepal,np,as,image,assets/5d4bef53cf0b3a0f3f3530a4/5d4bef53cf0b3a0f3f3530a4.jpg,Everyday shoes,tamang,121.2854363,Q1,everyday shoes
+5d4be6e7cf0b3a0f3f34485a,Palestine,ps,as,image,assets/5d4be6e7cf0b3a0f3f34485a/5d4be6e7cf0b3a0f3f34485a.JPG,Everyday shoes,zyara,112.0993561,Q1,everyday shoes
+5d4be797cf0b3a0f3f345b92,Bangladesh,bd,as,image,assets/5d4be797cf0b3a0f3f345b92/5d4be797cf0b3a0f3f345b92.jpg,Everyday shoes,sheik,78.0,Q1,everyday shoes
+5ec4f806f0611d7ddd740b42,Nepal,np,as,image,assets/5ec4f806f0611d7ddd740b42/5ec4f806f0611d7ddd740b42.jpg,Everyday shoes,khatbe,136.0,Q1,everyday shoes
+5d4be7bacf0b3a0f3f345f88,Bangladesh,bd,as,image,assets/5d4be7bacf0b3a0f3f345f88/5d4be7bacf0b3a0f3f345f88.jpg,Everyday shoes,saiful,65.20651387,Q1,everyday shoes
+5d4be776cf0b3a0f3f3457c0,Indonesia,id,as,image,assets/5d4be776cf0b3a0f3f3457c0/5d4be776cf0b3a0f3f3457c0.jpg,Everyday shoes,mare,316.0,Q2,everyday shoes
+5d4be9a7cf0b3a0f3f349066,Jordan,jo,as,image,assets/5d4be9a7cf0b3a0f3f349066/5d4be9a7cf0b3a0f3f349066.jpg,Everyday shoes,ananzeh,248.6618187,Q2,everyday shoes
+5ec4f8e7f0611d7ddd7412d3,Pakistan,pk,as,image,assets/5ec4f8e7f0611d7ddd7412d3/5ec4f8e7f0611d7ddd7412d3.jpg,Everyday shoes,abdul-majeed,251.0,Q2,everyday shoes
+5d4bf29dcf0b3a0f3f35893e,China,cn,as,image,assets/5d4bf29dcf0b3a0f3f35893e/5d4bf29dcf0b3a0f3f35893e.jpg,Everyday shoes,kamijo-s,315.0,Q2,everyday shoes
+5d4be76fcf0b3a0f3f3456fc,Indonesia,id,as,image,assets/5d4be76fcf0b3a0f3f3456fc/5d4be76fcf0b3a0f3f3456fc.jpg,Everyday shoes,budiono,308.0,Q2,everyday shoes
+5d4be9f8cf0b3a0f3f349916,Jordan,jo,as,image,assets/5d4be9f8cf0b3a0f3f349916/5d4be9f8cf0b3a0f3f349916.jpg,Everyday shoes,abo-awad,365.787688,Q2,everyday shoes
+5d4beea3cf0b3a0f3f351c36,Philippines,ph,as,image,assets/5d4beea3cf0b3a0f3f351c36/5d4beea3cf0b3a0f3f351c36.jpg,Everyday shoes,castillo-01,170.2173637,Q2,everyday shoes
+5d4bef6ccf0b3a0f3f35338a,Nepal,np,as,image,assets/5d4bef6ccf0b3a0f3f35338a/5d4bef6ccf0b3a0f3f35338a.jpg,Everyday shoes,lama,201.0990882,Q2,everyday shoes
+5d4beecbcf0b3a0f3f3520c2,Philippines,ph,as,image,assets/5d4beecbcf0b3a0f3f3520c2/5d4beecbcf0b3a0f3f3520c2.jpg,Everyday shoes,gacotera,193.8785291,Q2,everyday shoes
+5d4beabacf0b3a0f3f34af94,India,in,as,image,assets/5d4beabacf0b3a0f3f34af94/5d4beabacf0b3a0f3f34af94.jpg,Everyday shoes,munshi,170.0,Q2,everyday shoes
+5d4bee82cf0b3a0f3f351868,Philippines,ph,as,image,assets/5d4bee82cf0b3a0f3f351868/5d4bee82cf0b3a0f3f351868.jpg,Everyday shoes,legarda,865.0,Q3,everyday shoes
+5d4be707cf0b3a0f3f344c20,South Korea,kr,as,image,assets/5d4be707cf0b3a0f3f344c20/5d4be707cf0b3a0f3f344c20.jpg,Everyday shoes,hang,660.3833682,Q3,everyday shoes
+5d4bf28fcf0b3a0f3f358784,China,cn,as,image,assets/5d4bf28fcf0b3a0f3f358784/5d4bf28fcf0b3a0f3f358784.jpg,Everyday shoes,yang,694.218371,Q3,everyday shoes
+5d4bf146cf0b3a0f3f356464,Indonesia,id,as,image,assets/5d4bf146cf0b3a0f3f356464/5d4bf146cf0b3a0f3f356464.jpg,Everyday shoes,yanvar,1017.0,Q3,everyday shoes
+5d4beb90cf0b3a0f3f34c752,Lebanon,lb,as,image,assets/5d4beb90cf0b3a0f3f34c752/5d4beb90cf0b3a0f3f34c752.jpg,Everyday shoes,abouakar,832.0,Q3,everyday shoes
+5d4be7f3cf0b3a0f3f346557,China,cn,as,image,assets/5d4be7f3cf0b3a0f3f346557/5d4be7f3cf0b3a0f3f346557.jpg,"Family,Everyday shoes",bianma-s,960.0,Q3,everyday shoes
+5d4be1e4cf0b3a0f3f33bc6f,Mongolia,mn,as,image,assets/5d4be1e4cf0b3a0f3f33bc6f/5d4be1e4cf0b3a0f3f33bc6f.JPG,Everyday shoes,gombo,420.0,Q3,everyday shoes
+5d4bf2a2cf0b3a0f3f3589d4,China,cn,as,image,assets/5d4bf2a2cf0b3a0f3f3589d4/5d4bf2a2cf0b3a0f3f3589d4.jpg,Everyday shoes,qin,494.0,Q3,everyday shoes
+5d4be1d1cf0b3a0f3f33baab,China,cn,as,image,assets/5d4be1d1cf0b3a0f3f33baab/5d4be1d1cf0b3a0f3f33baab.jpg,Everyday shoes,an,450.0,Q3,everyday shoes
+5d4bf284cf0b3a0f3f358634,China,cn,as,image,assets/5d4bf284cf0b3a0f3f358634/5d4bf284cf0b3a0f3f358634.jpg,Everyday shoes,pan,416.2045876,Q3,everyday shoes
+5d4be0bccf0b3a0f3f339c63,India,in,as,image,assets/5d4be0bccf0b3a0f3f339c63/5d4be0bccf0b3a0f3f339c63.jpg,Everyday shoes,munot,2596.0,Q4,everyday shoes
+5d4be068cf0b3a0f3f3392ca,India,in,as,image,assets/5d4be068cf0b3a0f3f3392ca/5d4be068cf0b3a0f3f3392ca.JPG,Everyday shoes,shrivastava,1569.0,Q4,everyday shoes
+5d4be658cf0b3a0f3f343811,China,cn,as,image,assets/5d4be658cf0b3a0f3f343811/5d4be658cf0b3a0f3f343811.JPG,Everyday shoes,fan,1350.0,Q4,everyday shoes
+5d4be6b3cf0b3a0f3f344270,China,cn,as,image,assets/5d4be6b3cf0b3a0f3f344270/5d4be6b3cf0b3a0f3f344270.JPG,Everyday shoes,zhao,2235.172785,Q4,everyday shoes
+5d4be650cf0b3a0f3f343731,China,cn,as,image,assets/5d4be650cf0b3a0f3f343731/5d4be650cf0b3a0f3f343731.JPG,Everyday shoes,zhang,1278.0,Q4,everyday shoes
+5d4be102cf0b3a0f3f33a489,India,in,as,image,assets/5d4be102cf0b3a0f3f33a489/5d4be102cf0b3a0f3f33a489.jpg,Everyday shoes,misra,1295.0,Q4,everyday shoes
+5ec4fab4f0611d7ddd7421ea,Iran,ir,as,image,assets/5ec4fab4f0611d7ddd7421ea/5ec4fab4f0611d7ddd7421ea.jpg,Everyday shoes,sarlak,1841.0,Q4,everyday shoes
+5d4bea3ccf0b3a0f3f34a0cc,India,in,as,image,assets/5d4bea3ccf0b3a0f3f34a0cc/5d4bea3ccf0b3a0f3f34a0cc.jpg,Everyday shoes,mondal-01,1050.0,Q4,everyday shoes
+5d4bdf14cf0b3a0f3f337147,Indonesia,id,as,image,assets/5d4bdf14cf0b3a0f3f337147/5d4bdf14cf0b3a0f3f337147.JPG,Everyday shoes,carolina,2594.0,Q4,everyday shoes
+5d4be332cf0b3a0f3f33de39,India,in,as,image,assets/5d4be332cf0b3a0f3f33de39/5d4be332cf0b3a0f3f33de39.jpg,Everyday shoes,siddharth,1458.0,Q4,everyday shoes
+5d4be126cf0b3a0f3f33a8b3,India,in,as,image,assets/5d4be126cf0b3a0f3f33a8b3/5d4be126cf0b3a0f3f33a8b3.JPG,Everyday shoes,kulkarni,2842.0,Q5,everyday shoes
+5d4be10ecf0b3a0f3f33a5ed,India,in,as,image,assets/5d4be10ecf0b3a0f3f33a5ed/5d4be10ecf0b3a0f3f33a5ed.jpg,Everyday shoes,rani,6606.0,Q5,everyday shoes
+5ec4f949f0611d7ddd74160b,India,in,as,image,assets/5ec4f949f0611d7ddd74160b/5ec4f949f0611d7ddd74160b.JPG,Everyday shoes,mukharjee-goshal,5795.0,Q5,everyday shoes
+5d4bf4a9cf0b3a0f3f35bfd4,Vietnam,vn,as,image,assets/5d4bf4a9cf0b3a0f3f35bfd4/5d4bf4a9cf0b3a0f3f35bfd4.jpg,Everyday shoes,tran,2944.177918,Q5,everyday shoes
+5d4bdff8cf0b3a0f3f338816,Pakistan,pk,as,image,assets/5d4bdff8cf0b3a0f3f338816/5d4bdff8cf0b3a0f3f338816.jpg,Everyday shoes,jawed,4440.0,Q5,everyday shoes
+5d4be105cf0b3a0f3f33a4f3,India,in,as,image,assets/5d4be105cf0b3a0f3f33a4f3/5d4be105cf0b3a0f3f33a4f3.jpg,Everyday shoes,singh,3611.0,Q5,everyday shoes
+5d4be136cf0b3a0f3f33aa89,India,in,as,image,assets/5d4be136cf0b3a0f3f33aa89/5d4be136cf0b3a0f3f33aa89.jpeg,Everyday shoes,sharma,4621.0,Q5,everyday shoes
+5d4be821cf0b3a0f3f346a7d,China,cn,as,image,assets/5d4be821cf0b3a0f3f346a7d/5d4be821cf0b3a0f3f346a7d.jpg,Everyday shoes,wong,3318.441334,Q5,everyday shoes
+5d4be985cf0b3a0f3f348c5a,Jordan,jo,as,image,assets/5d4be985cf0b3a0f3f348c5a/5d4be985cf0b3a0f3f348c5a.jpg,Everyday shoes,murad,7433.155246,Q5,everyday shoes
+5d4be0f3cf0b3a0f3f33a2d1,India,in,as,image,assets/5d4be0f3cf0b3a0f3f33a2d1/5d4be0f3cf0b3a0f3f33a2d1.jpg,Everyday shoes,gadage,6490.0,Q5,everyday shoes
+5d4bf1adcf0b3a0f3f356e8e,Haiti,ht,am,image,assets/5d4bf1adcf0b3a0f3f356e8e/5d4bf1adcf0b3a0f3f356e8e.jpg,Everyday shoes,charles,106.4341981,Q1,everyday shoes
+5d4bf1cacf0b3a0f3f3571d8,Haiti,ht,am,image,assets/5d4bf1cacf0b3a0f3f3571d8/5d4bf1cacf0b3a0f3f3571d8.jpg,Everyday shoes,pierre,39.53616613,Q1,everyday shoes
+5d4bdef2cf0b3a0f3f336dcf,Peru,pe,am,image,assets/5d4bdef2cf0b3a0f3f336dcf/5d4bdef2cf0b3a0f3f336dcf.jpg,"Everyday shoes,Nicest shoes",quispe-sulea,83.0,Q1,everyday shoes
+5d4bf1fdcf0b3a0f3f3577c6,Haiti,ht,am,image,assets/5d4bf1fdcf0b3a0f3f3577c6/5d4bf1fdcf0b3a0f3f3577c6.jpg,Everyday shoes,jacques,38.9741533,Q1,everyday shoes
+5d4bf488cf0b3a0f3f35bc92,Colombia,co,am,image,assets/5d4bf488cf0b3a0f3f35bc92/5d4bf488cf0b3a0f3f35bc92.jpg,Everyday shoes,alvarado-bello,122.723035,Q1,everyday shoes
+5d4bf442cf0b3a0f3f35b550,Haiti,ht,am,image,assets/5d4bf442cf0b3a0f3f35b550/5d4bf442cf0b3a0f3f35b550.jpg,Everyday shoes,paul,39.9,Q1,everyday shoes
+5d4bf21ccf0b3a0f3f357b54,Haiti,ht,am,image,assets/5d4bf21ccf0b3a0f3f357b54/5d4bf21ccf0b3a0f3f357b54.jpg,Everyday shoes,pierre-01,50.7,Q1,everyday shoes
+5d4bf1d5cf0b3a0f3f357326,Haiti,ht,am,image,assets/5d4bf1d5cf0b3a0f3f357326/5d4bf1d5cf0b3a0f3f357326.jpg,"Play area,Everyday shoes",pierro,43.0,Q1,everyday shoes
+5d4be663cf0b3a0f3f34395b,Peru,pe,am,image,assets/5d4be663cf0b3a0f3f34395b/5d4be663cf0b3a0f3f34395b.JPG,Everyday shoes,guispe-de-tenorio,102.0,Q1,everyday shoes
+5d4be16ecf0b3a0f3f33b10b,Brazil,br,am,image,assets/5d4be16ecf0b3a0f3f33b10b/5d4be16ecf0b3a0f3f33b10b.jpg,Everyday shoes,costa,354.0,Q2,everyday shoes
+5d4bf274cf0b3a0f3f35843a,Colombia,co,am,image,assets/5d4bf274cf0b3a0f3f35843a/5d4bf274cf0b3a0f3f35843a.jpg,Everyday shoes,iquira-collo,144.688254,Q2,everyday shoes
+5ec4f886f0611d7ddd740f83,Guatemala,gt,am,image,assets/5ec4f886f0611d7ddd740f83/5ec4f886f0611d7ddd740f83.jpg,Everyday shoes,castro,270.0,Q2,everyday shoes
+5d4bf24dcf0b3a0f3f3580a2,Colombia,co,am,image,assets/5d4bf24dcf0b3a0f3f3580a2/5d4bf24dcf0b3a0f3f3580a2.jpg,Everyday shoes,collo-ocoro,143.0,Q2,everyday shoes
+5ec4fa78f0611d7ddd741fec,Brazil,br,am,image,assets/5ec4fa78f0611d7ddd741fec/5ec4fa78f0611d7ddd741fec.jpg,Everyday shoes,douglas-martins-izzo,311.0,Q2,everyday shoes
+5d4bdfa8cf0b3a0f3f337fed,Peru,pe,am,image,assets/5d4bdfa8cf0b3a0f3f337fed/5d4bdfa8cf0b3a0f3f337fed.JPG,Everyday shoes,ramos-perez,180.0,Q2,everyday shoes
+5d4be15ccf0b3a0f3f33aefb,Brazil,br,am,image,assets/5d4be15ccf0b3a0f3f33aefb/5d4be15ccf0b3a0f3f33aefb.JPG,Everyday shoes,dos-santos,368.0,Q2,everyday shoes
+5ec4fb80f0611d7ddd7428aa,Colombia,co,am,image,assets/5ec4fb80f0611d7ddd7428aa/5ec4fb80f0611d7ddd7428aa.jpg,Everyday shoes,gonzales-vargas,261.0,Q2,everyday shoes
+5f418198e93ed0baa88b5b0c,Peru,pe,am,image,assets/5f418198e93ed0baa88b5b0c/5f418198e93ed0baa88b5b0c.JPG,"Visit,Everyday shoes",martinez-garamendi,246.0,Q2,everyday shoes
+5ec4fa8af0611d7ddd74208f,Brazil,br,am,image,assets/5ec4fa8af0611d7ddd74208f/5ec4fa8af0611d7ddd74208f.jpg,Everyday shoes,cancela-reis,284.0,Q2,everyday shoes
+5d4bdfaecf0b3a0f3f33806d,Peru,pe,am,image,assets/5d4bdfaecf0b3a0f3f33806d/5d4bdfaecf0b3a0f3f33806d.JPG,Everyday shoes,huamani-gonzales,398.0,Q3,everyday shoes
+5d4be192cf0b3a0f3f33b44f,Brazil,br,am,image,assets/5d4be192cf0b3a0f3f33b44f/5d4be192cf0b3a0f3f33b44f.jpg,Everyday shoes,souza-lima,685.0,Q3,everyday shoes
+5d4be544cf0b3a0f3f3419cc,United States,us,am,image,assets/5d4be544cf0b3a0f3f3419cc/5d4be544cf0b3a0f3f3419cc.JPG,Everyday shoes,macintyre,855.0,Q3,everyday shoes
+5ec4fb67f0611d7ddd7427d0,Colombia,co,am,image,assets/5ec4fb67f0611d7ddd7427d0/5ec4fb67f0611d7ddd7427d0.jpg,Everyday shoes,osorio-betancur,409.0,Q3,everyday shoes
+5d4bdecccf0b3a0f3f336999,United States,us,am,image,assets/5d4bdecccf0b3a0f3f336999/5d4bdecccf0b3a0f3f336999.jpg,Everyday shoes,duncan,800.0,Q3,everyday shoes
+5d4be422cf0b3a0f3f33f904,United States,us,am,image,assets/5d4be422cf0b3a0f3f33f904/5d4be422cf0b3a0f3f33f904.jpg,Everyday shoes,freeman,996.0,Q3,everyday shoes
+5d4be14ccf0b3a0f3f33ad1f,Brazil,br,am,image,assets/5d4be14ccf0b3a0f3f33ad1f/5d4be14ccf0b3a0f3f33ad1f.jpg,Everyday shoes,santos-carneiro,456.0,Q3,everyday shoes
+5d4bde41cf0b3a0f3f335cfd,United States,us,am,image,assets/5d4bde41cf0b3a0f3f335cfd/5d4bde41cf0b3a0f3f335cfd.jpg,Everyday shoes,mortensen,898.0,Q3,everyday shoes
+5d4bde57cf0b3a0f3f335f0b,United States,us,am,image,assets/5d4bde57cf0b3a0f3f335f0b/5d4bde57cf0b3a0f3f335f0b.jpg,Everyday shoes,stringini,960.0,Q3,everyday shoes
+5fa3ec9c1fe9dd525f032fe2,Colombia,co,am,image,assets/5fa3ec9c1fe9dd525f032fe2/b2222635a12dd1805840a82af644e0ce/5fa3ec9c1fe9dd525f032fe2.jpeg,"Visit,Everyday shoes",gonzalez-giraldo,1025.0,Q3,everyday shoes
+5f80bec8c07af833a4bedd99,Colombia,co,am,image,assets/5f80bec8c07af833a4bedd99/5f80bec8c07af833a4bedd99.jpg,"Visit,Everyday shoes",cabrera-vasquez,1051.0,Q4,everyday shoes
+5d4bed21cf0b3a0f3f34f106,United States,us,am,image,assets/5d4bed21cf0b3a0f3f34f106/5d4bed21cf0b3a0f3f34f106.jpg,Everyday shoes,robinson,1269.0,Q4,everyday shoes
+5ec4f970f0611d7ddd741766,Colombia,co,am,image,assets/5ec4f970f0611d7ddd741766/5ec4f970f0611d7ddd741766.JPG,Everyday shoes,galvis,1734.0,Q4,everyday shoes
+5d4bef89cf0b3a0f3f3536e6,Mexico,mx,am,image,assets/5d4bef89cf0b3a0f3f3536e6/5d4bef89cf0b3a0f3f3536e6.jpg,Everyday shoes,pereyra,1080.0,Q4,everyday shoes
+5ec4fafdf0611d7ddd742454,Colombia,co,am,image,assets/5ec4fafdf0611d7ddd742454/5ec4fafdf0611d7ddd742454.jpg,Everyday shoes,restrepo-tejada,1482.0,Q4,everyday shoes
+5d4bdfc3cf0b3a0f3f33824f,Colombia,co,am,image,assets/5d4bdfc3cf0b3a0f3f33824f/5d4bdfc3cf0b3a0f3f33824f.jpg,Everyday shoes,cadena,2044.0,Q4,everyday shoes
+5d4bef80cf0b3a0f3f3535ec,Mexico,mx,am,image,assets/5d4bef80cf0b3a0f3f3535ec/5d4bef80cf0b3a0f3f3535ec.jpg,Everyday shoes,ramirez-sanchez,1098.831667,Q4,everyday shoes
+5d4bef91cf0b3a0f3f35379e,Mexico,mx,am,image,assets/5d4bef91cf0b3a0f3f35379e/5d4bef91cf0b3a0f3f35379e.jpg,Everyday shoes,ramos-mota,1950.0,Q4,everyday shoes
+5d4be53ccf0b3a0f3f3418f2,United States,us,am,image,assets/5d4be53ccf0b3a0f3f3418f2/5d4be53ccf0b3a0f3f3418f2.JPG,Everyday shoes,diamond-01,2001.0,Q4,everyday shoes
+5d4be4ebcf0b3a0f3f340f86,United States,us,am,image,assets/5d4be4ebcf0b3a0f3f340f86/5d4be4ebcf0b3a0f3f340f86.jpg,Everyday shoes,williams,2055.0,Q4,everyday shoes
+5ec4f610f4a4fb7dc0387c77,Colombia,co,am,image,assets/5ec4f610f4a4fb7dc0387c77/5ec4f610f4a4fb7dc0387c77.JPG,Everyday shoes,lara-montoya,6030.0,Q5,everyday shoes
+5d4bebe5cf0b3a0f3f34d151,United States,us,am,image,assets/5d4bebe5cf0b3a0f3f34d151/5d4bebe5cf0b3a0f3f34d151.jpg,Everyday shoes,howard,4650.0,Q5,everyday shoes
+5ec4fa07f0611d7ddd741c6a,Colombia,co,am,image,assets/5ec4fa07f0611d7ddd741c6a/5ec4fa07f0611d7ddd741c6a.jpg,Everyday shoes,maria-toro,3108.0,Q5,everyday shoes
+5d4be096cf0b3a0f3f339815,United States,us,am,image,assets/5d4be096cf0b3a0f3f339815/5d4be096cf0b3a0f3f339815.JPG,Everyday shoes,janacek,4559.0,Q5,everyday shoes
+5d4bde81cf0b3a0f3f3362f3,Mexico,mx,am,image,assets/5d4bde81cf0b3a0f3f3362f3/5d4bde81cf0b3a0f3f3362f3.JPG,Everyday shoes,castillo,3767.0,Q5,everyday shoes
+5d4bdf60cf0b3a0f3f3378d1,Canada,ca,am,image,assets/5d4bdf60cf0b3a0f3f3378d1/5d4bdf60cf0b3a0f3f3378d1.JPG,Everyday shoes,vo-lowe,3360.0,Q5,everyday shoes
+5d4be1b5cf0b3a0f3f33b841,Brazil,br,am,image,assets/5d4be1b5cf0b3a0f3f33b841/5d4be1b5cf0b3a0f3f33b841.jpg,Everyday shoes,sacramento-de-souza,3356.0,Q5,everyday shoes
+5d4befa7cf0b3a0f3f35395e,Mexico,mx,am,image,assets/5d4befa7cf0b3a0f3f35395e/5d4befa7cf0b3a0f3f35395e.jpg,Everyday shoes,ortiz,6342.0,Q5,everyday shoes
+5ec4f830f0611d7ddd740ca2,United States,us,am,image,assets/5ec4f830f0611d7ddd740ca2/5ec4f830f0611d7ddd740ca2.JPG,Everyday shoes,rivera,3478.0,Q5,everyday shoes
+5d4be42dcf0b3a0f3f33fa62,United States,us,am,image,assets/5d4be42dcf0b3a0f3f33fa62/5d4be42dcf0b3a0f3f33fa62.JPG,Everyday shoes,diamond,4446.0,Q5,everyday shoes
+5d4bdee9cf0b3a0f3f336cc1,Serbia,rs,eu,image,assets/5d4bdee9cf0b3a0f3f336cc1/5d4bdee9cf0b3a0f3f336cc1.jpg,Everyday shoes,sosic,207.0,Q2,everyday shoes
+5d4bdf3bcf0b3a0f3f337559,Serbia,rs,eu,image,assets/5d4bdf3bcf0b3a0f3f337559/5d4bdf3bcf0b3a0f3f337559.jpg,Everyday shoes,jambor,228.0,Q2,everyday shoes
+5d4bded7cf0b3a0f3f336ab1,Serbia,rs,eu,image,assets/5d4bded7cf0b3a0f3f336ab1/5d4bded7cf0b3a0f3f336ab1.jpg,Everyday shoes,stan,239.0,Q2,everyday shoes
+5d4be914cf0b3a0f3f347f3c,Ukraine,ua,eu,image,assets/5d4be914cf0b3a0f3f347f3c/5d4be914cf0b3a0f3f347f3c.jpg,Everyday shoes,krivko,475.7742547,Q3,everyday shoes
+5ec4fbf1f0611d7ddd742c5f,France,fr,eu,image,assets/5ec4fbf1f0611d7ddd742c5f/5ec4fbf1f0611d7ddd742c5f.jpg,Everyday shoes,rayez,875.0,Q3,everyday shoes
+5d4be963cf0b3a0f3f348874,Ukraine,ua,eu,image,assets/5d4be963cf0b3a0f3f348874/5d4be963cf0b3a0f3f348874.jpg,Everyday shoes,dudakova,694.0,Q3,everyday shoes
+5d4bdeffcf0b3a0f3f336f11,Serbia,rs,eu,image,assets/5d4bdeffcf0b3a0f3f336f11/5d4bdeffcf0b3a0f3f336f11.jpg,Everyday shoes,dan,430.0,Q3,everyday shoes
+5ec4fc52f0611d7ddd742f77,France,fr,eu,image,assets/5ec4fc52f0611d7ddd742f77/5ec4fc52f0611d7ddd742f77.jpg,Everyday shoes,chamaitte,803.0,Q3,everyday shoes
+5d4bdfb5cf0b3a0f3f338103,Netherlands,nl,eu,image,assets/5d4bdfb5cf0b3a0f3f338103/5d4bdfb5cf0b3a0f3f338103.jpg,Everyday shoes,peters,1038.0,Q4,everyday shoes
+5d4bdf7ccf0b3a0f3f337b95,Serbia,rs,eu,image,assets/5d4bdf7ccf0b3a0f3f337b95/5d4bdf7ccf0b3a0f3f337b95.jpg,Everyday shoes,rajkovic,1193.0,Q4,everyday shoes
+5d4be070cf0b3a0f3f3393b0,Sweden,se,eu,image,assets/5d4be070cf0b3a0f3f3393b0/5d4be070cf0b3a0f3f3393b0.jpg,Everyday shoes,drumond-maharjan,1740.0,Q4,everyday shoes
+5d4bdfbccf0b3a0f3f3381a5,Netherlands,nl,eu,image,assets/5d4bdfbccf0b3a0f3f3381a5/5d4bdfbccf0b3a0f3f3381a5.jpg,"Everyday shoes,Nicest shoes",bogaardt,1540.0,Q4,everyday shoes
+5ec4fac0f0611d7ddd742255,Russia,ru,eu,image,assets/5ec4fac0f0611d7ddd742255/5ec4fac0f0611d7ddd742255.JPG,Everyday shoes,gulin,1385.0,Q4,everyday shoes
+5d4be407cf0b3a0f3f33f5f8,United Kingdom,gb,eu,image,assets/5d4be407cf0b3a0f3f33f5f8/5d4be407cf0b3a0f3f33f5f8.JPG,Everyday shoes,barnard,2010.0,Q4,everyday shoes
+5d4bdf9ecf0b3a0f3f337f0b,Switzerland,ch,eu,image,assets/5d4bdf9ecf0b3a0f3f337f0b/5d4bdf9ecf0b3a0f3f337f0b.JPG,"Everyday shoes,Nicest shoes",renato,2602.0,Q4,everyday shoes
+5d4bdf81cf0b3a0f3f337c37,Romania,ro,eu,image,assets/5d4bdf81cf0b3a0f3f337c37/5d4bdf81cf0b3a0f3f337c37.jpg,Everyday shoes,orlea,2379.0,Q4,everyday shoes
+5d4be415cf0b3a0f3f33f78e,United Kingdom,gb,eu,image,assets/5d4be415cf0b3a0f3f33f78e/5d4be415cf0b3a0f3f33f78e.JPG,Everyday shoes,oliver,1890.0,Q4,everyday shoes
+5d4be031cf0b3a0f3f338cb6,Netherlands,nl,eu,image,assets/5d4be031cf0b3a0f3f338cb6/5d4be031cf0b3a0f3f338cb6.JPG,Everyday shoes,van-kilsdonk,1260.0,Q4,everyday shoes
+5ec4f934f0611d7ddd741563,Spain,es,eu,image,assets/5ec4f934f0611d7ddd741563/5ec4f934f0611d7ddd741563.jpg,Everyday shoes,tejada,2838.0,Q5,everyday shoes
+5ec4fa23f0611d7ddd741d5d,Czech Republic,cz,eu,image,assets/5ec4fa23f0611d7ddd741d5d/5ec4fa23f0611d7ddd741d5d.JPG,Everyday shoes,samba,4183.0,Q5,everyday shoes
+5d4be02bcf0b3a0f3f338c00,Netherlands,nl,eu,image,assets/5d4be02bcf0b3a0f3f338c00/5d4be02bcf0b3a0f3f338c00.jpg,Everyday shoes,van-beek,3344.0,Q5,everyday shoes
+5ec4fa5ef0611d7ddd741f1e,Czech Republic,cz,eu,image,assets/5ec4fa5ef0611d7ddd741f1e/5ec4fa5ef0611d7ddd741f1e.JPG,Everyday shoes,dolezelova,2900.0,Q5,everyday shoes
+5ec4f919f0611d7ddd741472,Spain,es,eu,image,assets/5ec4f919f0611d7ddd741472/5ec4f919f0611d7ddd741472.jpg,Everyday shoes,rodrigo,4256.0,Q5,everyday shoes
+5ec4f90cf0611d7ddd741401,Spain,es,eu,image,assets/5ec4f90cf0611d7ddd741401/5ec4f90cf0611d7ddd741401.jpg,Everyday shoes,sanchez,3195.0,Q5,everyday shoes
+5d4be927cf0b3a0f3f34817a,Ukraine,ua,eu,image,assets/5d4be927cf0b3a0f3f34817a/5d4be927cf0b3a0f3f34817a.jpg,Everyday shoes,sdambulyak,10090.0,Q5,everyday shoes
+5ec4fc11f0611d7ddd742d63,Serbia,rs,eu,image,assets/5ec4fc11f0611d7ddd742d63/5ec4fc11f0611d7ddd742d63.jpg,Everyday shoes,milosevic,3728.0,Q5,everyday shoes
+5ec4f895f0611d7ddd741004,Sweden,se,eu,image,assets/5ec4f895f0611d7ddd741004/5ec4f895f0611d7ddd741004.jpg,Everyday shoes,elzvik-nystrom,3057.0,Q5,everyday shoes
+5d4bde8ccf0b3a0f3f3363fd,Netherlands,nl,eu,image,assets/5d4bde8ccf0b3a0f3f3363fd/5d4bde8ccf0b3a0f3f3363fd.JPG,Everyday shoes,rasing,3150.0,Q5,everyday shoes
+5d4bed6ccf0b3a0f3f34f95a,Tunisia,tn,af,image,assets/5d4bed6ccf0b3a0f3f34f95a/5d4bed6ccf0b3a0f3f34f95a.jpg,Washing clothes/cleaning,ayadi,113.5375491,Q1,washing clothes/cleaning
+5d4bf05ccf0b3a0f3f354ca4,Liberia,lr,af,image,assets/5d4bf05ccf0b3a0f3f354ca4/5d4bf05ccf0b3a0f3f354ca4.jpg,Washing clothes/cleaning,blamoh,116.0,Q1,washing clothes/cleaning
+5d4bec41cf0b3a0f3f34d9dc,Somalia,so,af,image,assets/5d4bec41cf0b3a0f3f34d9dc/5d4bec41cf0b3a0f3f34d9dc.jpg,Washing clothes/cleaning,idle,34.5,Q1,washing clothes/cleaning
+5d4bdf30cf0b3a0f3f337433,Togo,tg,af,image,assets/5d4bdf30cf0b3a0f3f337433/5d4bdf30cf0b3a0f3f337433.JPG,Washing clothes/cleaning,kouleta,45.0,Q1,washing clothes/cleaning
+5d4be629cf0b3a0f3f3432a5,South Africa,za,af,image,assets/5d4be629cf0b3a0f3f3432a5/5d4be629cf0b3a0f3f3432a5.jpg,Washing clothes/cleaning,pypers,90.0,Q1,washing clothes/cleaning
+5d4be1c4cf0b3a0f3f33b991,Kenya,ke,af,image,assets/5d4be1c4cf0b3a0f3f33b991/5d4be1c4cf0b3a0f3f33b991.JPG,Washing clothes/cleaning,nyakangi,82.0,Q1,washing clothes/cleaning
+5d4bf044cf0b3a0f3f354a50,Malawi,mw,af,image,assets/5d4bf044cf0b3a0f3f354a50/5d4bf044cf0b3a0f3f354a50.jpg,Washing clothes/cleaning,wizilamu-01,38.5737255,Q1,washing clothes/cleaning
+5d4bf0afcf0b3a0f3f355544,Cote d'Ivoire,ci,af,image,assets/5d4bf0afcf0b3a0f3f355544/5d4bf0afcf0b3a0f3f355544.jpg,Washing clothes/cleaning,yao-bernabi,82.91518231,Q1,washing clothes/cleaning
+5d4becb6cf0b3a0f3f34e5f0,Zimbabwe,zw,af,image,assets/5d4becb6cf0b3a0f3f34e5f0/5d4becb6cf0b3a0f3f34e5f0.jpg,Washing clothes/cleaning,mubaiwa,73.16914591,Q1,washing clothes/cleaning
+5d4befe6cf0b3a0f3f35403e,Malawi,mw,af,image,assets/5d4befe6cf0b3a0f3f35403e/5d4befe6cf0b3a0f3f35403e.jpg,Washing clothes/cleaning,disimasi,51.88264617,Q1,washing clothes/cleaning
+5d4bdf25cf0b3a0f3f33730d,Togo,tg,af,image,assets/5d4bdf25cf0b3a0f3f33730d/5d4bdf25cf0b3a0f3f33730d.jpg,Washing clothes/cleaning,tchamou,145.0,Q2,washing clothes/cleaning
+5d4bf430cf0b3a0f3f35b334,South Africa,za,af,image,assets/5d4bf430cf0b3a0f3f35b334/5d4bf430cf0b3a0f3f35b334.jpg,Washing clothes/cleaning,vanto,148.0735319,Q2,washing clothes/cleaning
+5d4bedbdcf0b3a0f3f3502cc,Tunisia,tn,af,image,assets/5d4bedbdcf0b3a0f3f3502cc/5d4bedbdcf0b3a0f3f3502cc.jpg,Washing clothes/cleaning,haji,201.0,Q2,washing clothes/cleaning
+5ec4fad6f0611d7ddd742314,Ghana,gh,af,image,assets/5ec4fad6f0611d7ddd742314/5ec4fad6f0611d7ddd742314.jpg,Washing clothes/cleaning,nkrumah,375.0,Q2,washing clothes/cleaning
+5d4bdf32cf0b3a0f3f33745b,Togo,tg,af,image,assets/5d4bdf32cf0b3a0f3f33745b/5d4bdf32cf0b3a0f3f33745b.JPG,Washing clothes/cleaning,ayanou-ahobli,321.0,Q2,washing clothes/cleaning
+5d4bdee2cf0b3a0f3f336bf7,Cameroon,cm,af,image,assets/5d4bdee2cf0b3a0f3f336bf7/5d4bdee2cf0b3a0f3f336bf7.jpg,Washing clothes/cleaning,lekono,301.0,Q2,washing clothes/cleaning
+5d4be400cf0b3a0f3f33f510,Cameroon,cm,af,image,assets/5d4be400cf0b3a0f3f33f510/5d4be400cf0b3a0f3f33f510.jpg,Washing clothes/cleaning,ngo-maten,227.0,Q2,washing clothes/cleaning
+5d4bdf68cf0b3a0f3f337981,Tanzania,tz,af,image,assets/5d4bdf68cf0b3a0f3f337981/5d4bdf68cf0b3a0f3f337981.jpg,Washing clothes/cleaning,nganashe-s,228.0,Q2,washing clothes/cleaning
+5d4bdf71cf0b3a0f3f337a73,Tanzania,tz,af,image,assets/5d4bdf71cf0b3a0f3f337a73/5d4bdf71cf0b3a0f3f337a73.JPG,Washing clothes/cleaning,laizer,164.0,Q2,washing clothes/cleaning
+5ec4f986f0611d7ddd741813,Cameroon,cm,af,image,assets/5ec4f986f0611d7ddd741813/5ec4f986f0611d7ddd741813.jpg,Washing clothes/cleaning,taty,391.0,Q2,washing clothes/cleaning
+5ec4fa39f0611d7ddd741e0f,Ethiopia,et,af,image,assets/5ec4fa39f0611d7ddd741e0f/5ec4fa39f0611d7ddd741e0f.JPG,Washing clothes/cleaning,mozambique,623.0,Q3,washing clothes/cleaning
+5d4bf235cf0b3a0f3f357e46,Egypt,eg,af,image,assets/5d4bf235cf0b3a0f3f357e46/5d4bf235cf0b3a0f3f357e46.jpg,Washing clothes/cleaning,said-01,775.1004718,Q3,washing clothes/cleaning
+5d4be258cf0b3a0f3f33c8e3,Kenya,ke,af,image,assets/5d4be258cf0b3a0f3f33c8e3/700a62a30763501be3f03af3d14c9b32/5d4be258cf0b3a0f3f33c8e3.JPG,"Visit,Washing clothes/cleaning",onyango,461.0,Q3,washing clothes/cleaning
+5d4be007cf0b3a0f3f338966,Nigeria,ng,af,image,assets/5d4be007cf0b3a0f3f338966/5d4be007cf0b3a0f3f338966.jpg,Washing clothes/cleaning,laoye,725.0,Q3,washing clothes/cleaning
+5d4be4cdcf0b3a0f3f340c1c,Cameroon,cm,af,image,assets/5d4be4cdcf0b3a0f3f340c1c/5d4be4cdcf0b3a0f3f340c1c.jpg,Washing clothes/cleaning,ngono,1116.0,Q4,washing clothes/cleaning
+5d4be22dcf0b3a0f3f33c44d,Egypt,eg,af,image,assets/5d4be22dcf0b3a0f3f33c44d/5d4be22dcf0b3a0f3f33c44d.JPG,Washing clothes/cleaning,hassan,1610.0,Q4,washing clothes/cleaning
+5d4be671cf0b3a0f3f343aeb,Tanzania,tz,af,image,assets/5d4be671cf0b3a0f3f343aeb/5d4be671cf0b3a0f3f343aeb.jpg,Washing clothes/cleaning,walugembe,1050.70879,Q4,washing clothes/cleaning
+5d4bf22ecf0b3a0f3f357d84,Egypt,eg,af,image,assets/5d4bf22ecf0b3a0f3f357d84/5d4bf22ecf0b3a0f3f357d84.jpg,Washing clothes/cleaning,said,1493.683201,Q4,washing clothes/cleaning
+5d4be00ecf0b3a0f3f338a12,Nigeria,ng,af,image,assets/5d4be00ecf0b3a0f3f338a12/5d4be00ecf0b3a0f3f338a12.jpg,Washing clothes/cleaning,amama,3750.0,Q5,washing clothes/cleaning
+5ec4fa46f0611d7ddd741e6f,Ethiopia,et,af,image,assets/5ec4fa46f0611d7ddd741e6f/5ec4fa46f0611d7ddd741e6f.JPG,Washing clothes/cleaning,tessema,6316.0,Q5,washing clothes/cleaning
+5d4beb7dcf0b3a0f3f34c52a,Kenya,ke,af,image,assets/5d4beb7dcf0b3a0f3f34c52a/5d4beb7dcf0b3a0f3f34c52a.jpg,Washing clothes/cleaning,kimathi,3267.97326,Q5,washing clothes/cleaning
+5d4be61ccf0b3a0f3f343131,South Africa,za,af,image,assets/5d4be61ccf0b3a0f3f343131/5d4be61ccf0b3a0f3f343131.jpg,Washing clothes/cleaning,hearne,3755.0,Q5,washing clothes/cleaning
+5d4beaa0cf0b3a0f3f34ac84,India,in,as,image,assets/5d4beaa0cf0b3a0f3f34ac84/5d4beaa0cf0b3a0f3f34ac84.jpg,Washing clothes/cleaning,chowdhury,29.03138712,Q1,washing clothes/cleaning
+5ec4f87ff0611d7ddd740f54,Nepal,np,as,image,assets/5ec4f87ff0611d7ddd740f54/5ec4f87ff0611d7ddd740f54.jpg,Washing clothes/cleaning,devi,123.0,Q1,washing clothes/cleaning
+5d4be79ccf0b3a0f3f345c2c,Bangladesh,bd,as,image,assets/5d4be79ccf0b3a0f3f345c2c/5d4be79ccf0b3a0f3f345c2c.jpg,Washing clothes/cleaning,ali,96.0,Q1,washing clothes/cleaning
+5d4be75bcf0b3a0f3f3454ca,Myanmar,mm,as,image,assets/5d4be75bcf0b3a0f3f3454ca/5d4be75bcf0b3a0f3f3454ca.jpg,Washing clothes/cleaning,raju,45.18678511,Q1,washing clothes/cleaning
+5d4be78dcf0b3a0f3f345a74,Indonesia,id,as,image,assets/5d4be78dcf0b3a0f3f345a74/5d4be78dcf0b3a0f3f345a74.jpg,Washing clothes/cleaning,wayan,131.3989924,Q1,washing clothes/cleaning
+5d4be765cf0b3a0f3f3455da,Myanmar,mm,as,image,assets/5d4be765cf0b3a0f3f3455da/5d4be765cf0b3a0f3f3455da.jpg,Washing clothes/cleaning,shew,83.59744058,Q1,washing clothes/cleaning
+5ec4f7fff0611d7ddd740b01,Nepal,np,as,image,assets/5ec4f7fff0611d7ddd740b01/5ec4f7fff0611d7ddd740b01.jpg,Washing clothes/cleaning,khatbe,136.0,Q1,washing clothes/cleaning
+5d4bf165cf0b3a0f3f356718,Indonesia,id,as,image,assets/5d4bf165cf0b3a0f3f356718/5d4bf165cf0b3a0f3f356718.jpg,Washing clothes/cleaning,sukamto,114.5201406,Q1,washing clothes/cleaning
+5d4beaf4cf0b3a0f3f34b688,India,in,as,image,assets/5d4beaf4cf0b3a0f3f34b688/5d4beaf4cf0b3a0f3f34b688.jpg,Washing clothes/cleaning,karan,64.87332687,Q1,washing clothes/cleaning
+5d4be74bcf0b3a0f3f3452fe,Myanmar,mm,as,image,assets/5d4be74bcf0b3a0f3f3452fe/5d4be74bcf0b3a0f3f3452fe.jpg,"Washing clothes/cleaning,Drying",win,68.0,Q1,washing clothes/cleaning
+5d4be779cf0b3a0f3f34582e,Indonesia,id,as,image,assets/5d4be779cf0b3a0f3f34582e/5d4be779cf0b3a0f3f34582e.jpg,Washing clothes/cleaning,mare,316.0,Q2,washing clothes/cleaning
+5d4bf197cf0b3a0f3f356c60,India,in,as,image,assets/5d4bf197cf0b3a0f3f356c60/5d4bf197cf0b3a0f3f356c60.jpg,Washing clothes/cleaning,durai,245.2917235,Q2,washing clothes/cleaning
+5d4be9aacf0b3a0f3f3490cc,Jordan,jo,as,image,assets/5d4be9aacf0b3a0f3f3490cc/5d4be9aacf0b3a0f3f3490cc.jpg,Washing clothes/cleaning,ananzeh,248.6618187,Q2,washing clothes/cleaning
+5d4bf2a0cf0b3a0f3f358986,China,cn,as,image,assets/5d4bf2a0cf0b3a0f3f358986/5d4bf2a0cf0b3a0f3f358986.jpg,Washing clothes/cleaning,kamijo-s,315.0,Q2,washing clothes/cleaning
+5d4bf312cf0b3a0f3f35971c,Cambodia,kh,as,image,assets/5d4bf312cf0b3a0f3f35971c/5d4bf312cf0b3a0f3f35971c.jpg,Washing clothes/cleaning,puk,306.7166772,Q2,washing clothes/cleaning
+5d4be9fecf0b3a0f3f34998c,Jordan,jo,as,image,assets/5d4be9fecf0b3a0f3f34998c/5d4be9fecf0b3a0f3f34998c.jpg,Washing clothes/cleaning,abo-awad,365.787688,Q2,washing clothes/cleaning
+5d4beea7cf0b3a0f3f351cac,Philippines,ph,as,image,assets/5d4beea7cf0b3a0f3f351cac/5d4beea7cf0b3a0f3f351cac.jpg,Washing clothes/cleaning,castillo-01,170.2173637,Q2,washing clothes/cleaning
+5d4bef6fcf0b3a0f3f3533ec,Nepal,np,as,image,assets/5d4bef6fcf0b3a0f3f3533ec/5d4bef6fcf0b3a0f3f3533ec.jpg,Washing clothes/cleaning,lama,201.0990882,Q2,washing clothes/cleaning
+5d4beecfcf0b3a0f3f352142,Philippines,ph,as,image,assets/5d4beecfcf0b3a0f3f352142/5d4beecfcf0b3a0f3f352142.jpg,Washing clothes/cleaning,gacotera,193.8785291,Q2,washing clothes/cleaning
+5d4bee71cf0b3a0f3f35166e,Philippines,ph,as,image,assets/5d4bee71cf0b3a0f3f35166e/5d4bee71cf0b3a0f3f35166e.jpg,Washing clothes/cleaning,pradas,169.3261394,Q2,washing clothes/cleaning
+5d4bee83cf0b3a0f3f351880,Philippines,ph,as,image,assets/5d4bee83cf0b3a0f3f351880/5d4bee83cf0b3a0f3f351880.jpg,Washing clothes/cleaning,legarda,865.0,Q3,washing clothes/cleaning
+5d4be365cf0b3a0f3f33e345,India,in,as,image,assets/5d4be365cf0b3a0f3f33e345/5d4be365cf0b3a0f3f33e345.jpg,Washing clothes/cleaning,sharma-01,963.0,Q3,washing clothes/cleaning
+5d4be1dfcf0b3a0f3f33bbe9,Mongolia,mn,as,image,assets/5d4be1dfcf0b3a0f3f33bbe9/576c125bfd29619a6a29a89e4c15db5b/5d4be1dfcf0b3a0f3f33bbe9.JPG,"Visit,Washing clothes/cleaning",gombo,420.0,Q3,washing clothes/cleaning
+5d4be1abcf0b3a0f3f33b72b,Pakistan,pk,as,image,assets/5d4be1abcf0b3a0f3f33b72b/5d4be1abcf0b3a0f3f33b72b.jpg,Washing clothes/cleaning,ahmed-bukhari,510.0,Q3,washing clothes/cleaning
+5d4bf065cf0b3a0f3f354d94,Kyrgyzstan,kg,as,image,assets/5d4bf065cf0b3a0f3f354d94/5d4bf065cf0b3a0f3f354d94.jpg,Washing clothes/cleaning,glushevsky,826.6158097,Q3,washing clothes/cleaning
+5d4be2afcf0b3a0f3f33d203,India,in,as,image,assets/5d4be2afcf0b3a0f3f33d203/5d4be2afcf0b3a0f3f33d203.jpg,Washing clothes/cleaning,chaurasia,753.0,Q3,washing clothes/cleaning
+5d4bdf20cf0b3a0f3f337285,Nepal,np,as,image,assets/5d4bdf20cf0b3a0f3f337285/5d4bdf20cf0b3a0f3f337285.JPG,Washing clothes/cleaning,lama-02,434.0,Q3,washing clothes/cleaning
+5d4bf413cf0b3a0f3f35b066,China,cn,as,image,assets/5d4bf413cf0b3a0f3f35b066/5d4bf413cf0b3a0f3f35b066.jpg,Washing clothes/cleaning,xi,780.9956673,Q3,washing clothes/cleaning
+5d4bf29acf0b3a0f3f3588ca,China,cn,as,image,assets/5d4bf29acf0b3a0f3f3588ca/5d4bf29acf0b3a0f3f3588ca.jpg,Washing clothes/cleaning,li-02,730.281663,Q3,washing clothes/cleaning
+5d4bf135cf0b3a0f3f35627e,Indonesia,id,as,image,assets/5d4bf135cf0b3a0f3f35627e/5d4bf135cf0b3a0f3f35627e.jpg,Washing clothes/cleaning,purwanto,564.997748,Q3,washing clothes/cleaning
+5d4be0fdcf0b3a0f3f33a3eb,India,in,as,image,assets/5d4be0fdcf0b3a0f3f33a3eb/5d4be0fdcf0b3a0f3f33a3eb.JPG,Washing clothes/cleaning,misra,1295.0,Q4,washing clothes/cleaning
+5d4be0b5cf0b3a0f3f339bad,India,in,as,image,assets/5d4be0b5cf0b3a0f3f339bad/5d4be0b5cf0b3a0f3f339bad.jpg,Washing clothes/cleaning,munot,2596.0,Q4,washing clothes/cleaning
+5d4bf28ccf0b3a0f3f358734,China,cn,as,image,assets/5d4bf28ccf0b3a0f3f358734/5d4bf28ccf0b3a0f3f358734.jpg,Washing clothes/cleaning,cai,1262.21522,Q4,washing clothes/cleaning
+5d4be6bccf0b3a0f3f344368,China,cn,as,image,assets/5d4be6bccf0b3a0f3f344368/5d4be6bccf0b3a0f3f344368.JPG,Washing clothes/cleaning,zhao,2235.172785,Q4,washing clothes/cleaning
+5d4bedcccf0b3a0f3f350482,Thailand,th,as,image,assets/5d4bedcccf0b3a0f3f350482/5d4bedcccf0b3a0f3f350482.jpg,Washing clothes/cleaning,chueachom,1045.845783,Q4,washing clothes/cleaning
+5d4be336cf0b3a0f3f33de99,India,in,as,image,assets/5d4be336cf0b3a0f3f33de99/5d4be336cf0b3a0f3f33de99.jpg,Washing clothes/cleaning,siddharth,1458.0,Q4,washing clothes/cleaning
+5ec4f875f0611d7ddd740ef9,Iran,ir,as,image,assets/5ec4f875f0611d7ddd740ef9/5ec4f875f0611d7ddd740ef9.jpg,Washing clothes/cleaning,moradi,1706.0,Q4,washing clothes/cleaning
+5d4be056cf0b3a0f3f3390b6,India,in,as,image,assets/5d4be056cf0b3a0f3f3390b6/5d4be056cf0b3a0f3f3390b6.jpg,"Visit,Drying,Visit,Washing clothes/cleaning",shinde,2340.0,Q4,washing clothes/cleaning
+5d4be653cf0b3a0f3f34378b,China,cn,as,image,assets/5d4be653cf0b3a0f3f34378b/5d4be653cf0b3a0f3f34378b.JPG,Washing clothes/cleaning,fan,1350.0,Q4,washing clothes/cleaning
+5d4bf2efcf0b3a0f3f3592fe,Cambodia,kh,as,image,assets/5d4bf2efcf0b3a0f3f3592fe/5d4bf2efcf0b3a0f3f3592fe.jpg,Washing clothes/cleaning,moen,1521.763416,Q4,washing clothes/cleaning
+5d4bf4abcf0b3a0f3f35bff6,Vietnam,vn,as,image,assets/5d4bf4abcf0b3a0f3f35bff6/5d4bf4abcf0b3a0f3f35bff6.jpg,Washing clothes/cleaning,tran,2944.177918,Q5,washing clothes/cleaning
+5ec4f962f0611d7ddd7416ec,Iran,ir,as,image,assets/5ec4f962f0611d7ddd7416ec/5ec4f962f0611d7ddd7416ec.JPG,Washing clothes/cleaning,goudarzi,3125.0,Q5,washing clothes/cleaning
+5d4bf2aacf0b3a0f3f358abe,China,cn,as,image,assets/5d4bf2aacf0b3a0f3f358abe/5d4bf2aacf0b3a0f3f358abe.jpg,Washing clothes/cleaning,wu,3704.327276,Q5,washing clothes/cleaning
+5d4be113cf0b3a0f3f33a685,India,in,as,image,assets/5d4be113cf0b3a0f3f33a685/5d4be113cf0b3a0f3f33a685.jpg,Washing clothes/cleaning,rani,6606.0,Q5,washing clothes/cleaning
+5d4be0eecf0b3a0f3f33a235,India,in,as,image,assets/5d4be0eecf0b3a0f3f33a235/5d4be0eecf0b3a0f3f33a235.jpg,Washing clothes/cleaning,ashe,4732.0,Q5,washing clothes/cleaning
+5d4be058cf0b3a0f3f3390fe,India,in,as,image,assets/5d4be058cf0b3a0f3f3390fe/5d4be058cf0b3a0f3f3390fe.jpg,Washing clothes/cleaning,gadage,6490.0,Q5,washing clothes/cleaning
+5d4be710cf0b3a0f3f344d46,South Korea,kr,as,image,assets/5d4be710cf0b3a0f3f344d46/5d4be710cf0b3a0f3f344d46.jpg,Washing clothes/cleaning,han,4530.96226,Q5,washing clothes/cleaning
+5ec4f953f0611d7ddd741667,India,in,as,image,assets/5ec4f953f0611d7ddd741667/5ec4f953f0611d7ddd741667.JPG,Washing clothes/cleaning,mukharjee-goshal,5795.0,Q5,washing clothes/cleaning
+5d4be821cf0b3a0f3f346a85,China,cn,as,image,assets/5d4be821cf0b3a0f3f346a85/5d4be821cf0b3a0f3f346a85.jpg,Washing clothes/cleaning,wong,3318.441334,Q5,washing clothes/cleaning
+5d4be828cf0b3a0f3f346b07,China,cn,as,image,assets/5d4be828cf0b3a0f3f346b07/5d4be828cf0b3a0f3f346b07.jpg,Washing clothes/cleaning,tse,4608.946297,Q5,washing clothes/cleaning
+5d4bf48dcf0b3a0f3f35bd1a,Colombia,co,am,image,assets/5d4bf48dcf0b3a0f3f35bd1a/5d4bf48dcf0b3a0f3f35bd1a.jpg,"Washing clothes/cleaning,Washing clothes/cleaning",alvarado-bello,122.723035,Q1,washing clothes/cleaning
+5d4bf1cdcf0b3a0f3f357238,Haiti,ht,am,image,assets/5d4bf1cdcf0b3a0f3f357238/5d4bf1cdcf0b3a0f3f357238.jpg,Washing clothes/cleaning,pierre,39.53616613,Q1,washing clothes/cleaning
+5d4be666cf0b3a0f3f3439ad,Peru,pe,am,image,assets/5d4be666cf0b3a0f3f3439ad/5d4be666cf0b3a0f3f3439ad.JPG,Washing clothes/cleaning,guispe-de-tenorio,102.0,Q1,washing clothes/cleaning
+5d4bf202cf0b3a0f3f357848,Haiti,ht,am,image,assets/5d4bf202cf0b3a0f3f357848/5d4bf202cf0b3a0f3f357848.jpg,Washing clothes/cleaning,jacques,38.9741533,Q1,washing clothes/cleaning
+5d4bf447cf0b3a0f3f35b5d0,Haiti,ht,am,image,assets/5d4bf447cf0b3a0f3f35b5d0/5d4bf447cf0b3a0f3f35b5d0.jpg,Washing clothes/cleaning,paul,39.9,Q1,washing clothes/cleaning
+5d4bf221cf0b3a0f3f357be8,Haiti,ht,am,image,assets/5d4bf221cf0b3a0f3f357be8/5d4bf221cf0b3a0f3f357be8.jpg,Washing clothes/cleaning,pierre-01,50.7,Q1,washing clothes/cleaning
+5d4bf1e7cf0b3a0f3f357522,Haiti,ht,am,image,assets/5d4bf1e7cf0b3a0f3f357522/5d4bf1e7cf0b3a0f3f357522.jpg,Washing clothes/cleaning,pierro,43.0,Q1,washing clothes/cleaning
+5d4bf1b1cf0b3a0f3f356f12,Haiti,ht,am,image,assets/5d4bf1b1cf0b3a0f3f356f12/5d4bf1b1cf0b3a0f3f356f12.jpg,Washing clothes/cleaning,charles,106.4341981,Q1,washing clothes/cleaning
+5ec4fa8ef0611d7ddd7420b0,Brazil,br,am,image,assets/5ec4fa8ef0611d7ddd7420b0/5ec4fa8ef0611d7ddd7420b0.jpg,Washing clothes/cleaning,cancela-reis,284.0,Q2,washing clothes/cleaning
+5d4bf279cf0b3a0f3f3584e4,Colombia,co,am,image,assets/5d4bf279cf0b3a0f3f3584e4/5d4bf279cf0b3a0f3f3584e4.jpg,Washing clothes/cleaning,iquira-collo,144.688254,Q2,washing clothes/cleaning
+5d4bf304cf0b3a0f3f359568,Bolivia,bo,am,image,assets/5d4bf304cf0b3a0f3f359568/5d4bf304cf0b3a0f3f359568.jpg,Washing clothes/cleaning,kjapa,254.0,Q2,washing clothes/cleaning
+5d4bf250cf0b3a0f3f35810e,Colombia,co,am,image,assets/5d4bf250cf0b3a0f3f35810e/5d4bf250cf0b3a0f3f35810e.jpg,Washing clothes/cleaning,collo-ocoro,143.0,Q2,washing clothes/cleaning
+5d4bf3facf0b3a0f3f35ae08,Bolivia,bo,am,image,assets/5d4bf3facf0b3a0f3f35ae08/5d4bf3facf0b3a0f3f35ae08.jpg,Washing clothes/cleaning,poma,264.9009279,Q2,washing clothes/cleaning
+5d4bdfa5cf0b3a0f3f337fbf,Peru,pe,am,image,assets/5d4bdfa5cf0b3a0f3f337fbf/5d4bdfa5cf0b3a0f3f337fbf.JPG,Washing clothes/cleaning,ramos-perez,180.0,Q2,washing clothes/cleaning
+5d4be162cf0b3a0f3f33afaf,Brazil,br,am,image,assets/5d4be162cf0b3a0f3f33afaf/5d4be162cf0b3a0f3f33afaf.jpg,Washing clothes/cleaning,dos-santos,368.0,Q2,washing clothes/cleaning
+5f42e37eebd73b9cf079c71b,Peru,pe,am,image,assets/5f42e37eebd73b9cf079c71b/5f42e37eebd73b9cf079c71b.JPG,"Visit,Washing clothes/cleaning",martinez-garamendi,246.0,Q2,washing clothes/cleaning
+5d4bec6ccf0b3a0f3f34de84,Bolivia,bo,am,image,assets/5d4bec6ccf0b3a0f3f34de84/5d4bec6ccf0b3a0f3f34de84.jpg,Washing clothes/cleaning,eucinaz,180.0,Q2,washing clothes/cleaning
+5ec4fb80f0611d7ddd7428a8,Colombia,co,am,image,assets/5ec4fb80f0611d7ddd7428a8/5ec4fb80f0611d7ddd7428a8.jpg,Washing clothes/cleaning,gonzales-vargas,261.0,Q2,washing clothes/cleaning
+5d4be541cf0b3a0f3f34198c,United States,us,am,image,assets/5d4be541cf0b3a0f3f34198c/5d4be541cf0b3a0f3f34198c.JPG,Washing clothes/cleaning,macintyre,855.0,Q3,washing clothes/cleaning
+5d4bde30cf0b3a0f3f335b75,United States,us,am,image,assets/5d4bde30cf0b3a0f3f335b75/5d4bde30cf0b3a0f3f335b75.jpg,Washing clothes/cleaning,mortensen,898.0,Q3,washing clothes/cleaning
+5d4bdfaecf0b3a0f3f33805b,Peru,pe,am,image,assets/5d4bdfaecf0b3a0f3f33805b/5d4bdfaecf0b3a0f3f33805b.JPG,Washing clothes/cleaning,huamani-gonzales,398.0,Q3,washing clothes/cleaning
+5d4be424cf0b3a0f3f33f95a,United States,us,am,image,assets/5d4be424cf0b3a0f3f33f95a/5d4be424cf0b3a0f3f33f95a.jpg,Washing clothes/cleaning,freeman,996.0,Q3,washing clothes/cleaning
+5ec4f74df0611d7ddd7404f1,Colombia,co,am,image,assets/5ec4f74df0611d7ddd7404f1/5ec4f74df0611d7ddd7404f1.JPG,"Washing clothes/cleaning,Storage room",jaramillo,722.0,Q3,washing clothes/cleaning
+5ec4fb36f0611d7ddd742632,Colombia,co,am,image,assets/5ec4fb36f0611d7ddd742632/5ec4fb36f0611d7ddd742632.JPG,Washing clothes/cleaning,urrego,824.0,Q3,washing clothes/cleaning
+5d4be175cf0b3a0f3f33b1e5,Brazil,br,am,image,assets/5d4be175cf0b3a0f3f33b1e5/5d4be175cf0b3a0f3f33b1e5.jpg,Washing clothes/cleaning,costa-franklim,456.0,Q3,washing clothes/cleaning
+5ec4fb5cf0611d7ddd74276e,Colombia,co,am,image,assets/5ec4fb5cf0611d7ddd74276e/5ec4fb5cf0611d7ddd74276e.jpg,Washing clothes/cleaning,marquez-arabia,447.0,Q3,washing clothes/cleaning
+5fa3e8e2b030743a1153936a,Colombia,co,am,image,assets/5fa3e8e2b030743a1153936a/dc1a2b164b7385876d89b349a887ca53/5fa3e8e2b030743a1153936a.jpeg,"Visit,Washing clothes/cleaning",gonzalez-giraldo,1025.0,Q3,washing clothes/cleaning
+5d4be195cf0b3a0f3f33b4a3,Brazil,br,am,image,assets/5d4be195cf0b3a0f3f33b4a3/5d4be195cf0b3a0f3f33b4a3.jpg,Washing clothes/cleaning,souza-lima,685.0,Q3,washing clothes/cleaning
+5ec4f979f0611d7ddd7417ab,Colombia,co,am,image,assets/5ec4f979f0611d7ddd7417ab/5ec4f979f0611d7ddd7417ab.jpg,Washing clothes/cleaning,galvis,1734.0,Q4,washing clothes/cleaning
+5f80bec8c07af89548bedd9c,Colombia,co,am,image,assets/5f80bec8c07af89548bedd9c/5f80bec8c07af89548bedd9c.jpg,"Visit,Washing clothes/cleaning",cabrera-vasquez,1051.0,Q4,washing clothes/cleaning
+5d4be4e6cf0b3a0f3f340ee8,United States,us,am,image,assets/5d4be4e6cf0b3a0f3f340ee8/5d4be4e6cf0b3a0f3f340ee8.jpg,Washing clothes/cleaning,williams,2055.0,Q4,washing clothes/cleaning
+5d4be1d2cf0b3a0f3f33babb,United States,us,am,image,assets/5d4be1d2cf0b3a0f3f33babb/5d4be1d2cf0b3a0f3f33babb.JPG,Washing clothes/cleaning,hoffman-tsuhlares,2347.0,Q4,washing clothes/cleaning
+5d4befa4cf0b3a0f3f353902,Mexico,mx,am,image,assets/5d4befa4cf0b3a0f3f353902/5d4befa4cf0b3a0f3f353902.jpg,Washing clothes/cleaning,jaimes,1092.552629,Q4,washing clothes/cleaning
+5d4bef8bcf0b3a0f3f353734,Mexico,mx,am,image,assets/5d4bef8bcf0b3a0f3f353734/5d4bef8bcf0b3a0f3f353734.jpg,Washing clothes/cleaning,pereyra,1080.0,Q4,washing clothes/cleaning
+5d4be537cf0b3a0f3f34185c,United States,us,am,image,assets/5d4be537cf0b3a0f3f34185c/5d4be537cf0b3a0f3f34185c.JPG,Washing clothes/cleaning,diamond-01,2001.0,Q4,washing clothes/cleaning
+5d4be1aacf0b3a0f3f33b70b,Brazil,br,am,image,assets/5d4be1aacf0b3a0f3f33b70b/5d4be1aacf0b3a0f3f33b70b.jpg,Washing clothes/cleaning,busko,1242.0,Q4,washing clothes/cleaning
+5d4bef9dcf0b3a0f3f35383a,Mexico,mx,am,image,assets/5d4bef9dcf0b3a0f3f35383a/5d4bef9dcf0b3a0f3f35383a.jpg,Washing clothes/cleaning,ramos-mota,1950.0,Q4,washing clothes/cleaning
+5d4bef85cf0b3a0f3f35367c,Mexico,mx,am,image,assets/5d4bef85cf0b3a0f3f35367c/5d4bef85cf0b3a0f3f35367c.jpg,Washing clothes/cleaning,ramirez-sanchez,1098.831667,Q4,washing clothes/cleaning
+5ec4f60cf4a4fb7dc0387c53,Colombia,co,am,image,assets/5ec4f60cf4a4fb7dc0387c53/5ec4f60cf4a4fb7dc0387c53.JPG,Washing clothes/cleaning,lara-montoya,6030.0,Q5,washing clothes/cleaning
+5ec4f856f0611d7ddd740de2,United States,us,am,image,assets/5ec4f856f0611d7ddd740de2/5ec4f856f0611d7ddd740de2.JPG,Washing clothes/cleaning,deveney,5125.0,Q5,washing clothes/cleaning
+5ec4f9f5f0611d7ddd741bc6,Colombia,co,am,image,assets/5ec4f9f5f0611d7ddd741bc6/5ec4f9f5f0611d7ddd741bc6.jpg,Washing clothes/cleaning,maria-toro,3108.0,Q5,washing clothes/cleaning
+5d4bebefcf0b3a0f3f34d271,United States,us,am,image,assets/5d4bebefcf0b3a0f3f34d271/5d4bebefcf0b3a0f3f34d271.jpg,Washing clothes/cleaning,howard,4650.0,Q5,washing clothes/cleaning
+5f85a29bc4b8ff0784915fa1,Colombia,co,am,image,assets/5f85a29bc4b8ff0784915fa1/5f85a29bc4b8ff0784915fa1.jpg,"Visit,Washing clothes/cleaning",ochoa-lotero,4275.0,Q5,washing clothes/cleaning
+5d4bdf5fcf0b3a0f3f3378b3,Canada,ca,am,image,assets/5d4bdf5fcf0b3a0f3f3378b3/5d4bdf5fcf0b3a0f3f3378b3.JPG,Washing clothes/cleaning,vo-lowe,3360.0,Q5,washing clothes/cleaning
+5d4be1b8cf0b3a0f3f33b88f,Brazil,br,am,image,assets/5d4be1b8cf0b3a0f3f33b88f/5d4be1b8cf0b3a0f3f33b88f.jpg,Washing clothes/cleaning,sacramento-de-souza,3356.0,Q5,washing clothes/cleaning
+5d4befaacf0b3a0f3f3539ca,Mexico,mx,am,image,assets/5d4befaacf0b3a0f3f3539ca/5d4befaacf0b3a0f3f3539ca.jpg,Washing clothes/cleaning,ortiz,6342.0,Q5,washing clothes/cleaning
+5d4be1f7cf0b3a0f3f33be61,Brazil,br,am,image,assets/5d4be1f7cf0b3a0f3f33be61/5d4be1f7cf0b3a0f3f33be61.jpg,Washing clothes/cleaning,drumond,3916.0,Q5,washing clothes/cleaning
+5d4be04acf0b3a0f3f338f4e,United States,us,am,image,assets/5d4be04acf0b3a0f3f338f4e/5d4be04acf0b3a0f3f338f4e.jpg,Washing clothes/cleaning,janacek,4559.0,Q5,washing clothes/cleaning
+5d4bdf42cf0b3a0f3f3375ff,Serbia,rs,eu,image,assets/5d4bdf42cf0b3a0f3f3375ff/5d4bdf42cf0b3a0f3f3375ff.jpg,Washing clothes/cleaning,jambor,228.0,Q2,washing clothes/cleaning
+5d4be918cf0b3a0f3f347fc8,Ukraine,ua,eu,image,assets/5d4be918cf0b3a0f3f347fc8/5d4be918cf0b3a0f3f347fc8.jpg,Washing clothes/cleaning,krivko,475.7742547,Q3,washing clothes/cleaning
+5ec4fbf7f0611d7ddd742c95,France,fr,eu,image,assets/5ec4fbf7f0611d7ddd742c95/5ec4fbf7f0611d7ddd742c95.jpg,Washing clothes/cleaning,rayez,875.0,Q3,washing clothes/cleaning
+5d4be967cf0b3a0f3f3488fa,Ukraine,ua,eu,image,assets/5d4be967cf0b3a0f3f3488fa/5d4be967cf0b3a0f3f3488fa.jpg,Washing clothes/cleaning,dudakova,694.0,Q3,washing clothes/cleaning
+5d4bdf03cf0b3a0f3f336f7f,Serbia,rs,eu,image,assets/5d4bdf03cf0b3a0f3f336f7f/5d4bdf03cf0b3a0f3f336f7f.jpg,Washing clothes/cleaning,dan,430.0,Q3,washing clothes/cleaning
+5ec4fc55f0611d7ddd742f96,France,fr,eu,image,assets/5ec4fc55f0611d7ddd742f96/5ec4fc55f0611d7ddd742f96.jpg,Washing clothes/cleaning,chamaitte,803.0,Q3,washing clothes/cleaning
+5d4bdfb3cf0b3a0f3f3380db,Netherlands,nl,eu,image,assets/5d4bdfb3cf0b3a0f3f3380db/5d4bdfb3cf0b3a0f3f3380db.jpg,Washing clothes/cleaning,peters,1038.0,Q4,washing clothes/cleaning
+5d4bdf98cf0b3a0f3f337e61,Serbia,rs,eu,image,assets/5d4bdf98cf0b3a0f3f337e61/5d4bdf98cf0b3a0f3f337e61.jpg,Washing clothes/cleaning,rajkovic,1193.0,Q4,washing clothes/cleaning
+5d4bdfbacf0b3a0f3f338177,Netherlands,nl,eu,image,assets/5d4bdfbacf0b3a0f3f338177/5d4bdfbacf0b3a0f3f338177.jpg,Washing clothes/cleaning,bogaardt,1540.0,Q4,washing clothes/cleaning
+5d4bdf99cf0b3a0f3f337e81,Switzerland,ch,eu,image,assets/5d4bdf99cf0b3a0f3f337e81/5d4bdf99cf0b3a0f3f337e81.JPG,Washing clothes/cleaning,renato,2602.0,Q4,washing clothes/cleaning
+5d4bdf80cf0b3a0f3f337c0d,Romania,ro,eu,image,assets/5d4bdf80cf0b3a0f3f337c0d/5d4bdf80cf0b3a0f3f337c0d.jpg,Washing clothes/cleaning,orlea,2379.0,Q4,washing clothes/cleaning
+5d4be402cf0b3a0f3f33f556,United Kingdom,gb,eu,image,assets/5d4be402cf0b3a0f3f33f556/5d4be402cf0b3a0f3f33f556.JPG,Washing clothes/cleaning,barnard,2010.0,Q4,washing clothes/cleaning
+5d4bdea4cf0b3a0f3f336637,Serbia,rs,eu,image,assets/5d4bdea4cf0b3a0f3f336637/5d4bdea4cf0b3a0f3f336637.jpg,Washing clothes/cleaning,zivojinovic,1838.0,Q4,washing clothes/cleaning
+5d4be40bcf0b3a0f3f33f668,United Kingdom,gb,eu,image,assets/5d4be40bcf0b3a0f3f33f668/5d4be40bcf0b3a0f3f33f668.JPG,Washing clothes/cleaning,oliver,1890.0,Q4,washing clothes/cleaning
+5d4be030cf0b3a0f3f338c84,Netherlands,nl,eu,image,assets/5d4be030cf0b3a0f3f338c84/5d4be030cf0b3a0f3f338c84.JPG,Washing clothes/cleaning,van-kilsdonk,1260.0,Q4,washing clothes/cleaning
+5ec4f5cff4a4fb7dc0387a3c,Russia,ru,eu,image,assets/5ec4f5cff4a4fb7dc0387a3c/5ec4f5cff4a4fb7dc0387a3c.jpg,Washing clothes/cleaning,merkushev,2642.0,Q4,washing clothes/cleaning
+5ec4f93ff0611d7ddd7415b1,Spain,es,eu,image,assets/5ec4f93ff0611d7ddd7415b1/5ec4f93ff0611d7ddd7415b1.jpg,Washing clothes/cleaning,tejada,2838.0,Q5,washing clothes/cleaning
+5ec4f930f0611d7ddd74153c,Spain,es,eu,image,assets/5ec4f930f0611d7ddd74153c/5ec4f930f0611d7ddd74153c.jpg,Washing clothes/cleaning,juan-caballero,7639.0,Q5,washing clothes/cleaning
+5d4bdf90cf0b3a0f3f337d9b,Romania,ro,eu,image,assets/5d4bdf90cf0b3a0f3f337d9b/5d4bdf90cf0b3a0f3f337d9b.jpg,Washing clothes/cleaning,bratu,6256.0,Q5,washing clothes/cleaning
+5ec4fa65f0611d7ddd741f56,Czech Republic,cz,eu,image,assets/5ec4fa65f0611d7ddd741f56/5ec4fa65f0611d7ddd741f56.JPG,Washing clothes/cleaning,dolezelova,2900.0,Q5,washing clothes/cleaning
+5ec4fc1ff0611d7ddd742dd6,Serbia,rs,eu,image,assets/5ec4fc1ff0611d7ddd742dd6/5ec4fc1ff0611d7ddd742dd6.jpg,Washing clothes/cleaning,milosevic,3728.0,Q5,washing clothes/cleaning
+5ec4fc20f0611d7ddd742de4,Turkey,tr,eu,image,assets/5ec4fc20f0611d7ddd742de4/5ec4fc20f0611d7ddd742de4.JPG,Washing clothes/cleaning,oztimur,3295.0,Q5,washing clothes/cleaning
+5ec4f922f0611d7ddd7414c5,Spain,es,eu,image,assets/5ec4f922f0611d7ddd7414c5/5ec4f922f0611d7ddd7414c5.jpg,Washing clothes/cleaning,rodrigo,4256.0,Q5,washing clothes/cleaning
+5d4bde92cf0b3a0f3f336491,Netherlands,nl,eu,image,assets/5d4bde92cf0b3a0f3f336491/5d4bde92cf0b3a0f3f336491.JPG,Washing clothes/cleaning,rasing,3150.0,Q5,washing clothes/cleaning
+5d4be93fcf0b3a0f3f34844e,Ukraine,ua,eu,image,assets/5d4be93fcf0b3a0f3f34844e/5d4be93fcf0b3a0f3f34844e.jpg,Washing clothes/cleaning,sdambulyak,10090.0,Q5,washing clothes/cleaning
+5ed419e3685870535c19a206,France,fr,eu,image,assets/5ed419e3685870535c19a206/5ed419e3685870535c19a206.jpg,"Visit,Washing clothes/cleaning",carrillo,7110.0,Q5,washing clothes/cleaning
+5d4bed71cf0b3a0f3f34f9fe,Tunisia,tn,af,image,assets/5d4bed71cf0b3a0f3f34f9fe/5d4bed71cf0b3a0f3f34f9fe.jpg,Drinking water,ayadi,113.5375491,Q1,drinking water
+5d4bef3ecf0b3a0f3f352e38,Nigeria,ng,af,image,assets/5d4bef3ecf0b3a0f3f352e38/5d4bef3ecf0b3a0f3f352e38.jpg,Drinking water,shemede,124.2390709,Q1,drinking water
+5d4bec4fcf0b3a0f3f34db72,Somalia,so,af,image,assets/5d4bec4fcf0b3a0f3f34db72/5d4bec4fcf0b3a0f3f34db72.jpg,Drinking water,idle,34.5,Q1,drinking water
+5d4befc5cf0b3a0f3f353cd4,Malawi,mw,af,image,assets/5d4befc5cf0b3a0f3f353cd4/5d4befc5cf0b3a0f3f353cd4.jpg,Drinking water,banda,50.18041676,Q1,drinking water
+5d4be629cf0b3a0f3f3432a3,South Africa,za,af,image,assets/5d4be629cf0b3a0f3f3432a3/5d4be629cf0b3a0f3f3432a3.jpg,Drinking water,pypers,90.0,Q1,drinking water
+5d4bf0d8cf0b3a0f3f355964,Cote d'Ivoire,ci,af,image,assets/5d4bf0d8cf0b3a0f3f355964/5d4bf0d8cf0b3a0f3f355964.jpg,Drinking water,ahova,80.72770904,Q1,drinking water
+5d4bf045cf0b3a0f3f354a70,Malawi,mw,af,image,assets/5d4bf045cf0b3a0f3f354a70/5d4bf045cf0b3a0f3f354a70.jpg,Drinking water,wizilamu-01,38.5737255,Q1,drinking water
+5d4be045cf0b3a0f3f338ec8,Kenya,ke,af,image,assets/5d4be045cf0b3a0f3f338ec8/5d4be045cf0b3a0f3f338ec8.jpg,Drinking water,nyakangi,82.0,Q1,drinking water
+5d4becb8cf0b3a0f3f34e640,Zimbabwe,zw,af,image,assets/5d4becb8cf0b3a0f3f34e640/5d4becb8cf0b3a0f3f34e640.jpg,Drinking water,mubaiwa,73.16914591,Q1,drinking water
+5d4bf3a4cf0b3a0f3f35a5fa,Burkina Faso,bf,af,image,assets/5d4bf3a4cf0b3a0f3f35a5fa/5d4bf3a4cf0b3a0f3f35a5fa.jpg,Drinking water,bande,52.95427615,Q1,drinking water
+5d4bdf24cf0b3a0f3f337305,Togo,tg,af,image,assets/5d4bdf24cf0b3a0f3f337305/5d4bdf24cf0b3a0f3f337305.jpg,Drinking water,tchamou,145.0,Q2,drinking water
+5d4bdf74cf0b3a0f3f337ac3,Tanzania,tz,af,image,assets/5d4bdf74cf0b3a0f3f337ac3/5d4bdf74cf0b3a0f3f337ac3.jpg,Drinking water,laizer,164.0,Q2,drinking water
+5ec4fb12f0611d7ddd742509,Ghana,gh,af,image,assets/5ec4fb12f0611d7ddd742509/5ec4fb12f0611d7ddd742509.jpg,Drinking water,ampiah,213.0,Q2,drinking water
+5ec4fad2f0611d7ddd7422f2,Ghana,gh,af,image,assets/5ec4fad2f0611d7ddd7422f2/5ec4fad2f0611d7ddd7422f2.jpg,Drinking water,nkrumah,375.0,Q2,drinking water
+5d4bdee1cf0b3a0f3f336bcb,Cameroon,cm,af,image,assets/5d4bdee1cf0b3a0f3f336bcb/5d4bdee1cf0b3a0f3f336bcb.jpg,Drinking water,meke,352.0,Q2,drinking water
+5ec4f9eaf0611d7ddd741b7e,Ethiopia,et,af,image,assets/5ec4f9eaf0611d7ddd741b7e/5ec4f9eaf0611d7ddd741b7e.JPG,Drinking water,badego,306.0,Q2,drinking water
+5d4bdf67cf0b3a0f3f33795b,Tanzania,tz,af,image,assets/5d4bdf67cf0b3a0f3f33795b/5d4bdf67cf0b3a0f3f33795b.jpg,Drinking water,nganashe-s,228.0,Q2,drinking water
+5d4bee4acf0b3a0f3f3511f8,Rwanda,rw,af,image,assets/5d4bee4acf0b3a0f3f3511f8/5d4bee4acf0b3a0f3f3511f8.jpg,Drinking water,nshimyimana,250.7905551,Q2,drinking water
+5d4be4e4cf0b3a0f3f340eba,Cameroon,cm,af,image,assets/5d4be4e4cf0b3a0f3f340eba/5d4be4e4cf0b3a0f3f340eba.jpg,Drinking water,mbusya,174.0,Q2,drinking water
+5ec4f98df0611d7ddd74184f,Cameroon,cm,af,image,assets/5ec4f98df0611d7ddd74184f/5ec4f98df0611d7ddd74184f.jpg,Drinking water,taty,391.0,Q2,drinking water
+5ec4f9cff0611d7ddd741a87,Ethiopia,et,af,image,assets/5ec4f9cff0611d7ddd741a87/5ec4f9cff0611d7ddd741a87.JPG,Drinking water,gachino,604.0,Q3,drinking water
+5d4be007cf0b3a0f3f33895e,Nigeria,ng,af,image,assets/5d4be007cf0b3a0f3f33895e/5d4be007cf0b3a0f3f33895e.jpg,Drinking water,laoye,725.0,Q3,drinking water
+5f623edb64a0ea9f83eca076,Kenya,ke,af,image,assets/5f623edb64a0ea9f83eca076/5f623edb64a0ea9f83eca076.JPG,"Visit,Drinking water",onyango,461.0,Q3,drinking water
+5d4be28acf0b3a0f3f33ce5d,South Africa,za,af,image,assets/5d4be28acf0b3a0f3f33ce5d/5d4be28acf0b3a0f3f33ce5d.jpg,Drinking water,ngethu,751.0,Q3,drinking water
+5ec4fa37f0611d7ddd741e02,Ethiopia,et,af,image,assets/5ec4fa37f0611d7ddd741e02/5ec4fa37f0611d7ddd741e02.JPG,Drinking water,mozambique,623.0,Q3,drinking water
+5ec4f9def0611d7ddd741b0b,Ethiopia,et,af,image,assets/5ec4f9def0611d7ddd741b0b/5ec4f9def0611d7ddd741b0b.JPG,Drinking water,arusa,719.0,Q3,drinking water
+5d4bdf29cf0b3a0f3f337397,Togo,tg,af,image,assets/5d4bdf29cf0b3a0f3f337397/5d4bdf29cf0b3a0f3f337397.JPG,Drinking water,messan,670.0,Q3,drinking water
+5ec4f983f0611d7ddd7417fb,Cameroon,cm,af,image,assets/5ec4f983f0611d7ddd7417fb/5ec4f983f0611d7ddd7417fb.jpg,Drinking water,engola,745.0,Q3,drinking water
+5d4be4cbcf0b3a0f3f340bd6,Cameroon,cm,af,image,assets/5d4be4cbcf0b3a0f3f340bd6/5d4be4cbcf0b3a0f3f340bd6.jpg,Drinking water,ngono,1116.0,Q4,drinking water
+5d4be03ecf0b3a0f3f338e08,Nigeria,ng,af,image,assets/5d4be03ecf0b3a0f3f338e08/5d4be03ecf0b3a0f3f338e08.JPG,Drinking water,ojah,1643.0,Q4,drinking water
+5d4be673cf0b3a0f3f343b29,Tanzania,tz,af,image,assets/5d4be673cf0b3a0f3f343b29/5d4be673cf0b3a0f3f343b29.jpg,Drinking water,walugembe,1050.70879,Q4,drinking water
+5f13284b123a7902ce07cf5c,Egypt,eg,af,image,assets/5f13284b123a7902ce07cf5c/5f13284b123a7902ce07cf5c.JPG,"Visit,Drinking water",hassan,1610.0,Q4,drinking water
+5d4be00ecf0b3a0f3f338a0a,Nigeria,ng,af,image,assets/5d4be00ecf0b3a0f3f338a0a/5d4be00ecf0b3a0f3f338a0a.jpg,Drinking water,amama,3750.0,Q5,drinking water
+5ec4fa4af0611d7ddd741e8d,Ethiopia,et,af,image,assets/5ec4fa4af0611d7ddd741e8d/5ec4fa4af0611d7ddd741e8d.JPG,Drinking water,tessema,6316.0,Q5,drinking water
+5d4beb7acf0b3a0f3f34c4be,Kenya,ke,af,image,assets/5d4beb7acf0b3a0f3f34c4be/5d4beb7acf0b3a0f3f34c4be.jpg,Drinking water,kimathi,3267.97326,Q5,drinking water
+5d4be61ecf0b3a0f3f34315b,South Africa,za,af,image,assets/5d4be61ecf0b3a0f3f34315b/5d4be61ecf0b3a0f3f34315b.jpg,"Drinks,Drinking water,Get water",hearne,3755.0,Q5,drinking water
+5f63931119b655426588c1ce,Pakistan,pk,as,image,assets/5f63931119b655426588c1ce/5f63931119b655426588c1ce.jpg,"Visit,Drinking water",joyia,133.0,Q1,drinking water
+5d4bef68cf0b3a0f3f35331e,Nepal,np,as,image,assets/5d4bef68cf0b3a0f3f35331e/5d4bef68cf0b3a0f3f35331e.jpg,Drinking water,maharjan,84.23636022,Q1,drinking water
+5d4bef56cf0b3a0f3f3530f6,Nepal,np,as,image,assets/5d4bef56cf0b3a0f3f3530f6/5d4bef56cf0b3a0f3f3530f6.jpg,Drinking water,tamang,121.2854363,Q1,drinking water
+5d4be7a2cf0b3a0f3f345cc4,Bangladesh,bd,as,image,assets/5d4be7a2cf0b3a0f3f345cc4/5d4be7a2cf0b3a0f3f345cc4.jpg,"Hand washing,Drinking water",mondol,85.47677069,Q1,drinking water
+5d4be747cf0b3a0f3f345294,Myanmar,mm,as,image,assets/5d4be747cf0b3a0f3f345294/5d4be747cf0b3a0f3f345294.jpg,Drinking water,win,68.0,Q1,drinking water
+5d4be7afcf0b3a0f3f345e4e,Bangladesh,bd,as,image,assets/5d4be7afcf0b3a0f3f345e4e/5d4be7afcf0b3a0f3f345e4e.jpg,Drinking water,paramanik-01,72.10457258,Q1,drinking water
+5ec4f806f0611d7ddd740b44,Nepal,np,as,image,assets/5ec4f806f0611d7ddd740b44/5ec4f806f0611d7ddd740b44.jpg,Drinking water,khatbe,136.0,Q1,drinking water
+5ec4f87ef0611d7ddd740f49,Nepal,np,as,image,assets/5ec4f87ef0611d7ddd740f49/5ec4f87ef0611d7ddd740f49.jpg,Drinking water,devi,123.0,Q1,drinking water
+5d4be796cf0b3a0f3f345b6c,Bangladesh,bd,as,image,assets/5d4be796cf0b3a0f3f345b6c/5d4be796cf0b3a0f3f345b6c.jpg,"Hand washing,Drinking water",sheik,78.0,Q1,drinking water
+5d4beaa4cf0b3a0f3f34acf8,India,in,as,image,assets/5d4beaa4cf0b3a0f3f34acf8/5d4beaa4cf0b3a0f3f34acf8.jpg,Drinking water,chowdhury,29.03138712,Q1,drinking water
+5d4bee9fcf0b3a0f3f351bc4,Philippines,ph,as,image,assets/5d4bee9fcf0b3a0f3f351bc4/5d4bee9fcf0b3a0f3f351bc4.jpg,Drinking water,pingol,228.0,Q2,drinking water
+5d4bf2c2cf0b3a0f3f358d90,Cambodia,kh,as,image,assets/5d4bf2c2cf0b3a0f3f358d90/5d4bf2c2cf0b3a0f3f358d90.jpg,"Social drink,Drinking water",som,195.0,Q2,drinking water
+5d4beac2cf0b3a0f3f34b086,India,in,as,image,assets/5d4beac2cf0b3a0f3f34b086/5d4beac2cf0b3a0f3f34b086.jpg,Drinking water,munshi,170.0,Q2,drinking water
+5f8c6582e894f04fa877dfd1,Pakistan,pk,as,image,assets/5f8c6582e894f04fa877dfd1/271058e795e10cc6e2f26bf5ce80d2c5/5f8c6582e894f04fa877dfd1.jpg,"Visit,Drinking water",abbas,304.0,Q2,drinking water
+5d4be38ecf0b3a0f3f33e7e5,India,in,as,image,assets/5d4be38ecf0b3a0f3f33e7e5/5d4be38ecf0b3a0f3f33e7e5.jpg,Drinking water,singh-01,369.0,Q2,drinking water
+5ec4f8e0f0611d7ddd741292,Pakistan,pk,as,image,assets/5ec4f8e0f0611d7ddd741292/5ec4f8e0f0611d7ddd741292.jpg,Drinking water,abdul-majeed,251.0,Q2,drinking water
+5ec4f81ff0611d7ddd740c0d,Nepal,np,as,image,assets/5ec4f81ff0611d7ddd740c0d/5ec4f81ff0611d7ddd740c0d.jpg,Drinking water,tharu,172.0,Q2,drinking water
+5d4bee7ccf0b3a0f3f3517aa,Philippines,ph,as,image,assets/5d4bee7ccf0b3a0f3f3517aa/5d4bee7ccf0b3a0f3f3517aa.jpg,Drinking water,limpiado,261.7931219,Q2,drinking water
+5d4be9b0cf0b3a0f3f349168,Jordan,jo,as,image,assets/5d4be9b0cf0b3a0f3f349168/5d4be9b0cf0b3a0f3f349168.jpg,Drinking water,ananzeh,248.6618187,Q2,drinking water
+5d4bea68cf0b3a0f3f34a5f2,India,in,as,image,assets/5d4bea68cf0b3a0f3f34a5f2/5d4bea68cf0b3a0f3f34a5f2.jpg,Drinking water,naskar,221.3244168,Q2,drinking water
+5d4be6adcf0b3a0f3f3441c0,China,cn,as,image,assets/5d4be6adcf0b3a0f3f3441c0/5d4be6adcf0b3a0f3f3441c0.JPG,Drinking water,zhang-01,575.2545865,Q3,drinking water
+5d4be2b4cf0b3a0f3f33d26f,India,in,as,image,assets/5d4be2b4cf0b3a0f3f33d26f/5d4be2b4cf0b3a0f3f33d26f.jpg,Drinking water,chaurasia,753.0,Q3,drinking water
+5d4be1e4cf0b3a0f3f33bc65,Mongolia,mn,as,image,assets/5d4be1e4cf0b3a0f3f33bc65/5d4be1e4cf0b3a0f3f33bc65.JPG,Drinking water,gombo,420.0,Q3,drinking water
+5d4be7f1cf0b3a0f3f346517,China,cn,as,image,assets/5d4be7f1cf0b3a0f3f346517/5d4be7f1cf0b3a0f3f346517.jpg,Drinking water,bianma-s,960.0,Q3,drinking water
+5d4be9d3cf0b3a0f3f349598,Jordan,jo,as,image,assets/5d4be9d3cf0b3a0f3f349598/5d4be9d3cf0b3a0f3f349598.jpg,Drinking water,qors,583.0,Q3,drinking water
+5d4bf2bacf0b3a0f3f358c92,China,cn,as,image,assets/5d4bf2bacf0b3a0f3f358c92/5d4bf2bacf0b3a0f3f358c92.jpg,Drinking water,zhong,578.1396498,Q3,drinking water
+5d4be057cf0b3a0f3f3390e6,India,in,as,image,assets/5d4be057cf0b3a0f3f3390e6/5d4be057cf0b3a0f3f3390e6.jpg,Drinking water,guha,607.0,Q3,drinking water
+5d4bdf1dcf0b3a0f3f33724b,Nepal,np,as,image,assets/5d4bdf1dcf0b3a0f3f33724b/5d4bdf1dcf0b3a0f3f33724b.JPG,Drinking water,lama-02,434.0,Q3,drinking water
+5d4be190cf0b3a0f3f33b3f7,Sri Lanka,lk,as,image,assets/5d4be190cf0b3a0f3f33b3f7/5d4be190cf0b3a0f3f33b3f7.JPG,Drinking water,kuruwagalapatiye,909.0,Q3,drinking water
+5d4be1b1cf0b3a0f3f33b7cf,Pakistan,pk,as,image,assets/5d4be1b1cf0b3a0f3f33b7cf/5d4be1b1cf0b3a0f3f33b7cf.jpg,"Drinking water,Get water",ahmed-bukhari,510.0,Q3,drinking water
+5d4bea45cf0b3a0f3f34a1e8,India,in,as,image,assets/5d4bea45cf0b3a0f3f34a1e8/5d4bea45cf0b3a0f3f34a1e8.jpg,Drinking water,mondal-01,1050.0,Q4,drinking water
+5ec4f874f0611d7ddd740eef,Iran,ir,as,image,assets/5ec4f874f0611d7ddd740eef/5ec4f874f0611d7ddd740eef.jpg,Drinking water,moradi,1706.0,Q4,drinking water
+5d4bdff1cf0b3a0f3f338758,Pakistan,pk,as,image,assets/5d4bdff1cf0b3a0f3f338758/5d4bdff1cf0b3a0f3f338758.jpg,Drinking water,alia-anwar,1308.0,Q4,drinking water
+5edf658912a022022d87acdb,Nepal,np,as,image,assets/5edf658912a022022d87acdb/5edf658912a022022d87acdb.jpg,"Visit,Drinking water",prayapati,1091.0,Q4,drinking water
+5ec4fabaf0611d7ddd742221,Iran,ir,as,image,assets/5ec4fabaf0611d7ddd742221/5ec4fabaf0611d7ddd742221.jpg,Drinking water,sarlak,1841.0,Q4,drinking water
+5d4bdfcacf0b3a0f3f3382fa,Pakistan,pk,as,image,assets/5d4bdfcacf0b3a0f3f3382fa/5d4bdfcacf0b3a0f3f3382fa.jpg,Drinking water,rameez,1208.0,Q4,drinking water
+5d4bdf15cf0b3a0f3f337167,Indonesia,id,as,image,assets/5d4bdf15cf0b3a0f3f337167/5d4bdf15cf0b3a0f3f337167.JPG,Drinking water,carolina,2594.0,Q4,drinking water
+5d4be7facf0b3a0f3f346639,China,cn,as,image,assets/5d4be7facf0b3a0f3f346639/5d4be7facf0b3a0f3f346639.jpg,Drinking water,li-01,1546.213644,Q4,drinking water
+5d4be314cf0b3a0f3f33db3b,India,in,as,image,assets/5d4be314cf0b3a0f3f33db3b/5d4be314cf0b3a0f3f33db3b.jpg,Drinking water,kisher-singh,1125.0,Q4,drinking water
+5d4be156cf0b3a0f3f33ae55,Pakistan,pk,as,image,assets/5d4be156cf0b3a0f3f33ae55/5d4be156cf0b3a0f3f33ae55.jpg,Drinking water,rafique,1179.0,Q4,drinking water
+5f7dc007ba4483a899a59cee,China,cn,as,image,assets/5f7dc007ba4483a899a59cee/5f7dc007ba4483a899a59cee.JPG,"Visit,Drinking water",liu,4734.0,Q5,drinking water
+5ec4f94df0611d7ddd741632,India,in,as,image,assets/5ec4f94df0611d7ddd741632/5ec4f94df0611d7ddd741632.JPG,Drinking water,mukharjee-goshal,5795.0,Q5,drinking water
+5d4be129cf0b3a0f3f33a921,India,in,as,image,assets/5d4be129cf0b3a0f3f33a921/5d4be129cf0b3a0f3f33a921.JPG,Drinking water,kulkarni,2842.0,Q5,drinking water
+5d4be98fcf0b3a0f3f348d98,Jordan,jo,as,image,assets/5d4be98fcf0b3a0f3f348d98/5d4be98fcf0b3a0f3f348d98.jpg,Drinking water,murad,7433.155246,Q5,drinking water
+5d4bf2aacf0b3a0f3f358ab0,China,cn,as,image,assets/5d4bf2aacf0b3a0f3f358ab0/5d4bf2aacf0b3a0f3f358ab0.jpg,Drinking water,wu,3704.327276,Q5,drinking water
+5d4be0edcf0b3a0f3f33a20f,India,in,as,image,assets/5d4be0edcf0b3a0f3f33a20f/5d4be0edcf0b3a0f3f33a20f.jpg,Drinking water,ashe,4732.0,Q5,drinking water
+5ec4f960f0611d7ddd7416d6,Iran,ir,as,image,assets/5ec4f960f0611d7ddd7416d6/5ec4f960f0611d7ddd7416d6.JPG,Drinking water,goudarzi,3125.0,Q5,drinking water
+5d4bf4accf0b3a0f3f35c022,Vietnam,vn,as,image,assets/5d4bf4accf0b3a0f3f35c022/5d4bf4accf0b3a0f3f35c022.jpg,Drinking water,tran,2944.177918,Q5,drinking water
+5d4be817cf0b3a0f3f34695d,China,cn,as,image,assets/5d4be817cf0b3a0f3f34695d/5d4be817cf0b3a0f3f34695d.jpg,Drinking water,bi,10097.72176,Q5,drinking water
+5d4be05fcf0b3a0f3f3391c0,India,in,as,image,assets/5d4be05fcf0b3a0f3f3391c0/5d4be05fcf0b3a0f3f3391c0.jpg,"Drinking water,Sources of Drinking Water",singh,3611.0,Q5,drinking water
+5d4bf1d0cf0b3a0f3f35728c,Haiti,ht,am,image,assets/5d4bf1d0cf0b3a0f3f35728c/5d4bf1d0cf0b3a0f3f35728c.jpg,Drinking water,pierre,39.53616613,Q1,drinking water
+5f623ccb64a0ea78b6ec9f06,Peru,pe,am,image,assets/5f623ccb64a0ea78b6ec9f06/5f623ccb64a0ea78b6ec9f06.jpg,"Visit,Drinking water",guispe-de-tenorio,102.0,Q1,drinking water
+5d4bf205cf0b3a0f3f3578a2,Haiti,ht,am,image,assets/5d4bf205cf0b3a0f3f3578a2/5d4bf205cf0b3a0f3f3578a2.jpg,Drinking water,jacques,38.9741533,Q1,drinking water
+5d4bf472cf0b3a0f3f35ba9a,Colombia,co,am,image,assets/5d4bf472cf0b3a0f3f35ba9a/5d4bf472cf0b3a0f3f35ba9a.jpg,Drinking water,alvarado-bello,122.723035,Q1,drinking water
+5d4bf449cf0b3a0f3f35b628,Haiti,ht,am,image,assets/5d4bf449cf0b3a0f3f35b628/5d4bf449cf0b3a0f3f35b628.jpg,Drinking water,paul,39.9,Q1,drinking water
+5d4bdef3cf0b3a0f3f336ddb,Peru,pe,am,image,assets/5d4bdef3cf0b3a0f3f336ddb/5d4bdef3cf0b3a0f3f336ddb.jpg,Drinking water,quispe-sulea,83.0,Q1,drinking water
+5d4bf1e9cf0b3a0f3f357564,Haiti,ht,am,image,assets/5d4bf1e9cf0b3a0f3f357564/5d4bf1e9cf0b3a0f3f357564.jpg,Drinking water,pierro,43.0,Q1,drinking water
+5d4bf1b5cf0b3a0f3f356f88,Haiti,ht,am,image,assets/5d4bf1b5cf0b3a0f3f356f88/5d4bf1b5cf0b3a0f3f356f88.jpg,Drinking water,charles,106.4341981,Q1,drinking water
+5ec4fa93f0611d7ddd7420dc,Brazil,br,am,image,assets/5ec4fa93f0611d7ddd7420dc/5ec4fa93f0611d7ddd7420dc.jpg,Drinking water,cancela-reis,284.0,Q2,drinking water
+5d4bf27ccf0b3a0f3f35853c,Colombia,co,am,image,assets/5d4bf27ccf0b3a0f3f35853c/5d4bf27ccf0b3a0f3f35853c.jpg,Drinking water,iquira-collo,144.688254,Q2,drinking water
+5d4bf3fdcf0b3a0f3f35ae60,Bolivia,bo,am,image,assets/5d4bf3fdcf0b3a0f3f35ae60/5d4bf3fdcf0b3a0f3f35ae60.jpg,Drinking water,poma,264.9009279,Q2,drinking water
+5d4bf253cf0b3a0f3f358156,Colombia,co,am,image,assets/5d4bf253cf0b3a0f3f358156/5d4bf253cf0b3a0f3f358156.jpg,Drinking water,collo-ocoro,143.0,Q2,drinking water
+5d4be161cf0b3a0f3f33af8f,Brazil,br,am,image,assets/5d4be161cf0b3a0f3f33af8f/5d4be161cf0b3a0f3f33af8f.JPG,"Drinking water,Get water",dos-santos,368.0,Q2,drinking water
+5d4bdfa0cf0b3a0f3f337f43,Peru,pe,am,image,assets/5d4bdfa0cf0b3a0f3f337f43/5d4bdfa0cf0b3a0f3f337f43.jpg,Drinking water,ramos-perez,180.0,Q2,drinking water
+5d4bf307cf0b3a0f3f3595d6,Bolivia,bo,am,image,assets/5d4bf307cf0b3a0f3f3595d6/5d4bf307cf0b3a0f3f3595d6.jpg,Drinking water,kjapa,254.0,Q2,drinking water
+5d4bec6ecf0b3a0f3f34dec2,Bolivia,bo,am,image,assets/5d4bec6ecf0b3a0f3f34dec2/5d4bec6ecf0b3a0f3f34dec2.jpg,Drinking water,eucinaz,180.0,Q2,drinking water
+5ec4f88bf0611d7ddd740fac,Guatemala,gt,am,image,assets/5ec4f88bf0611d7ddd740fac/5ec4f88bf0611d7ddd740fac.jpg,Drinking water,castro,270.0,Q2,drinking water
+5d4bde46cf0b3a0f3f335d7f,United States,us,am,image,assets/5d4bde46cf0b3a0f3f335d7f/5d4bde46cf0b3a0f3f335d7f.jpg,Drinking water,mortensen,898.0,Q3,drinking water
+5d4bde59cf0b3a0f3f335f3b,United States,us,am,image,assets/5d4bde59cf0b3a0f3f335f3b/5d4bde59cf0b3a0f3f335f3b.jpg,Drinking water,stringini,960.0,Q3,drinking water
+5d4bdfa0cf0b3a0f3f337f49,Peru,pe,am,image,assets/5d4bdfa0cf0b3a0f3f337f49/5d4bdfa0cf0b3a0f3f337f49.jpg,Drinking water,huamani-gonzales,398.0,Q3,drinking water
+5fa325b3a4fd6107765dfcd7,Colombia,co,am,image,assets/5fa325b3a4fd6107765dfcd7/0b1dfbe4ac8dcafa687c68bacedac1ac/5fa325b3a4fd6107765dfcd7.jpeg,"Visit,Drinking water",gonzalez-giraldo,1025.0,Q3,drinking water
+5ec4f75ef0611d7ddd740576,Colombia,co,am,image,assets/5ec4f75ef0611d7ddd740576/5ec4f75ef0611d7ddd740576.png,Drinking water,bustamante,722.0,Q3,drinking water
+5d4be545cf0b3a0f3f3419ec,United States,us,am,image,assets/5d4be545cf0b3a0f3f3419ec/5d4be545cf0b3a0f3f3419ec.JPG,Drinking water,macintyre,855.0,Q3,drinking water
+5d4bebcccf0b3a0f3f34ce57,United States,us,am,image,assets/5d4bebcccf0b3a0f3f34ce57/5d4bebcccf0b3a0f3f34ce57.jpg,Drinking water,hadley,604.0,Q3,drinking water
+5ec4fb62f0611d7ddd7427a1,Colombia,co,am,image,assets/5ec4fb62f0611d7ddd7427a1/5ec4fb62f0611d7ddd7427a1.jpg,Drinking water,marquez-arabia,447.0,Q3,drinking water
+5f60c50dfd7b6ed6d98b3768,Brazil,br,am,image,assets/5f60c50dfd7b6ed6d98b3768/5f60c50dfd7b6ed6d98b3768.JPG,"Visit,Drinking water",carneiro-dos-santos,1034.0,Q3,drinking water
+5ec4f74bf0611d7ddd7404d7,Colombia,co,am,image,assets/5ec4f74bf0611d7ddd7404d7/5ec4f74bf0611d7ddd7404d7.jpg,Drinking water,jaramillo,722.0,Q3,drinking water
+5d4be4eccf0b3a0f3f340fa4,United States,us,am,image,assets/5d4be4eccf0b3a0f3f340fa4/5d4be4eccf0b3a0f3f340fa4.jpg,Drinking water,williams,2055.0,Q4,drinking water
+5d4be53dcf0b3a0f3f34190c,United States,us,am,image,assets/5d4be53dcf0b3a0f3f34190c/5d4be53dcf0b3a0f3f34190c.JPG,Drinking water,diamond-01,2001.0,Q4,drinking water
+5f80a58c95979926db4bdc22,Colombia,co,am,image,assets/5f80a58c95979926db4bdc22/5f80a58c95979926db4bdc22.jpg,"Visit,Drinking water,Visit,Get water",cabrera-vasquez,1051.0,Q4,drinking water
+5ec4fb2ef0611d7ddd7425f1,Colombia,co,am,image,assets/5ec4fb2ef0611d7ddd7425f1/5ec4fb2ef0611d7ddd7425f1.jpg,Drinking water,cruz,1963.0,Q4,drinking water
+5f16f9355a3198986693ef8c,United States,us,am,image,assets/5f16f9355a3198986693ef8c/5f16f9355a3198986693ef8c.jpg,"Visit,Drinking water",moore,1732.0,Q4,drinking water
+5ec4fb6af0611d7ddd7427eb,Colombia,co,am,image,assets/5ec4fb6af0611d7ddd7427eb/5ec4fb6af0611d7ddd7427eb.JPG,Drinking water,arrieta-diaz,1392.0,Q4,drinking water
+5d4be1a9cf0b3a0f3f33b6f5,Brazil,br,am,image,assets/5d4be1a9cf0b3a0f3f33b6f5/5d4be1a9cf0b3a0f3f33b6f5.jpg,Drinking water,busko,1242.0,Q4,drinking water
+5d4be1eecf0b3a0f3f33bd81,United States,us,am,image,assets/5d4be1eecf0b3a0f3f33bd81/5d4be1eecf0b3a0f3f33bd81.JPG,Drinking water,hoffman-tsuhlares,2347.0,Q4,drinking water
+5f4eb3b2d9a02b559d5e94bb,Colombia,co,am,image,assets/5f4eb3b2d9a02b559d5e94bb/5f4eb3b2d9a02b559d5e94bb.jpg,"Visit,Drinking water",nieves-barliza,1699.0,Q4,drinking water
+5d4be3f3cf0b3a0f3f33f3a5,United States,us,am,image,assets/5d4be3f3cf0b3a0f3f33f3a5/5d4be3f3cf0b3a0f3f33f3a5.jpg,Drinking water,melissa-s,1796.0,Q4,drinking water
+5ec4f865f0611d7ddd740e66,United States,us,am,image,assets/5ec4f865f0611d7ddd740e66/5ec4f865f0611d7ddd740e66.JPG,Drinking water,deveney,5125.0,Q5,drinking water
+5f60c76924da4a284f8e5ae4,United States,us,am,image,assets/5f60c76924da4a284f8e5ae4/5f60c76924da4a284f8e5ae4.JPG,"Visit,Drinking water",diamond,4446.0,Q5,drinking water
+5ec4f9faf0611d7ddd741bf4,Colombia,co,am,image,assets/5ec4f9faf0611d7ddd741bf4/5ec4f9faf0611d7ddd741bf4.jpg,Drinking water,maria-toro,3108.0,Q5,drinking water
+5f84c84b866b83d5b4e0d35c,Colombia,co,am,image,assets/5f84c84b866b83d5b4e0d35c/5f84c84b866b83d5b4e0d35c.jpg,"Visit,Drinking water",ochoa-lotero,4275.0,Q5,drinking water
+5ec4fb96f0611d7ddd742960,Colombia,co,am,image,assets/5ec4fb96f0611d7ddd742960/5ec4fb96f0611d7ddd742960.JPG,Drinking water,loaiza-de-arias,3748.0,Q5,drinking water
+5d4be1bccf0b3a0f3f33b8d3,Brazil,br,am,image,assets/5d4be1bccf0b3a0f3f33b8d3/5d4be1bccf0b3a0f3f33b8d3.jpg,"Drinking water,Get water",sacramento-de-souza,3356.0,Q5,drinking water
+5f88956f7e757227f8baca27,Colombia,co,am,image,assets/5f88956f7e757227f8baca27/0b2f41435d99134952b1cfb776126c7a/5f88956f7e757227f8baca27.jpg,"Visit,Drinking water",castano,3325.0,Q5,drinking water
+5ec4f73af0611d7ddd74043e,Colombia,co,am,image,assets/5ec4f73af0611d7ddd74043e/5ec4f73af0611d7ddd74043e.JPG,Drinking water,lara-montoya,6030.0,Q5,drinking water
+5ec4f840f0611d7ddd740d34,United States,us,am,image,assets/5ec4f840f0611d7ddd740d34/5ec4f840f0611d7ddd740d34.JPG,Drinking water,rivera,3478.0,Q5,drinking water
+5d4be1ffcf0b3a0f3f33bf35,Brazil,br,am,image,assets/5d4be1ffcf0b3a0f3f33bf35/5d4be1ffcf0b3a0f3f33bf35.jpg,Drinking water,drumond,3916.0,Q5,drinking water
+5d4bdeeecf0b3a0f3f336d69,Serbia,rs,eu,image,assets/5d4bdeeecf0b3a0f3f336d69/5d4bdeeecf0b3a0f3f336d69.jpg,Drinking water,sosic,207.0,Q2,drinking water
+5d4bdf41cf0b3a0f3f3375eb,Serbia,rs,eu,image,assets/5d4bdf41cf0b3a0f3f3375eb/5d4bdf41cf0b3a0f3f3375eb.jpg,Drinking water,jambor,228.0,Q2,drinking water
+5d4bdedccf0b3a0f3f336b4b,Serbia,rs,eu,image,assets/5d4bdedccf0b3a0f3f336b4b/5d4bdedccf0b3a0f3f336b4b.jpg,Drinking water,stan,239.0,Q2,drinking water
+5d4be96dcf0b3a0f3f34899c,Ukraine,ua,eu,image,assets/5d4be96dcf0b3a0f3f34899c/5d4be96dcf0b3a0f3f34899c.jpg,Drinking water,dudakova,694.0,Q3,drinking water
+5ec4fbfff0611d7ddd742cd5,France,fr,eu,image,assets/5ec4fbfff0611d7ddd742cd5/5ec4fbfff0611d7ddd742cd5.jpg,Drinking water,rayez,875.0,Q3,drinking water
+5d4be91dcf0b3a0f3f348048,Ukraine,ua,eu,image,assets/5d4be91dcf0b3a0f3f348048/5d4be91dcf0b3a0f3f348048.jpg,Drinking water,krivko,475.7742547,Q3,drinking water
+5ec4fc5df0611d7ddd742fd8,France,fr,eu,image,assets/5ec4fc5df0611d7ddd742fd8/5ec4fc5df0611d7ddd742fd8.jpg,Drinking water,chamaitte,803.0,Q3,drinking water
+5d4be0d7cf0b3a0f3f339f99,Netherlands,nl,eu,image,assets/5d4be0d7cf0b3a0f3f339f99/5d4be0d7cf0b3a0f3f339f99.jpg,Drinking water,jocher,1998.0,Q4,drinking water
+5d4be0decf0b3a0f3f33a055,Netherlands,nl,eu,image,assets/5d4be0decf0b3a0f3f33a055/5d4be0decf0b3a0f3f33a055.JPG,Drinking water,ploum,2370.0,Q4,drinking water
+5d4bdfb6cf0b3a0f3f338121,Netherlands,nl,eu,image,assets/5d4bdfb6cf0b3a0f3f338121/5d4bdfb6cf0b3a0f3f338121.jpg,Drinking water,peters,1038.0,Q4,drinking water
+5d4bdf9ecf0b3a0f3f337f11,Switzerland,ch,eu,image,assets/5d4bdf9ecf0b3a0f3f337f11/5d4bdf9ecf0b3a0f3f337f11.JPG,Drinking water,renato,2602.0,Q4,drinking water
+5ec4f8daf0611d7ddd74125f,Austria,at,eu,image,assets/5ec4f8daf0611d7ddd74125f/5ec4f8daf0611d7ddd74125f.JPG,Drinking water,wessling,1681.0,Q4,drinking water
+5d4bdea8cf0b3a0f3f33668f,Serbia,rs,eu,image,assets/5d4bdea8cf0b3a0f3f33668f/5d4bdea8cf0b3a0f3f33668f.jpg,Drinking water,zivojinovic,1838.0,Q4,drinking water
+5d4be033cf0b3a0f3f338cd6,Netherlands,nl,eu,image,assets/5d4be033cf0b3a0f3f338cd6/5d4be033cf0b3a0f3f338cd6.JPG,Drinking water,van-kilsdonk,1260.0,Q4,drinking water
+5d4bdf97cf0b3a0f3f337e45,Serbia,rs,eu,image,assets/5d4bdf97cf0b3a0f3f337e45/5d4bdf97cf0b3a0f3f337e45.jpg,Drinking water,rajkovic,1193.0,Q4,drinking water
+5ec4f5ccf4a4fb7dc0387a1f,Russia,ru,eu,image,assets/5ec4f5ccf4a4fb7dc0387a1f/5ec4f5ccf4a4fb7dc0387a1f.jpg,"Drinking water,Get water",merkushev,2642.0,Q4,drinking water
+5d4bdfbecf0b3a0f3f3381c7,Netherlands,nl,eu,image,assets/5d4bdfbecf0b3a0f3f3381c7/5d4bdfbecf0b3a0f3f3381c7.jpg,Drinking water,bogaardt,1540.0,Q4,drinking water
+5ec4f906f0611d7ddd7413cc,Spain,es,eu,image,assets/5ec4f906f0611d7ddd7413cc/5ec4f906f0611d7ddd7413cc.jpg,Drinking water,dela-torre-sawtana,4553.0,Q5,drinking water
+5d4bde2fcf0b3a0f3f335b57,Italy,it,eu,image,assets/5d4bde2fcf0b3a0f3f335b57/5d4bde2fcf0b3a0f3f335b57.JPG,Drinking water,bravo,3536.0,Q5,drinking water
+5ec4f93df0611d7ddd7415a4,Spain,es,eu,image,assets/5ec4f93df0611d7ddd7415a4/5ec4f93df0611d7ddd7415a4.jpg,Drinking water,tejada,2838.0,Q5,drinking water
+5d4be8f3cf0b3a0f3f347b7e,Ukraine,ua,eu,image,assets/5d4be8f3cf0b3a0f3f347b7e/5d4be8f3cf0b3a0f3f347b7e.jpg,Drinking water,loginov,3363.3971,Q5,drinking water
+6057c01a5ca7db690ba5dcb9,Denmark,dk,eu,image,assets/6057c01a5ca7db690ba5dcb9/84c6b49d96bec135194ed5ce9327a3ad/6057c01a5ca7db690ba5dcb9.jpg,"Visit,Drinking water",hansen-refsing,5343.0,Q5,drinking water
+5ec4fa28f0611d7ddd741d8c,Czech Republic,cz,eu,image,assets/5ec4fa28f0611d7ddd741d8c/5ec4fa28f0611d7ddd741d8c.JPG,Drinking water,samba,4183.0,Q5,drinking water
+5ec4fa64f0611d7ddd741f4d,Czech Republic,cz,eu,image,assets/5ec4fa64f0611d7ddd741f4d/5ec4fa64f0611d7ddd741f4d.JPG,Drinking water,dolezelova,2900.0,Q5,drinking water
+5ec4f8f6f0611d7ddd741351,Spain,es,eu,image,assets/5ec4f8f6f0611d7ddd741351/5ec4f8f6f0611d7ddd741351.jpg,Drinking water,garrido,4253.0,Q5,drinking water
+5ec4f913f0611d7ddd74143d,Spain,es,eu,image,assets/5ec4f913f0611d7ddd74143d/5ec4f913f0611d7ddd74143d.jpg,Drinking water,sanchez,3195.0,Q5,drinking water
+5efb545848cdeb20c8b5e39e,Austria,at,eu,image,assets/5efb545848cdeb20c8b5e39e/5efb545848cdeb20c8b5e39e.JPG,"Visit,Drinking water",posch,3003.0,Q5,drinking water
+5d4be629cf0b3a0f3f3432b3,South Africa,za,af,image,assets/5d4be629cf0b3a0f3f3432b3/5d4be629cf0b3a0f3f3432b3.jpg,"Family snapshots,Portraits",pypers,90.0,Q1,portraits
+5d4be2bccf0b3a0f3f33d32d,India,in,as,image,assets/5d4be2bccf0b3a0f3f33d32d/5d4be2bccf0b3a0f3f33d32d.jpg,Portraits,chaurasia,753.0,Q3,portraits
+5d4be47ecf0b3a0f3f3402ce,India,in,as,image,assets/5d4be47ecf0b3a0f3f3402ce/5d4be47ecf0b3a0f3f3402ce.jpg,"Portraits,Family",rishabu-arya,504.0,Q3,portraits
+5d4be441cf0b3a0f3f33fcb2,India,in,as,image,assets/5d4be441cf0b3a0f3f33fcb2/5d4be441cf0b3a0f3f33fcb2.jpg,"Portraits,Family",siddharth,1458.0,Q4,portraits
+5d4be4a5cf0b3a0f3f34075e,India,in,as,image,assets/5d4be4a5cf0b3a0f3f34075e/5d4be4a5cf0b3a0f3f34075e.jpg,"Portraits,Family",kisher-singh,1125.0,Q4,portraits
+5d4be3f7cf0b3a0f3f33f42d,United States,us,am,image,assets/5d4be3f7cf0b3a0f3f33f42d/5d4be3f7cf0b3a0f3f33f42d.jpg,Portraits,melissa-s,1796.0,Q4,portraits
+5d4be534cf0b3a0f3f341804,United States,us,am,image,assets/5d4be534cf0b3a0f3f341804/5d4be534cf0b3a0f3f341804.JPG,Portraits,diamond-01,2001.0,Q4,portraits
+5d4be1f2cf0b3a0f3f33bdf3,United States,us,am,image,assets/5d4be1f2cf0b3a0f3f33bdf3/5d4be1f2cf0b3a0f3f33bdf3.JPG,Portraits,hoffman-tsuhlares,2347.0,Q4,portraits
+5d4be408cf0b3a0f3f33f612,United Kingdom,gb,eu,image,assets/5d4be408cf0b3a0f3f33f612/5d4be408cf0b3a0f3f33f612.JPG,Portraits,barnard,2010.0,Q4,portraits
+5d4be628cf0b3a0f3f343291,South Africa,za,af,image,assets/5d4be628cf0b3a0f3f343291/5d4be628cf0b3a0f3f343291.jpg,"Clothes,Wardrobe",pypers,90.0,Q1,clothes
+5d4be4cdcf0b3a0f3f340c22,Cameroon,cm,af,image,assets/5d4be4cdcf0b3a0f3f340c22/5d4be4cdcf0b3a0f3f340c22.jpg,"Clothes,Wardrobe",ngono,1116.0,Q4,clothes
+5d4beb78cf0b3a0f3f34c484,Kenya,ke,af,image,assets/5d4beb78cf0b3a0f3f34c484/5d4beb78cf0b3a0f3f34c484.jpg,"Wardrobe,Clothes",kimathi,3267.97326,Q5,clothes
+5d4beb81cf0b3a0f3f34c59a,Kenya,ke,af,image,assets/5d4beb81cf0b3a0f3f34c59a/5d4beb81cf0b3a0f3f34c59a.jpg,Clothes,kimathi,3267.97326,Q5,clothes
+5d4be61ccf0b3a0f3f34312f,South Africa,za,af,image,assets/5d4be61ccf0b3a0f3f34312f/5d4be61ccf0b3a0f3f34312f.jpg,"Clothes,Wardrobe",hearne,3755.0,Q5,clothes
+5d4be740cf0b3a0f3f3451c2,Myanmar,mm,as,image,assets/5d4be740cf0b3a0f3f3451c2/5d4be740cf0b3a0f3f3451c2.jpg,Clothes,wai,141.0,Q1,clothes
+5d4beb90cf0b3a0f3f34c760,Lebanon,lb,as,image,assets/5d4beb90cf0b3a0f3f34c760/5d4beb90cf0b3a0f3f34c760.jpg,Clothes,abouakar,832.0,Q3,clothes
+5d4be53fcf0b3a0f3f341932,United States,us,am,image,assets/5d4be53fcf0b3a0f3f341932/5d4be53fcf0b3a0f3f341932.JPG,Clothes,macintyre,855.0,Q3,clothes
+5d4be4e7cf0b3a0f3f340f1a,United States,us,am,image,assets/5d4be4e7cf0b3a0f3f340f1a/5d4be4e7cf0b3a0f3f340f1a.jpg,"Wardrobe,Clothes",williams,2055.0,Q4,clothes
