@@ -1,0 +1,7 @@
+group,n,accuracy,ci_lower,ci_upper
+drinking water,5,1.0,1.0,1.0
+everyday shoes,5,1.0,1.0,1.0
+stove/hob,3,1.0,1.0,1.0
+toilet,6,1.0,1.0,1.0
+tv,6,1.0,1.0,1.0
+washing clothes/cleaning,5,1.0,1.0,1.0

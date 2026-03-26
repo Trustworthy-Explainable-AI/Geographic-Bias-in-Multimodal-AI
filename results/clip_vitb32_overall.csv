@@ -1,0 +1,2 @@
+group,n,accuracy,ci_lower,ci_upper
+all,30,0.9,0.8,1.0
