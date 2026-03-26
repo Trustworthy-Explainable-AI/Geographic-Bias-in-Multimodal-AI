@@ -36,5 +36,3 @@ for i, rel_path in enumerate(image_paths):
 
 print(f"Done. {len(image_paths) - len(missing)} copied, {len(missing)} missing.")
 
-# Optional: delete the full cache after copying to save disk
-# shutil.rmtree(dataset_root)
