@@ -34,7 +34,14 @@ QWEN_DEVICE = "auto"
 
 GEMINI_MODEL_NAME  = "gemini-2.0-flash"
 GEMINI_API_KEY     = os.environ.get("GEMINI_API_KEY")
-GEMINI_MAX_RETRIES = 3
-GEMINI_RETRY_DELAY = 10   
+GEMINI_MAX_RETRIES = 2
+GEMINI_RETRY_DELAY = 2 
+
+INFERENCE_PROMPT_TEMPLATE = (
+    "Which of the following best describes the main subject of this image?\n"
+    "Options:\n{options}\n\n"
+    "Reply with only the option letter (e.g. A, B, C …). "
+    "Do not include any explanation."
+) 
 
 BATCH_SIZE  = 16

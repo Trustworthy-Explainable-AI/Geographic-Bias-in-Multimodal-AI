@@ -1,5 +1,5 @@
 from abc import ABC, abstractmethod
-from typing import List, Optional
+from typing import List
  
 from PIL import Image
  
@@ -8,7 +8,6 @@ class BaseModel(ABC):
     """
     Minimal interface shared by CLIP, Qwen-VL, and Gemini.
     """
- 
     @property
     @abstractmethod
     def name(self) -> str:
@@ -21,10 +20,9 @@ class BaseModel(ABC):
     @abstractmethod
     def load(self) -> None:
         """
-        Download / initialise model weights or API client.
+        Download or initialises model weights or API client.
  
         Called once before the first call to predict_batch().
-        Must be idempotent: calling load() a second time should be a no-op.
         """
         ...
  
@@ -37,13 +35,11 @@ class BaseModel(ABC):
         """
         Run inference on a batch of PIL images.
  
-        Parameters
-        ----------
+        Parameters:
         images     : List of PIL Image objects, already opened and in RGB mode.
-        categories : The candidate category labels for this run (8 labels).
+        categories : The candidate category labels for this run.
  
-        Returns
-        -------
+        Returns:
         A list of dicts, one per image, each with these keys:
  
             predicted   (str | None)   – winning category, or None if the
@@ -64,7 +60,5 @@ class BaseModel(ABC):
     def unload(self) -> None:
         """
         Release GPU memory and any other held resources.
- 
-        The default is a no-op. Override in GPU-heavy models (CLIP, Qwen).
         """
         pass

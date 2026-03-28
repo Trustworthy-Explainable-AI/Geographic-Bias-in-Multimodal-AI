@@ -6,17 +6,11 @@ from typing import List
  
 import pandas as pd
  
-from ..config.config import (
-    CATEGORIES,
-    RESULTS_DIR,
-    EVAL_SUBSET_PATH,
-    IMAGE_ROOT,
-    BATCH_SIZE,
-)
-from ..data.dataset import load_eval_subset, load_image
-from ..evaluate import classify_error, tag_collapse, compute_summary
-from ..models import CLIPModel, QwenVLModel, GeminiModel
-from ..models.base import BaseModel
+from .config.config import CATEGORIES, RESULTS_DIR, EVAL_SUBSET_PATH, IMAGE_ROOT, BATCH_SIZE
+from .data.dataset import load_eval_subset, load_image
+from .evaluation.evaluate import classify_error, tag_collapse, compute_summary
+from .models import CLIPModel, QwenVLModel, GeminiModel
+from .models.base import BaseModel
  
 
 logging.basicConfig(
@@ -53,7 +47,7 @@ def parse_args() -> argparse.Namespace:
         type=int,
         default=None,
         metavar="N",
-        help="Use only the first N images. Useful for smoke-testing (e.g. --sample 30).",
+        help="Use only the first N images. (e.g. --sample 30).",
     )
     parser.add_argument(
         "--image-root",
@@ -76,25 +70,7 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
  
 
-def run_model(
-    model:       BaseModel,
-    df:          pd.DataFrame,
-    image_root:  Path,
-    categories:  List[str],
-    batch_size:  int,
-) -> pd.DataFrame:
-    """_summary_
-
-    Args:
-        model (BaseModel): _description_
-        df (pd.DataFrame): _description_
-        image_root (Path): _description_
-        categories (List[str]): _description_
-        batch_size (int): _description_
-
-    Returns:
-        pd.DataFrame: _description_
-    """
+def run_model(model:BaseModel, df:pd.DataFrame, image_root:Path, categories:List[str], batch_size:int) -> pd.DataFrame:
     records  = []
     skipped  = 0
     total    = len(df)
@@ -117,7 +93,6 @@ def run_model(
  
         if not images:
             continue
- 
         predictions = model.predict_batch(images, categories)
  
         for row, pred in zip(valid_rows, predictions):
@@ -137,7 +112,6 @@ def run_model(
                 "raw_response":    pred["raw_response"],
                 "error_type":      error_type,
             })
- 
         done = min(batch_start + batch_size, total)
         log.info(f"  [{model.name}] {done:>5}/{total} images processed …")
  
@@ -147,32 +121,17 @@ def run_model(
  
     n_correct = result_df["correct"].sum()
     n_total   = len(result_df)
-    log.info(
-        f"[{model.name}] Done. "
+    log.info(f"[{model.name}] Done. "
         f"Accuracy: {n_correct}/{n_total} = {n_correct/n_total:.1%}. "
-        f"Skipped: {skipped} images."
-    )
+        f"Skipped: {skipped} images.")
     return result_df
  
 
-def save_results(
-    result_df:   pd.DataFrame,
-    results_dir: Path,
-    model_name:  str,
-) -> None:
-    """_summary_
-
-    Args:
-        result_df (pd.DataFrame): _description_
-        results_dir (Path): _description_
-        model_name (str): _description_
-    """
+def save_results(result_df:pd.DataFrame, results_dir:Path, model_name:str) -> None:
     results_dir.mkdir(parents=True, exist_ok=True)
- 
     raw_path = results_dir / f"{model_name}_predictions.csv"
     result_df.to_csv(raw_path, index=False)
     log.info(f"  Saved predictions → {raw_path}")
- 
     summaries = compute_summary(result_df)
     for table_name, table_df in summaries.items():
         path = results_dir / f"{model_name}_{table_name}.csv"
@@ -187,29 +146,26 @@ def main() -> None:
             f"Image root does not exist: {args.image_root}\n"
             "  Set the correct path with --image-root or the env var "
             "DOLLAR_STREET_IMAGE_ROOT.\n"
-            "  Images that cannot be found will be skipped during inference."
-        )
+            "  Images that cannot be found will be skipped during inference.")
 
     log.info(f"Loading eval subset: {args.eval_subset}")
     if not args.eval_subset.exists():
         log.error(
             f"Evaluation subset not found: {args.eval_subset}\n"
-            "  Place dollar_street_eval_subset_v2.csv in the data/ directory."
-        )
+            "  Place dollar_street_eval_subset_v2.csv in the data/ directory.")
         sys.exit(1)
  
     df = load_eval_subset(path=args.eval_subset, sample_size=args.sample)
     log.info(
         f"  {len(df)} images | {df['region.id'].nunique()} regions | "
         f"{df['income_quintile'].nunique()} quintiles | "
-        f"{df['topic_single'].nunique()} categories"
-    )
+        f"{df['topic_single'].nunique()} categories")
  
     for model_key in args.models:
         log.info(f"\n{'=' * 60}")
         log.info(f"  MODEL: {model_key.upper()}")
         log.info(f"{'=' * 60}")
- 
+
         model = MODEL_REGISTRY[model_key]()
         try:
             model.load()
@@ -225,7 +181,6 @@ def main() -> None:
             log.exception(f"[{model_key}] Fatal error — skipping this model.")
         finally:
             model.unload()
- 
     log.info("\nAll done. Results written to: %s", args.results_dir)
  
  

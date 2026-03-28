@@ -5,55 +5,10 @@ from PIL import Image
 
 from transformers import Qwen2VLForConditionalGeneration, AutoProcessor
 from .base import BaseModel
-from ..config import QWEN_MODEL_NAME, QWEN_MAX_NEW_TOKENS, QWEN_DEVICE, CATEGORY_PROMPTS
- 
-
-def _build_prompt(categories: List[str]) -> str:
-    """_summary_
-
-    Args:
-        categories (List[str]): _description_
-
-    Returns:
-        str: _description_
-    """
-    options = "\n".join(
-        f"  {chr(65 + i)}) {CATEGORY_PROMPTS.get(cat, cat)}"
-        for i, cat in enumerate(categories)
-    )
-    return (
-        "Which of the following best describes the main subject of this image?\n"
-        f"Options:\n{options}\n\n"
-        "Reply with only the option letter (e.g. A, B, C …). "
-        "Do not include any explanation."
-    )
- 
- 
-def _parse_response(raw: str, categories: List[str]):
-    """_summary_
-
-    Args:
-        raw (str): _description_
-        categories (List[str]): _description_
-
-    Returns:
-        _type_: _description_
-    """
-    clean = raw.strip().upper()
-    if clean and clean[0].isalpha():
-        idx = ord(clean[0]) - ord("A")
-        if 0 <= idx < len(categories):
-            return categories[idx]
-    return None
- 
+from ..config import QWEN_MODEL_NAME, QWEN_MAX_NEW_TOKENS, QWEN_DEVICE
+from .utils import _build_prompt, _parse_response
 
 class QwenVLModel(BaseModel):
-    """_summary_
-
-    Args:
-        BaseModel (_type_): _description_
-    """
- 
     def __init__(
         self,
         model_name:      str = QWEN_MODEL_NAME,
@@ -83,20 +38,7 @@ class QwenVLModel(BaseModel):
         )
         self._processor = AutoProcessor.from_pretrained(self._model_name)
  
-    def predict_batch(
-        self,
-        images: List[Image.Image],
-        categories: List[str],
-    ) -> List[dict]:
-        """_summary_
-
-        Args:
-            images (List[Image.Image]): _description_
-            categories (List[str]): _description_
-
-        Returns:
-            List[dict]: _description_
-        """
+    def predict_batch(self, images: List[Image.Image], categories: List[str]) -> List[dict]:
         return [self._predict_single(img, categories) for img in images]
  
     def unload(self) -> None:
@@ -107,15 +49,6 @@ class QwenVLModel(BaseModel):
             torch.cuda.empty_cache()
  
     def _predict_single(self, image: Image.Image, categories: List[str]) -> dict:
-        """_summary_
-
-        Args:
-            image (Image.Image): _description_
-            categories (List[str]): _description_
-
-        Returns:
-            dict: _description_
-        """
         prompt = _build_prompt(categories)
         messages = [
             {

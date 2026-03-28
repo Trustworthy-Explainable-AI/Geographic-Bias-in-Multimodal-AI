@@ -9,12 +9,7 @@ from ..config.config import CLIP_MODEL_NAME, CLIP_PROMPT_TEMPLATE, CATEGORY_PROM
  
  
 class CLIPModel(BaseModel):
-    """_summary_
 
-    Args:
-        BaseModel (_type_): _description_
-    """
- 
     def __init__(self, model_name: str = CLIP_MODEL_NAME):
         self._model_name = model_name
         self._model      = None
@@ -32,27 +27,13 @@ class CLIPModel(BaseModel):
         self._model, self._preprocess = clip.load(self._model_name, device=self._device)
         self._model.eval()
  
-    def predict_batch(
-        self,
-        images: List[Image.Image],
-        categories: List[str],
-    ) -> List[dict]:
-        """_summary_
-
-        Args:
-            images (List[Image.Image]): _description_
-            categories (List[str]): _description_
-
-        Returns:
-            List[dict]: _description_
-        """
+    def predict_batch(self, images: List[Image.Image], categories: List[str]) -> List[dict]:
+        
         text_features = self._encode_texts(categories)
- 
         results = []
         for img in images:
             img_tensor   = self._preprocess(img).unsqueeze(0).to(self._device)
             img_features = self._encode_image(img_tensor)
-
 
             sims = (img_features @ text_features.T).squeeze(0)
             sims_cpu = sims.cpu().float().numpy()
@@ -75,14 +56,6 @@ class CLIPModel(BaseModel):
  
  
     def _encode_texts(self, categories: List[str]) -> torch.Tensor:
-        """_summary_
-
-        Args:
-            categories (List[str]): _description_
-
-        Returns:
-            torch.Tensor: _description_
-        """
         prompts = [
             CLIP_PROMPT_TEMPLATE.format(label=CATEGORY_PROMPTS.get(cat, cat))
             for cat in categories
@@ -95,14 +68,6 @@ class CLIPModel(BaseModel):
 
 
     def _encode_image(self, img_tensor: torch.Tensor) -> torch.Tensor:
-        """_summary_
-
-        Args:
-            img_tensor (torch.Tensor): _description_
-
-        Returns:
-            torch.Tensor: _description_
-        """
         with torch.no_grad():
             feats = self._model.encode_image(img_tensor)
             feats = feats / feats.norm(dim=-1, keepdim=True)

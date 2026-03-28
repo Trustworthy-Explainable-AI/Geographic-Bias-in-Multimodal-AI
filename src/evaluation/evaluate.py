@@ -5,23 +5,10 @@ from typing import List, Optional
 import numpy as np
 import pandas as pd
  
-def classify_error(
-    correct: bool,
-    predicted: Optional[str],
-    categories: List[str],
-) -> Optional[str]:
-    """_summary_
 
-    Args:
-        correct (bool): _description_
-        predicted (Optional[str]): _description_
-        categories (List[str]): _description_
-
-    Returns:
-        Optional[str]: _description_
-    """
+def classify_error(correct: bool, predicted: Optional[str], categories: List[str]) -> Optional[str]:
     if correct:
-        return None
+        return "exact"
     if predicted is None:
         return "abstention"
     if predicted not in categories:
@@ -30,15 +17,6 @@ def classify_error(
  
 
 def tag_collapse(df: pd.DataFrame, threshold: float = 0.90) -> pd.DataFrame:
-    """_summary_
-
-    Args:
-        df (pd.DataFrame): _description_
-        threshold (float, optional): _description_. Defaults to 0.90.
-
-    Returns:
-        pd.DataFrame: _description_
-    """
     valid = df["predicted"].dropna()
     if valid.empty:
         return df
@@ -54,29 +32,12 @@ def tag_collapse(df: pd.DataFrame, threshold: float = 0.90) -> pd.DataFrame:
  
  
 
-def bootstrap_accuracy(
-    correct: np.ndarray,
-    n_bootstrap: int = 1000,
-    alpha: float = 0.05,
-    rng_seed: int = 42,
-) -> tuple[float, float, float]:
-    """_summary_
-
-    Args:
-        correct (np.ndarray): _description_
-        n_bootstrap (int, optional): _description_. Defaults to 1000.
-        alpha (float, optional): _description_. Defaults to 0.05.
-        rng_seed (int, optional): _description_. Defaults to 42.
-
-    Returns:
-        tuple[float, float, float]: _description_
-    """
+def bootstrap_accuracy(correct: np.ndarray, n_bootstrap: int = 1000, alpha: float = 0.05, rng_seed: int = 42) -> tuple[float, float, float]:
     rng = np.random.default_rng(rng_seed)
     n   = len(correct)
     boot_means = np.array([
         rng.choice(correct, size=n, replace=True).mean()
-        for _ in range(n_bootstrap)
-    ])
+        for _ in range(n_bootstrap)])
     lo = float(np.percentile(boot_means, 100 * alpha / 2))
     hi = float(np.percentile(boot_means, 100 * (1 - alpha / 2)))
     return float(correct.mean()), lo, hi
@@ -96,14 +57,6 @@ def _accuracy_row(subset: pd.DataFrame, group_label: str) -> dict:
  
  
 def compute_summary(df: pd.DataFrame) -> dict[str, pd.DataFrame]:
-    """_summary_
-
-    Args:
-        df (pd.DataFrame): _description_
-
-    Returns:
-        dict[str, pd.DataFrame]: _description_
-    """
     summaries: dict[str, pd.DataFrame] = {}
     summaries["overall"] = pd.DataFrame([_accuracy_row(df, "all")])
     summaries["by_region"] = pd.DataFrame([

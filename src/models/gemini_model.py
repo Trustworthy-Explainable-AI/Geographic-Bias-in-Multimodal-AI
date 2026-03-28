@@ -7,36 +7,8 @@ from google import genai
 from google.genai import types
 
 from .base import BaseModel
-from ..config import (
-    GEMINI_MODEL_NAME,
-    GEMINI_API_KEY,
-    GEMINI_MAX_RETRIES,
-    GEMINI_RETRY_DELAY,
-    CATEGORY_PROMPTS,
-)
-
-
-def _build_prompt(categories: List[str]) -> str:
-    options = "\n".join(
-        f"  {chr(65 + i)}) {CATEGORY_PROMPTS.get(cat, cat)}"
-        for i, cat in enumerate(categories)
-    )
-    return (
-        "You are a concise image classifier. "
-        "Which of the following best describes the main subject of this image?\n"
-        f"Options:\n{options}\n\n"
-        "Reply with only the option letter (e.g. A, B, C …). "
-        "Do not include any explanation."
-    )
-
-
-def _parse_response(raw: str, categories: List[str]) -> Optional[str]:
-    clean = raw.strip().upper()
-    if clean and clean[0].isalpha():
-        idx = ord(clean[0]) - ord("A")
-        if 0 <= idx < len(categories):
-            return categories[idx]
-    return None
+from ..config import GEMINI_MODEL_NAME, GEMINI_API_KEY, GEMINI_MAX_RETRIES, GEMINI_RETRY_DELAY
+from .utils import _build_prompt, _parse_response
 
 
 def _pil_to_jpeg_bytes(img: Image.Image) -> bytes:
@@ -78,7 +50,7 @@ class GeminiModel(BaseModel):
         return [self._predict_single(img, categories) for img in images]
 
     def _predict_single(self, image: Image.Image, categories: List[str]) -> dict:
-        time.sleep(6)
+        time.sleep(2)
         prompt    = _build_prompt(categories)
         img_bytes = _pil_to_jpeg_bytes(image)
 
