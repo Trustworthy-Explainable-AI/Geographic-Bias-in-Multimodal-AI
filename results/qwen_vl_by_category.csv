@@ -1,0 +1,9 @@
+group,n,accuracy,ci_lower,ci_upper
+clothes,9,1.0,1.0,1.0
+drinking water,160,0.9688,0.9375,0.9938
+everyday shoes,164,0.9878,0.9695,1.0
+portraits,9,0.0,0.0,0.0
+stove/hob,165,0.9273,0.8848,0.9636
+toilet,164,0.9573,0.9207,0.9878
+tv,150,0.9867,0.9667,1.0
+washing clothes/cleaning,156,0.7949,0.7308,0.859
