@@ -13,3 +13,5 @@ google-genai
 sentencepiece
 python-dotenv
 kagglehub
+scikit-learn
+matplotlib
