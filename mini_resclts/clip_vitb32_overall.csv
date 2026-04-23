@@ -1,2 +1,0 @@
-group,n,accuracy,ci_lower,ci_upper,mean_sem_sim,mean_ctx_sim
-all,15,0.8,0.6,1.0,0.8654,0.6984
