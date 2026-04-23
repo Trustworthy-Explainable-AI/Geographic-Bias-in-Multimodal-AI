@@ -1,0 +1,4 @@
+error_type,count
+misclassification,8
+correct,5
+hallucination,2

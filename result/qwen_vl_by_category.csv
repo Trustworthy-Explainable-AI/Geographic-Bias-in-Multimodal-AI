@@ -1,0 +1,29 @@
+group,n,accuracy,ci_lower,ci_upper,mean_sem_sim,mean_ctx_sim
+bedroom,2,0.5,0.0,1.0,0.3492,0.3418
+children room,1,0.0,0.0,0.0,0.2105,0.5011
+cleaning equipment,2,0.0,0.0,0.0,0.1686,0.2582
+cutlery,1,1.0,1.0,1.0,0.4659,0.5086
+drinking water,1,0.0,0.0,0.0,0.2872,0.6151
+everyday shoes,1,0.0,0.0,0.0,0.3638,0.5048
+family,1,1.0,1.0,1.0,0.5964,0.6717
+hair brush/comb,1,1.0,1.0,1.0,0.6396,0.6256
+hand back,1,1.0,1.0,1.0,0.6409,0.6152
+home,1,0.0,0.0,0.0,0.4337,0.5174
+kitchen sink,1,0.0,0.0,0.0,0.386,0.5573
+light source in kitchen,1,1.0,1.0,1.0,0.5243,0.645
+lightsources by bed,1,1.0,1.0,1.0,0.4735,0.5927
+lock on front door,1,1.0,1.0,1.0,0.5932,0.6635
+meat or fish,1,1.0,1.0,1.0,0.6642,0.6295
+menstruation pads / tampax,1,0.0,0.0,0.0,0.0,0.0
+necklaces,1,1.0,1.0,1.0,0.7993,0.5668
+phone,1,1.0,1.0,1.0,0.8053,0.675
+place where eating dinner,1,0.0,0.0,0.0,0.0801,0.5006
+place where serving guests,1,0.0,0.0,0.0,0.3107,0.5821
+power outlet,1,1.0,1.0,1.0,0.8096,0.6599
+smoke and steam exit,1,0.0,0.0,0.0,0.1837,0.5267
+social drink,1,0.0,0.0,0.0,0.0,0.0
+street detail,1,0.0,0.0,0.0,0.3324,0.5599
+table with food,1,1.0,1.0,1.0,1.0,0.7293
+transport of heavy things,1,0.0,0.0,0.0,0.2205,0.5413
+visit,1,0.0,0.0,0.0,0.0818,0.5006
+waste dumps,1,0.0,0.0,0.0,0.0241,0.5006

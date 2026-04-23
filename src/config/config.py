@@ -23,10 +23,12 @@ OPEN_ENDED_PROMPT = (
 
 SEM_SIM_MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"   # cosine similarity
 CTX_SIM_MODEL_NAME = "cross-encoder/stsb-roberta-base"        #contextual similarity
- 
 
-SEM_SIM_THRESHOLD  = 0.55   # cosine similarity in
-CTX_SIM_THRESHOLD  = 0.55   # sigmoid-normalised cross-encoder score in
+CLIP_SEM_SIM_THRESHOLD  = 0.55   # cosine similarity for clip
+CLIP_CTX_SIM_THRESHOLD  = 0.55
+
+SEM_SIM_THRESHOLD  = 0.45   # cosine similarity in
+CTX_SIM_THRESHOLD  = 0.45   # sigmoid-normalised cross-encoder score in
  
 CLIP_MODEL_NAME    = "ViT-B/32"
  
@@ -34,7 +36,7 @@ QWEN_MODEL_NAME    = "Qwen/Qwen2-VL-7B-Instruct"
 QWEN_MAX_NEW_TOKENS = 16
 QWEN_DEVICE        = "auto"
  
-GEMINI_MODEL_NAME  = "gemini-2.0-flash"
+GEMINI_MODEL_NAME  = "gemini-2.5-flash"
 GEMINI_API_KEY     = os.environ.get("GEMINI_API_KEY")
 GEMINI_MAX_RETRIES = 3
 GEMINI_RETRY_DELAY = 5

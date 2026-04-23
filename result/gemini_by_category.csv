@@ -1,0 +1,16 @@
+group,n,accuracy,ci_lower,ci_upper,mean_sem_sim,mean_ctx_sim
+children room,1,1.0,1.0,1.0,0.5922,0.6105
+drinking water,1,0.0,0.0,0.0,0.4386,0.6303
+hair brush/comb,1,1.0,1.0,1.0,0.6396,0.6256
+hand back,1,1.0,1.0,1.0,0.6409,0.6152
+kitchen sink,1,0.0,0.0,0.0,0.4184,0.6074
+light source in kitchen,1,0.0,0.0,0.0,0.5243,0.645
+lightsources by bed,1,0.0,0.0,0.0,0.346,0.5926
+necklaces,1,1.0,1.0,1.0,0.7777,0.6685
+phone,1,0.0,0.0,0.0,0.5083,0.6397
+place where serving guests,1,0.0,0.0,0.0,0.3107,0.5821
+power outlet,1,0.0,0.0,0.0,0.3308,0.5774
+smoke and steam exit,1,0.0,0.0,0.0,0.1232,0.5043
+social drink,1,0.0,0.0,0.0,0.3112,0.5864
+street detail,1,0.0,0.0,0.0,0.3602,0.5246
+table with food,1,1.0,1.0,1.0,1.0,0.7293

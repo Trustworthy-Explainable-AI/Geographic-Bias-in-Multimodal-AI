@@ -1,0 +1,31 @@
+model,image_id,region,income_quintile,ground_truth,predicted,error_type,sem_similarity,ctx_similarity,confidence,raw_response
+qwen_vl,5ec4fac5f0611d7ddd742281,eu,Q4,light source in kitchen,light bulb,correct,0.5243,0.645,,Light bulb
+qwen_vl,5d4be2a3cf0b3a0f3f33d0c9,as,Q3,children room,clothing and backpack on a table,misclassification,0.2105,0.5011,,Clothing and backpack on a table
+qwen_vl,5d4bee3ecf0b3a0f3f35108e,af,Q1,street detail,ground,misclassification,0.3324,0.5599,,Ground
+qwen_vl,5d4bef78cf0b3a0f3f3534fe,as,Q2,smoke and steam exit,shed interior,misclassification,0.1837,0.5267,,Shed interior
+qwen_vl,5d4be252cf0b3a0f3f33c82d,af,Q3,necklaces,jewelry,correct,0.7993,0.5668,,Jewelry
+qwen_vl,5d4be753cf0b3a0f3f3453e6,as,Q1,kitchen sink,water container,misclassification,0.386,0.5573,,Water container
+qwen_vl,5ec4f834f0611d7ddd740cc3,am,Q5,lightsources by bed,lamp,correct,0.4735,0.5927,,Lamp
+qwen_vl,5d4bee7dcf0b3a0f3f3517d0,as,Q2,place where serving guests,food stall,misclassification,0.3107,0.5821,,Food stall
+qwen_vl,5d4bf409cf0b3a0f3f35af46,am,Q3,phone,telephone,correct,0.8053,0.675,,Telephone
+qwen_vl,5d4be18bcf0b3a0f3f33b36f,as,Q3,table with food,table with food,correct,1.0,0.7293,,Table with food
+qwen_vl,5d4be0aecf0b3a0f3f339acd,as,Q4,social drink,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bf232cf0b3a0f3f357dfa,af,Q3,power outlet,outlet,correct,0.8096,0.6599,,Outlet
+qwen_vl,5d4bdf76cf0b3a0f3f337af3,af,Q1,drinking water,person holding a cup,misclassification,0.2872,0.6151,,Person holding a cup
+qwen_vl,5d4be828cf0b3a0f3f346af7,as,Q5,hand back,hands,correct,0.6409,0.6152,,Hands
+qwen_vl,5d4be778cf0b3a0f3f345804,as,Q2,hair brush/comb,combs,correct,0.6396,0.6256,,Combs
+qwen_vl,5d4bf01ecf0b3a0f3f3546b2,af,Q1,place where eating dinner,bamboo mat,misclassification,0.0801,0.5006,,Bamboo mat
+qwen_vl,5d4be098cf0b3a0f3f339847,am,Q5,menstruation pads / tampax,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bf1d8cf0b3a0f3f357386,am,Q1,home,shack,misclassification,0.4337,0.5174,,Shack
+qwen_vl,5d4beda1cf0b3a0f3f34ff7e,af,Q2,bedroom,bed,correct,0.6985,0.6836,,Bed
+qwen_vl,5d4be7f3cf0b3a0f3f346567,as,Q3,family,family portrait,correct,0.5964,0.6717,,Family portrait
+qwen_vl,5ec4fabdf0611d7ddd74223c,eu,Q4,waste dumps,child on scooter,misclassification,0.0241,0.5006,,Child on scooter
+qwen_vl,5d4be007cf0b3a0f3f33896e,af,Q3,meat or fish,fried meat,correct,0.6642,0.6295,,Fried meat
+qwen_vl,5d4be713cf0b3a0f3f344d98,as,Q3,cleaning equipment,laundry basket,misclassification,0.3373,0.5165,,Laundry basket
+qwen_vl,5d4be045cf0b3a0f3f338ece,af,Q1,bedroom,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4be780cf0b3a0f3f3458f8,as,Q2,cleaning equipment,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bed07cf0b3a0f3f34ee0a,as,Q2,lock on front door,door,correct,0.5932,0.6635,,Door
+qwen_vl,5d4bf36ecf0b3a0f3f35a032,af,Q1,cutlery,spoon,correct,0.4659,0.5086,,Spoon
+qwen_vl,5d4be1a5cf0b3a0f3f33b683,am,Q4,everyday shoes,flip-flops,misclassification,0.3638,0.5048,,Flip-flops
+qwen_vl,5d4be0c1cf0b3a0f3f339cff,as,Q4,transport of heavy things,car,misclassification,0.2205,0.5413,,Car
+qwen_vl,5f638dfd19b6552f5088a3c6,as,Q1,visit,woven mat,misclassification,0.0818,0.5006,,Woven mat
