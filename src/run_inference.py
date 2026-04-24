@@ -100,6 +100,12 @@ def run_model(
             except FileNotFoundError as exc:
                 log.warning(f"  Skipped (not found): {exc}")
                 skipped += 1
+            except OSError as exc:  
+                log.warning(f"  Skipped (corrupted): {exc}")
+                skipped += 1
+            except Exception as exc:
+                 log.warning(f"  Skipped (unexpected error): {exc}")
+                 skipped += 1
 
         if not images:
             continue
