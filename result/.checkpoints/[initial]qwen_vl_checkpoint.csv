@@ -1,0 +1,1601 @@
+model,image_id,region,income_quintile,ground_truth,predicted,error_type,sem_similarity,ctx_similarity,confidence,raw_response
+qwen_vl,5d4bf45bcf0b3a0f3f35b81a,af,Q1,agriculture land,desert landscape,correct,0.516,0.5126,,Desert landscape
+qwen_vl,5d4befc6cf0b3a0f3f353d04,af,Q1,agriculture land,cornfield,misclassification,0.3312,0.5097,,Cornfield
+qwen_vl,5d4bec84cf0b3a0f3f34e0e8,af,Q1,agriculture land,rural landscape,correct,0.6071,0.5233,,Rural landscape
+qwen_vl,5d4becdecf0b3a0f3f34e996,af,Q1,agriculture land,grassland,correct,0.5124,0.5078,,Grassland
+qwen_vl,5d4bf00acf0b3a0f3f354488,af,Q1,agriculture land,cornfield,misclassification,0.3312,0.5097,,Cornfield
+qwen_vl,5d4befabcf0b3a0f3f3539e6,af,Q1,agriculture land,cornfield,misclassification,0.3312,0.5097,,Cornfield
+qwen_vl,5d4befddcf0b3a0f3f353f9c,af,Q1,agriculture land,cornfield,misclassification,0.3312,0.5097,,Cornfield
+qwen_vl,5d4bf38ecf0b3a0f3f35a3cc,af,Q1,agriculture land,desert landscape,correct,0.516,0.5126,,Desert landscape
+qwen_vl,5d4bee28cf0b3a0f3f350ef2,af,Q1,agriculture land,rural landscape,correct,0.6071,0.5233,,Rural landscape
+qwen_vl,5d4bf080cf0b3a0f3f355058,af,Q1,agriculture land,forest,misclassification,0.3856,0.5062,,Forest
+qwen_vl,5d4bee43cf0b3a0f3f351138,af,Q1,agriculture land,farmer in a field,correct,0.5809,0.5247,,Farmer in a field
+qwen_vl,5d4beca4cf0b3a0f3f34e446,af,Q1,agriculture land,grassland,correct,0.5124,0.5078,,Grassland
+qwen_vl,5d4bf0c0cf0b3a0f3f35571a,af,Q1,agriculture land,forest,misclassification,0.3856,0.5062,,Forest
+qwen_vl,5d4be1cccf0b3a0f3f33ba41,af,Q1,agriculture land,cornfield,misclassification,0.3312,0.5097,,Cornfield
+qwen_vl,5ec4f9f3f0611d7ddd741bba,af,Q2,agriculture land,potato field,correct,0.4815,0.5267,,Potato field
+qwen_vl,5ec4f9d6f0611d7ddd741ac5,af,Q3,agriculture land,banana plantation,misclassification,0.4142,0.5467,,Banana plantation
+qwen_vl,5ec4f9e4f0611d7ddd741b43,af,Q3,agriculture land,weeds,misclassification,0.3525,0.5012,,Weeds
+qwen_vl,5d4be6f3cf0b3a0f3f3449ca,as,Q1,agriculture land,grassland,correct,0.5124,0.5078,,Grassland
+qwen_vl,5d4beedacf0b3a0f3f35228a,as,Q1,agriculture land,pathway in a forested area,misclassification,0.2188,0.5006,,Pathway in a forested area
+qwen_vl,5d4beae1cf0b3a0f3f34b430,as,Q1,agriculture land,forest,misclassification,0.3856,0.5062,,Forest
+qwen_vl,5d4be75fcf0b3a0f3f345536,as,Q1,agriculture land,grassland,correct,0.5124,0.5078,,Grassland
+qwen_vl,5d4bef67cf0b3a0f3f3532fe,as,Q1,agriculture land,vegetation,correct,0.5271,0.5133,,Vegetation
+qwen_vl,5d4be7a4cf0b3a0f3f345d10,as,Q1,agriculture land,rice paddy,misclassification,0.4386,0.5038,,Rice paddy
+qwen_vl,5d4beec6cf0b3a0f3f35202a,as,Q1,agriculture land,palm trees and grassland,correct,0.5626,0.5226,,Palm trees and grassland
+qwen_vl,5d4bef55cf0b3a0f3f3530d6,as,Q1,agriculture land,vegetable garden,correct,0.5396,0.5461,,Vegetable garden
+qwen_vl,5d4be78bcf0b3a0f3f345a3c,as,Q1,agriculture land,rice terraces,correct,0.5116,0.5541,,Rice terraces
+qwen_vl,5d4bef5bcf0b3a0f3f35318a,as,Q1,agriculture land,vegetation,correct,0.5271,0.5133,,Vegetation
+qwen_vl,5d4bf2b1cf0b3a0f3f358b94,as,Q1,agriculture land,terraced field,misclassification,0.3446,0.5116,,Terraced field
+qwen_vl,5d4bef7acf0b3a0f3f35353a,as,Q2,agriculture land,cornfield,misclassification,0.3312,0.5097,,Cornfield
+qwen_vl,5ec4f821f0611d7ddd740c22,as,Q2,agriculture land,garden with plants and a net,misclassification,0.4003,0.5528,,Garden with plants and a net.
+qwen_vl,5d4beecdcf0b3a0f3f352104,as,Q2,agriculture land,paddy field with coconut trees,correct,0.5479,0.5469,,Paddy field with coconut trees
+qwen_vl,5d4bef6dcf0b3a0f3f3533ba,as,Q2,agriculture land,cornfield,misclassification,0.3312,0.5097,,Cornfield
+qwen_vl,5d4bf2b3cf0b3a0f3f358bd0,as,Q2,agriculture land,plant seedlings,misclassification,0.2977,0.5328,,Plant seedlings
+qwen_vl,5d4bf194cf0b3a0f3f356c0e,as,Q2,agriculture land,grass field,misclassification,0.368,0.5094,,Grass field
+qwen_vl,5d4bef74cf0b3a0f3f353470,as,Q2,agriculture land,shelter among vegetation,misclassification,0.3738,0.5408,,Shelter among vegetation
+qwen_vl,5d4bf318cf0b3a0f3f3597b4,as,Q2,agriculture land,vegetable garden,correct,0.5396,0.5461,,Vegetable garden
+qwen_vl,5d4bf2decf0b3a0f3f3590fe,as,Q2,agriculture land,field with palm trees,correct,0.4509,0.5305,,Field with palm trees
+qwen_vl,5d4bf29ecf0b3a0f3f358958,as,Q2,agriculture land,potato field,correct,0.4815,0.5267,,Potato field
+qwen_vl,5d4bf286cf0b3a0f3f35866e,as,Q3,agriculture land,field,misclassification,0.2887,0.5188,,Field
+qwen_vl,5d4bdf1fcf0b3a0f3f33727f,as,Q3,agriculture land,backyard scene,misclassification,0.3883,0.5006,,Backyard scene
+qwen_vl,5d4bf2e5cf0b3a0f3f3591d6,as,Q3,agriculture land,grass field,misclassification,0.368,0.5094,,Grass field
+qwen_vl,5d4bf2d7cf0b3a0f3f359022,as,Q3,agriculture land,dry land,correct,0.6471,0.5297,,Dry land
+qwen_vl,5ec4f7e7f0611d7ddd740a2c,as,Q3,agriculture land,crops in field,correct,0.6871,0.5353,,Crops in field
+qwen_vl,5d4bea29cf0b3a0f3f349e9c,as,Q4,agriculture land,forest,misclassification,0.3856,0.5062,,Forest
+qwen_vl,5d4bee86cf0b3a0f3f3518de,as,Q4,agriculture land,rice paddy,misclassification,0.4386,0.5038,,Rice paddy
+qwen_vl,5d4be0bdcf0b3a0f3f339c93,as,Q4,agriculture land,garden,correct,0.5696,0.5092,,Garden
+qwen_vl,5d4bf1eccf0b3a0f3f3575ba,am,Q1,agriculture land,grassland,correct,0.5124,0.5078,,Grassland
+qwen_vl,5d4bf1d4cf0b3a0f3f357304,am,Q1,agriculture land,grassland,correct,0.5124,0.5078,,Grassland
+qwen_vl,5d4bdeebcf0b3a0f3f336d09,eu,Q2,agriculture land,abandoned land,correct,0.5386,0.5139,,Abandoned land
+qwen_vl,5d4bdf3ecf0b3a0f3f3375ad,eu,Q2,agriculture land,greenhouse with tomato plants,misclassification,0.2259,0.5448,,Greenhouse with tomato plants
+qwen_vl,5d4bdefecf0b3a0f3f336f03,eu,Q3,agriculture land,plowed field,misclassification,0.3916,0.5044,,Plowed field
+qwen_vl,5d4bdf94cf0b3a0f3f337e09,eu,Q4,agriculture land,rural landscape,correct,0.6071,0.5233,,Rural landscape
+qwen_vl,5ec4fa26f0611d7ddd741d7d,eu,Q5,agriculture land,garden,correct,0.5696,0.5092,,Garden
+qwen_vl,5d4bef2bcf0b3a0f3f352bf8,af,Q1,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4be007cf0b3a0f3f338962,af,Q3,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4bf229cf0b3a0f3f357ce2,af,Q4,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4be234cf0b3a0f3f33c511,af,Q4,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4beb82cf0b3a0f3f34c5a8,af,Q5,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4be010cf0b3a0f3f338a36,af,Q5,arm watch,wristwatch,correct,0.7405,0.5709,,Wristwatch
+qwen_vl,5d4bef64cf0b3a0f3f35329a,as,Q1,arm watch,wristwatch,correct,0.7405,0.5709,,Wristwatch
+qwen_vl,5d4bef51cf0b3a0f3f353066,as,Q1,arm watch,hand with watch,correct,0.7005,0.6467,,Hand with watch
+qwen_vl,5d4bec73cf0b3a0f3f34df5a,as,Q1,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4be788cf0b3a0f3f3459d8,as,Q1,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4bef58cf0b3a0f3f35312e,as,Q1,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4be744cf0b3a0f3f345240,as,Q1,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4bef77cf0b3a0f3f3534c6,as,Q2,arm watch,watch on wrist,correct,0.6964,0.6595,,Watch on wrist
+qwen_vl,5d4bee6dcf0b3a0f3f3515ea,as,Q2,arm watch,watch on floral wallpaper,misclassification,0.2377,0.5228,,Watch on floral wallpaper
+qwen_vl,5d4beea1cf0b3a0f3f351bfa,as,Q2,arm watch,wristwatch,correct,0.7405,0.5709,,Wristwatch
+qwen_vl,5d4bef6acf0b3a0f3f353350,as,Q2,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5ec4f5443f62767d97a472ab,as,Q2,arm watch,watch on a hand,correct,0.5886,0.6345,,Watch on a hand
+qwen_vl,5d4bea50cf0b3a0f3f34a32e,as,Q2,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4bee9acf0b3a0f3f351b30,as,Q2,arm watch,wristwatch,correct,0.7405,0.5709,,Wristwatch
+qwen_vl,5d4bf191cf0b3a0f3f356bb2,as,Q2,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4be99bcf0b3a0f3f348eec,as,Q2,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5ec4f8eaf0611d7ddd7412ee,as,Q2,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4bee76cf0b3a0f3f35170a,as,Q2,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4becfbcf0b3a0f3f34ecfa,as,Q2,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4bef70cf0b3a0f3f35340c,as,Q2,arm watch,wristwatch,correct,0.7405,0.5709,,Wristwatch
+qwen_vl,5d4bf313cf0b3a0f3f35973e,as,Q2,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4bf2dbcf0b3a0f3f359086,as,Q2,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4be76dcf0b3a0f3f3456ca,as,Q2,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4be8bacf0b3a0f3f3474b8,as,Q2,arm watch,wristwatch,correct,0.7405,0.5709,,Wristwatch
+qwen_vl,5d4be9dccf0b3a0f3f3496a0,as,Q2,arm watch,wristwatch,correct,0.7405,0.5709,,Wristwatch
+qwen_vl,5d4be37acf0b3a0f3f33e5ab,as,Q2,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4becf2cf0b3a0f3f34ebea,as,Q2,arm watch,cell phone,misclassification,0.2852,0.5025,,Cell phone
+qwen_vl,5d4bf166cf0b3a0f3f356732,as,Q3,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4bf2d4cf0b3a0f3f358fae,as,Q3,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4bee8fcf0b3a0f3f3519ee,as,Q3,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4be632cf0b3a0f3f3433c1,as,Q3,arm watch,wristwatch,correct,0.7405,0.5709,,Wristwatch
+qwen_vl,5d4be9bccf0b3a0f3f3492d2,as,Q3,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4be0e6cf0b3a0f3f33a157,as,Q3,arm watch,watches,correct,0.6791,0.5883,,Watches
+qwen_vl,5d4bf294cf0b3a0f3f358822,as,Q3,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4bf17acf0b3a0f3f356932,as,Q3,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4be720cf0b3a0f3f344efc,as,Q3,arm watch,watch on fabric,correct,0.4908,0.5344,,Watch on fabric
+qwen_vl,5d4bf05dcf0b3a0f3f354cbe,as,Q3,arm watch,watches,correct,0.6791,0.5883,,Watches
+qwen_vl,5d4bf072cf0b3a0f3f354eb6,as,Q3,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4be191cf0b3a0f3f33b41f,as,Q3,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4be5cecf0b3a0f3f342845,as,Q3,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4bea32cf0b3a0f3f349f98,as,Q4,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4bee88cf0b3a0f3f351924,as,Q4,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4be732cf0b3a0f3f34503c,as,Q4,arm watch,wristwatches,correct,0.6924,0.5488,,Wristwatches
+qwen_vl,5d4be152cf0b3a0f3f33adcf,as,Q4,arm watch,wristwatch,correct,0.7405,0.5709,,Wristwatch
+qwen_vl,5d4be104cf0b3a0f3f33a4c3,as,Q4,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4bf2e9cf0b3a0f3f35923c,as,Q4,arm watch,wristwatches,correct,0.6924,0.5488,,Wristwatches
+qwen_vl,5d4be066cf0b3a0f3f339298,as,Q4,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4bf172cf0b3a0f3f356832,as,Q4,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4be0accf0b3a0f3f339a95,as,Q4,arm watch,wristwatch,correct,0.7405,0.5709,,Wristwatch
+qwen_vl,5ec4fab1f0611d7ddd7421ce,as,Q4,arm watch,wristwatch,correct,0.7405,0.5709,,Wristwatch
+qwen_vl,5d4be0becf0b3a0f3f339cab,as,Q4,arm watch,wristwatches,correct,0.6924,0.5488,,Wristwatches
+qwen_vl,5ec4f7f3f0611d7ddd740a9a,as,Q4,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4be13acf0b3a0f3f33ab1d,as,Q4,arm watch,wristwatches,correct,0.6924,0.5488,,Wristwatches
+qwen_vl,5ec4f957f0611d7ddd74168b,as,Q5,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4be820cf0b3a0f3f346a6b,as,Q5,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4be114cf0b3a0f3f33a69b,as,Q5,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4be10bcf0b3a0f3f33a59f,as,Q5,arm watch,wristwatch,correct,0.7405,0.5709,,Wristwatch
+qwen_vl,5d4be70ecf0b3a0f3f344cfa,as,Q5,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4be828cf0b3a0f3f346b0f,as,Q5,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4be12bcf0b3a0f3f33a94f,as,Q5,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4be134cf0b3a0f3f33aa57,as,Q5,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4be0e7cf0b3a0f3f33a161,as,Q5,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4be0a4cf0b3a0f3f33999f,as,Q5,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4be10ccf0b3a0f3f33a5ad,as,Q5,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4be976cf0b3a0f3f348a9a,as,Q5,arm watch,watches,correct,0.6791,0.5883,,Watches
+qwen_vl,5d4bf3eccf0b3a0f3f35ac5e,am,Q2,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5ec4fa8bf0611d7ddd742098,am,Q2,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4be14ccf0b3a0f3f33ad2d,am,Q3,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4be193cf0b3a0f3f33b46d,am,Q3,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4be19ccf0b3a0f3f33b577,am,Q3,arm watch,wristwatch,correct,0.7405,0.5709,,Wristwatch
+qwen_vl,5d4be422cf0b3a0f3f33f918,am,Q3,arm watch,watch on wrist,correct,0.6964,0.6595,,Watch on wrist
+qwen_vl,5d4be09ccf0b3a0f3f3398cb,am,Q3,arm watch,digital watch on a wrist,correct,0.629,0.6457,,Digital watch on a wrist.
+qwen_vl,5d4be1a4cf0b3a0f3f33b65b,am,Q4,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4bed20cf0b3a0f3f34f0dc,am,Q4,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5ec4fb77f0611d7ddd742858,am,Q4,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5ec4fafff0611d7ddd742465,am,Q4,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4be536cf0b3a0f3f34183a,am,Q4,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4bed2fcf0b3a0f3f34f234,am,Q4,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4be4ebcf0b3a0f3f340f7a,am,Q4,arm watch,wristwatch,correct,0.7405,0.5709,,Wristwatch
+qwen_vl,5d4be1bbcf0b3a0f3f33b8b5,am,Q5,arm watch,wristwatch,correct,0.7405,0.5709,,Wristwatch
+qwen_vl,5d4be42acf0b3a0f3f33f9f6,am,Q5,arm watch,wristwatch,correct,0.7405,0.5709,,Wristwatch
+qwen_vl,5d4be095cf0b3a0f3f3397e7,am,Q5,arm watch,smartwatch,correct,0.6503,0.606,,Smartwatch
+qwen_vl,5d4bebdbcf0b3a0f3f34d00d,am,Q5,arm watch,hand with ring and watch,correct,0.5265,0.6201,,Hand with ring and watch
+qwen_vl,5d4bded5cf0b3a0f3f336a7b,eu,Q2,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5d4bdf79cf0b3a0f3f337b55,eu,Q4,arm watch,wristwatches,correct,0.6924,0.5488,,Wristwatches
+qwen_vl,5d4be419cf0b3a0f3f33f808,eu,Q4,arm watch,digital watch,correct,0.5797,0.5658,,Digital watch
+qwen_vl,5ec4f5c3f4a4fb7dc03879d3,eu,Q4,arm watch,smartwatch,correct,0.6503,0.606,,Smartwatch
+qwen_vl,5ec4fc24f0611d7ddd742e01,eu,Q5,arm watch,wristband,correct,0.5852,0.5356,,Wristband
+qwen_vl,5d4be8e0cf0b3a0f3f347940,eu,Q5,arm watch,wristwatch,correct,0.7405,0.5709,,Wristwatch
+qwen_vl,5ec4f8ebf0611d7ddd7412f1,eu,Q5,arm watch,smartwatch,correct,0.6503,0.606,,Smartwatch
+qwen_vl,5ec4f8f9f0611d7ddd74136e,eu,Q5,arm watch,wristwatch,correct,0.7405,0.5709,,Wristwatch
+qwen_vl,5ec4fa76f0611d7ddd741fdc,eu,Q5,arm watch,jewelry organizer,misclassification,0.2203,0.5058,,Jewelry organizer
+qwen_vl,5d4bdf8acf0b3a0f3f337d09,eu,Q5,arm watch,watch,correct,0.5567,0.6284,,Watch
+qwen_vl,5ec4f924f0611d7ddd7414d6,eu,Q5,arm watch,watch on a hand,correct,0.5886,0.6345,,Watch on a hand
+qwen_vl,5d4be933cf0b3a0f3f3482e0,eu,Q5,arm watch,wristwatches,correct,0.6924,0.5488,,Wristwatches
+qwen_vl,5ec4f5443f62767d97a472ad,eu,Q5,arm watch,wristwatch,correct,0.7405,0.5709,,Wristwatch
+qwen_vl,5ec4fb0ef0611d7ddd7424e8,af,Q2,arm watches,watch,correct,0.5351,0.6337,,Watch
+qwen_vl,5ec4f9f4f0611d7ddd741bc4,af,Q2,arm watches,watch,correct,0.5351,0.6337,,Watch
+qwen_vl,5ec4fad1f0611d7ddd7422ea,af,Q2,arm watches,watch,correct,0.5351,0.6337,,Watch
+qwen_vl,5ec4f98cf0611d7ddd741845,af,Q2,arm watches,watch,correct,0.5351,0.6337,,Watch
+qwen_vl,5ec4f9d7f0611d7ddd741acd,af,Q3,arm watches,watch,correct,0.5351,0.6337,,Watch
+qwen_vl,5ec4f986f0611d7ddd741810,af,Q3,arm watches,watch,correct,0.5351,0.6337,,Watch
+qwen_vl,5ec4fa3af0611d7ddd741e20,af,Q5,arm watches,watch,correct,0.5351,0.6337,,Watch
+qwen_vl,5ec4f7f3f0611d7ddd740a98,as,Q1,arm watches,wristwatch,correct,0.7605,0.5715,,Wristwatch
+qwen_vl,5f63c3b356d7d1095bff685a,as,Q1,arm watches,watch,correct,0.5351,0.6337,,Watch
+qwen_vl,5ec4f7e7f0611d7ddd740a2b,as,Q3,arm watches,watch,correct,0.5351,0.6337,,Watch
+qwen_vl,5edf9aed12a02248b087e2ed,as,Q4,arm watches,watch,correct,0.5351,0.6337,,Watch
+qwen_vl,5d4bdff4cf0b3a0f3f3387ae,as,Q4,arm watches,watch,correct,0.5351,0.6337,,Watch
+qwen_vl,5ec4f86af0611d7ddd740e9a,as,Q4,arm watches,wristwatch,correct,0.7605,0.5715,,Wristwatch
+qwen_vl,5ec4f751f0611d7ddd740514,am,Q3,arm watches,wristwatch,correct,0.7605,0.5715,,Wristwatch
+qwen_vl,5ec4f764f0611d7ddd7405a8,am,Q3,arm watches,watch,correct,0.5351,0.6337,,Watch
+qwen_vl,5ec4fb31f0611d7ddd742608,am,Q3,arm watches,wristwatch,correct,0.7605,0.5715,,Wristwatch
+qwen_vl,5f80b5e9959799b5934c2ca4,am,Q4,arm watches,watch,correct,0.5351,0.6337,,Watch
+qwen_vl,5f4fa6480ed38d3f1062bc54,am,Q4,arm watches,smartwatch,correct,0.6669,0.6007,,Smartwatch
+qwen_vl,5f18cebb8c6d776f898d4676,am,Q4,arm watches,watch,correct,0.5351,0.6337,,Watch
+qwen_vl,5ec4f96cf0611d7ddd741747,am,Q4,arm watches,apple watch,correct,0.6914,0.5396,,Apple Watch
+qwen_vl,5f8609e37299b5628892293a,am,Q5,arm watches,watch,correct,0.5351,0.6337,,Watch
+qwen_vl,5ec4f609f4a4fb7dc0387c3e,am,Q5,arm watches,jewelry dish,misclassification,0.2054,0.5006,,Jewelry dish
+qwen_vl,5ec4fabdf0611d7ddd74223b,eu,Q4,arm watches,watch,correct,0.5351,0.6337,,Watch
+qwen_vl,5ec4f898f0611d7ddd741025,eu,Q5,arm watches,watch,correct,0.5351,0.6337,,Watch
+qwen_vl,5ec4f909f0611d7ddd7413e9,eu,Q5,arm watches,smartwatch,correct,0.6669,0.6007,,Smartwatch
+qwen_vl,5d4bde20cf0b3a0f3f3359fd,eu,Q5,arm watches,wristband,correct,0.5941,0.5252,,Wristband
+qwen_vl,5ec4f916f0611d7ddd741456,eu,Q5,arm watches,wristwatch,correct,0.7605,0.5715,,Wristwatch
+qwen_vl,605a87f56a9ea51622079f63,eu,Q5,arm watches,wristwatch,correct,0.7605,0.5715,,Wristwatch
+qwen_vl,5d4bf324cf0b3a0f3f3598f2,af,Q1,armchair,wooden chair,correct,0.6617,0.6352,,Wooden chair
+qwen_vl,5d4bf33ccf0b3a0f3f359b94,af,Q1,armchair,spoon on a wooden stool,misclassification,0.3567,0.5127,,Spoon on a wooden stool
+qwen_vl,5d4befcfcf0b3a0f3f353e06,af,Q1,armchair,wooden board,misclassification,0.4203,0.5021,,Wooden board
+qwen_vl,5d4bec4ccf0b3a0f3f34db24,af,Q1,armchair,plastic chair,correct,0.5584,0.635,,Plastic chair
+qwen_vl,5d4bec91cf0b3a0f3f34e26a,af,Q1,armchair,broken chair,correct,0.552,0.6363,,Broken chair
+qwen_vl,5d4bf346cf0b3a0f3f359c9c,af,Q1,armchair,wooden chair,correct,0.6617,0.6352,,Wooden chair
+qwen_vl,5d4becd2cf0b3a0f3f34e832,af,Q1,armchair,abandoned chair,correct,0.5297,0.6319,,Abandoned chair
+qwen_vl,5d4becefcf0b3a0f3f34eb8c,af,Q1,armchair,fire pit,misclassification,0.1537,0.5006,,Fire pit
+qwen_vl,5d4bef06cf0b3a0f3f3527b8,af,Q1,armchair,wooden bench,correct,0.5346,0.5113,,Wooden bench
+qwen_vl,5d4bf114cf0b3a0f3f355efc,af,Q1,armchair,wooden chair,correct,0.6617,0.6352,,Wooden chair
+qwen_vl,5d4bf35dcf0b3a0f3f359e68,af,Q1,armchair,dirty floor with scattered items,misclassification,0.0944,0.5013,,Dirty floor with scattered items
+qwen_vl,5d4bdf2dcf0b3a0f3f3373ed,af,Q1,armchair,plastic chair,correct,0.5584,0.635,,Plastic chair
+qwen_vl,5d4befeccf0b3a0f3f35410a,af,Q1,armchair,wooden chairs,correct,0.6101,0.5957,,Wooden chairs
+qwen_vl,5d4bee20cf0b3a0f3f350e26,af,Q1,armchair,"corner with a bench, pumpkins, and dried leaves",misclassification,0.3397,0.5024,,"Corner with a bench, pumpkins, and dried leaves."
+qwen_vl,5d4bf04ecf0b3a0f3f354b7e,af,Q1,armchair,wooden chair,correct,0.6617,0.6352,,Wooden chair
+qwen_vl,5d4bef27cf0b3a0f3f352b92,af,Q1,armchair,wooden bench,correct,0.5346,0.5113,,Wooden bench
+qwen_vl,5d4bf084cf0b3a0f3f3550d4,af,Q1,armchair,wooden stool,correct,0.4696,0.5134,,Wooden stool
+qwen_vl,5d4bf099cf0b3a0f3f3552b8,af,Q1,armchair,outdoor kitchen scene,misclassification,0.2231,0.5129,,Outdoor kitchen scene
+qwen_vl,5d4bdf6acf0b3a0f3f3379b1,af,Q1,armchair,sofa,correct,0.6299,0.5283,,Sofa
+qwen_vl,5d4bee30cf0b3a0f3f350f3e,af,Q1,armchair,wooden bench,correct,0.5346,0.5113,,Wooden bench
+qwen_vl,5d4bef12cf0b3a0f3f35291e,af,Q1,armchair,blue plastic chair,misclassification,0.4455,0.6439,,Blue plastic chair
+qwen_vl,5d4beefccf0b3a0f3f352694,af,Q1,armchair,"outdoor seating area with benches, jerry cans, and a blue plastic chair",misclassification,0.3584,0.5632,,"Outdoor seating area with benches, jerry cans, and a blue plastic chair."
+qwen_vl,5d4be045cf0b3a0f3f338ed8,af,Q1,armchair,wooden chair,correct,0.6617,0.6352,,Wooden chair
+qwen_vl,5ed28d59fb6e130106e0ea1a,af,Q1,armchair,bamboo mat,misclassification,0.2494,0.501,,Bamboo mat
+qwen_vl,5d4bf056cf0b3a0f3f354bfe,af,Q1,armchair,outdoor furniture,misclassification,0.4213,0.5657,,Outdoor furniture
+qwen_vl,5d4be625cf0b3a0f3f34322f,af,Q1,armchair,plastic chair,correct,0.5584,0.635,,Plastic chair
+qwen_vl,5d4be22dcf0b3a0f3f33c449,af,Q1,armchair,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bee06cf0b3a0f3f350b38,af,Q1,armchair,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bf05bcf0b3a0f3f354c7e,af,Q1,armchair,wooden desk,correct,0.5296,0.5064,,Wooden desk
+qwen_vl,5d4be3facf0b3a0f3f33f480,af,Q1,armchair,yellow container,misclassification,0.1103,0.5133,,Yellow container
+qwen_vl,5d4bdf24cf0b3a0f3f3372f3,af,Q2,armchair,children,misclassification,0.1886,0.5234,,Children
+qwen_vl,5d4bdf70cf0b3a0f3f337a49,af,Q2,armchair,chair,correct,0.7285,0.6782,,Chair
+qwen_vl,5d4be4e5cf0b3a0f3f340ed4,af,Q2,armchair,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bedb8cf0b3a0f3f350238,af,Q2,armchair,plastic stool,misclassification,0.3673,0.5121,,Plastic stool
+qwen_vl,5d4bed9fcf0b3a0f3f34ff4c,af,Q2,armchair,clothing on chair,correct,0.4572,0.6306,,Clothing on chair
+qwen_vl,5ec4fb0ef0611d7ddd7424ec,af,Q2,armchair,chair,correct,0.7285,0.6782,,Chair
+qwen_vl,5d4bed54cf0b3a0f3f34f69e,af,Q2,armchair,sofa,correct,0.6299,0.5283,,Sofa
+qwen_vl,5d4be401cf0b3a0f3f33f53e,af,Q2,armchair,interior room,misclassification,0.3207,0.5333,,Interior room
+qwen_vl,5d4bdf64cf0b3a0f3f337915,af,Q2,armchair,bed,misclassification,0.3012,0.5124,,Bed
+qwen_vl,5d4bdf59cf0b3a0f3f33781f,af,Q2,armchair,couch,correct,0.6176,0.5328,,Couch
+qwen_vl,5d4bee45cf0b3a0f3f351178,af,Q2,armchair,wooden chair,correct,0.6617,0.6352,,Wooden chair
+qwen_vl,5d4be087cf0b3a0f3f339657,af,Q2,armchair,wooden bench,correct,0.5346,0.5113,,Wooden bench
+qwen_vl,5d4bdee3cf0b3a0f3f336c1f,af,Q2,armchair,couch,correct,0.6176,0.5328,,Couch
+qwen_vl,5ec4f9f2f0611d7ddd741bb3,af,Q2,armchair,wooden chair,correct,0.6617,0.6352,,Wooden chair
+qwen_vl,5d4bdf35cf0b3a0f3f3374ab,af,Q2,armchair,wooden stool,correct,0.4696,0.5134,,Wooden stool
+qwen_vl,5d4bdee1cf0b3a0f3f336be1,af,Q2,armchair,garage,misclassification,0.1838,0.5177,,garage
+qwen_vl,5ec4facbf0611d7ddd7422b4,af,Q2,armchair,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5ec4f988f0611d7ddd741823,af,Q2,armchair,wicker chair with a colorful blanket,misclassification,0.4485,0.6284,,Wicker chair with a colorful blanket
+qwen_vl,5d4bee5fcf0b3a0f3f351452,af,Q3,armchair,wooden chairs,correct,0.6101,0.5957,,Wooden chairs
+qwen_vl,5d4be259cf0b3a0f3f33c8ff,af,Q3,armchair,living room,misclassification,0.3175,0.5534,,Living room
+qwen_vl,5ec4f9cbf0611d7ddd741a69,af,Q3,armchair,bamboo chair,correct,0.5178,0.6468,,Bamboo chair
+qwen_vl,5ec4fa3af0611d7ddd741e1a,af,Q3,armchair,pot,misclassification,0.2464,0.5346,,Pot
+qwen_vl,5d4bdf27cf0b3a0f3f33735f,af,Q3,armchair,swing chair,correct,0.5975,0.6372,,Swing chair
+qwen_vl,5ec4f9def0611d7ddd741b0e,af,Q3,armchair,kitchen,misclassification,0.3395,0.5075,,Kitchen
+qwen_vl,5d4be00acf0b3a0f3f3389bc,af,Q3,armchair,living room,misclassification,0.3175,0.5534,,Living room
+qwen_vl,5ec4f97df0611d7ddd7417ca,af,Q3,armchair,armchair,correct,1.0,0.7294,,Armchair
+qwen_vl,5d4be286cf0b3a0f3f33cdfd,af,Q3,armchair,black sofa,correct,0.4837,0.5132,,Black sofa
+qwen_vl,5d4bf233cf0b3a0f3f357e06,af,Q3,armchair,living room,misclassification,0.3175,0.5534,,Living room
+qwen_vl,5d4bf22dcf0b3a0f3f357d58,af,Q4,armchair,hallway with decorative chairs and rug,misclassification,0.3268,0.57,,Hallway with decorative chairs and rug
+qwen_vl,5d4be234cf0b3a0f3f33c513,af,Q4,armchair,floral armchair,correct,0.7253,0.6671,,Floral armchair
+qwen_vl,5d4be00fcf0b3a0f3f338a1c,af,Q5,armchair,striped recliner,misclassification,0.4132,0.5597,,Striped recliner
+qwen_vl,5d4be61fcf0b3a0f3f343193,af,Q5,armchair,leather sofa,correct,0.5919,0.5125,,Leather sofa
+qwen_vl,5ec4fa3ef0611d7ddd741e3f,af,Q5,armchair,leather armchair,correct,0.8307,0.6775,,Leather armchair
+qwen_vl,5d4be7b6cf0b3a0f3f345f20,as,Q1,armchair,wooden chair,correct,0.6617,0.6352,,Wooden chair
+qwen_vl,5d4beb02cf0b3a0f3f34b82e,as,Q1,armchair,"women sitting on rocks, makeshift shelter, outdoor setting, clothing, accessories, debris",misclassification,0.2871,0.5142,,"Women sitting on rocks, makeshift shelter, outdoor setting, clothing, accessories, debris"
+qwen_vl,5d4be765cf0b3a0f3f3455de,as,Q1,armchair,bamboo structure,misclassification,0.175,0.5021,,Bamboo structure
+qwen_vl,5d4be7a1cf0b3a0f3f345ca6,as,Q1,armchair,plastic chairs,correct,0.5131,0.5952,,Plastic chairs
+qwen_vl,5d4beeaecf0b3a0f3f351d72,as,Q1,armchair,plastic chair,correct,0.5584,0.635,,Plastic chair
+qwen_vl,5d4beec9cf0b3a0f3f352084,as,Q1,armchair,red plastic chair,correct,0.4921,0.6414,,Red plastic chair
+qwen_vl,5ec4f7f3f0611d7ddd740a97,as,Q1,armchair,bed,misclassification,0.3012,0.5124,,Bed
+qwen_vl,5d4beec2cf0b3a0f3f351fc2,as,Q1,armchair,wooden table,correct,0.4519,0.5205,,Wooden table
+qwen_vl,5d4be6ebcf0b3a0f3f3448d2,as,Q1,armchair,chair,correct,0.7285,0.6782,,Chair
+qwen_vl,5d4bf2d3cf0b3a0f3f358faa,as,Q1,armchair,folded beach chair,correct,0.4643,0.6246,,folded beach chair
+qwen_vl,5d4bef58cf0b3a0f3f35312a,as,Q1,armchair,wooden stool,correct,0.4696,0.5134,,Wooden stool
+qwen_vl,5ec4f880f0611d7ddd740f5e,as,Q1,armchair,wooden box,misclassification,0.3131,0.5051,,Wooden box
+qwen_vl,5d4bec81cf0b3a0f3f34e0a0,as,Q1,armchair,wooden chairs,correct,0.6101,0.5957,,Wooden chairs
+qwen_vl,5d4bef5dcf0b3a0f3f3531d6,as,Q1,armchair,wooden chair,correct,0.6617,0.6352,,Wooden chair
+qwen_vl,5d4bf2afcf0b3a0f3f358b50,as,Q1,armchair,plastic stool,misclassification,0.3673,0.5121,,Plastic stool
+qwen_vl,5f638d0019b6556ad488a058,as,Q1,armchair,bed,misclassification,0.3012,0.5124,,Bed
+qwen_vl,5ec4f808f0611d7ddd740b55,as,Q1,armchair,wooden stool,correct,0.4696,0.5134,,Wooden stool
+qwen_vl,5d4be73fcf0b3a0f3f3451b4,as,Q1,armchair,blue plastic stool,misclassification,0.2637,0.5104,,Blue plastic stool
+qwen_vl,5d4bef7dcf0b3a0f3f35358a,as,Q2,armchair,tree stump,misclassification,0.2317,0.5006,,Tree stump
+qwen_vl,5d4be788cf0b3a0f3f3459d2,as,Q2,armchair,bed,misclassification,0.3012,0.5124,,Bed
+qwen_vl,5d4bee6acf0b3a0f3f351590,as,Q2,armchair,cluttered room,misclassification,0.2901,0.534,,Cluttered room
+qwen_vl,5d4beea8cf0b3a0f3f351cc8,as,Q2,armchair,bamboo chair,correct,0.5178,0.6468,,Bamboo chair
+qwen_vl,5ec4f820f0611d7ddd740c1e,as,Q2,armchair,rope bed,misclassification,0.2623,0.5019,,Rope bed
+qwen_vl,5d4be78fcf0b3a0f3f345ab8,as,Q2,armchair,green plastic chair,misclassification,0.4432,0.6425,,Green plastic chair
+qwen_vl,5d4bedd2cf0b3a0f3f350532,as,Q2,armchair,picnic table,misclassification,0.3414,0.5106,,Picnic table
+qwen_vl,5d4beed0cf0b3a0f3f35215c,as,Q2,armchair,plastic chair,correct,0.5584,0.635,,Plastic chair
+qwen_vl,5d4beebccf0b3a0f3f351ef8,as,Q2,armchair,plastic chair,correct,0.5584,0.635,,Plastic chair
+qwen_vl,5d4bef70cf0b3a0f3f353408,as,Q2,armchair,woven stool,misclassification,0.3411,0.5112,,Woven stool
+qwen_vl,5ec4f829f0611d7ddd740c67,as,Q2,armchair,green stool,misclassification,0.3561,0.5126,,Green stool
+qwen_vl,5d4bf138cf0b3a0f3f3562d2,as,Q2,armchair,outdoor seating area,misclassification,0.4374,0.5478,,Outdoor seating area
+qwen_vl,5d4bf13ccf0b3a0f3f356356,as,Q2,armchair,living room,misclassification,0.3175,0.5534,,Living room
+qwen_vl,5d4bea5bcf0b3a0f3f34a470,as,Q2,armchair,red plastic chair,correct,0.4921,0.6414,,Red plastic chair
+qwen_vl,5d4beea1cf0b3a0f3f351bf6,as,Q2,armchair,armchair,correct,1.0,0.7294,,Armchair
+qwen_vl,5d4be780cf0b3a0f3f3458e6,as,Q2,armchair,shack interior,misclassification,0.1977,0.5149,,Shack interior
+qwen_vl,5d4be781cf0b3a0f3f34590e,as,Q2,armchair,garden area,misclassification,0.2087,0.5006,,Garden area
+qwen_vl,5ec4f811f0611d7ddd740b96,as,Q2,armchair,hammock,misclassification,0.3184,0.5145,,Hammock
+qwen_vl,5d4bed0acf0b3a0f3f34ee5a,as,Q2,armchair,bed,misclassification,0.3012,0.5124,,Bed
+qwen_vl,5d4beeb5cf0b3a0f3f351e38,as,Q2,armchair,plastic chair,correct,0.5584,0.635,,Plastic chair
+qwen_vl,5d4bf2b4cf0b3a0f3f358bf4,as,Q2,armchair,wooden stool,correct,0.4696,0.5134,,Wooden stool
+qwen_vl,5d4bed14cf0b3a0f3f34ef70,as,Q2,armchair,wooden chair,correct,0.6617,0.6352,,Wooden chair
+qwen_vl,5d4bf192cf0b3a0f3f356bd0,as,Q2,armchair,bench,correct,0.4695,0.5438,,Bench
+qwen_vl,5ec4f8e9f0611d7ddd7412e5,as,Q2,armchair,red plastic chair,correct,0.4921,0.6414,,Red plastic chair
+qwen_vl,5d4bee79cf0b3a0f3f351754,as,Q2,armchair,office chair,correct,0.674,0.6124,,Office chair
+qwen_vl,5d4becfecf0b3a0f3f34ed4e,as,Q2,armchair,chair,correct,0.7285,0.6782,,Chair
+qwen_vl,5d4bef76cf0b3a0f3f3534c2,as,Q2,armchair,bed,misclassification,0.3012,0.5124,,Bed
+qwen_vl,5d4bdf04cf0b3a0f3f336fa5,as,Q2,armchair,leather armchair,correct,0.8307,0.6775,,Leather armchair
+qwen_vl,5d4bf31bcf0b3a0f3f359810,as,Q2,armchair,plastic chair,correct,0.5584,0.635,,Plastic chair
+qwen_vl,5f8c5d491268e908d38e85dc,as,Q2,armchair,stool,correct,0.4593,0.5454,,Stool
+qwen_vl,5d4bf2e2cf0b3a0f3f35915e,as,Q2,armchair,plastic chair,correct,0.5584,0.635,,Plastic chair
+qwen_vl,5d4bf313cf0b3a0f3f359738,as,Q2,armchair,red plastic chair,correct,0.4921,0.6414,,Red plastic chair
+qwen_vl,5d4be774cf0b3a0f3f345788,as,Q2,armchair,plastic stools,misclassification,0.331,0.5022,,Plastic stools
+qwen_vl,5d4be8c4cf0b3a0f3f3475e2,as,Q2,armchair,plastic chair,correct,0.5584,0.635,,Plastic chair
+qwen_vl,5d4bf2a0cf0b3a0f3f358996,as,Q2,armchair,wooden chair,correct,0.6617,0.6352,,Wooden chair
+qwen_vl,5d4be775cf0b3a0f3f3457a6,as,Q2,armchair,black folding chair,correct,0.4575,0.6311,,Black folding chair
+qwen_vl,5d4bedcecf0b3a0f3f3504b4,as,Q2,armchair,abandoned couch,misclassification,0.4337,0.5036,,Abandoned couch
+qwen_vl,5ec4f7cff0611d7ddd74095d,as,Q2,armchair,plastic chairs,correct,0.5131,0.5952,,Plastic chairs
+qwen_vl,5d4be9ddcf0b3a0f3f3496b0,as,Q2,armchair,room interior,misclassification,0.3164,0.5664,,Room interior
+qwen_vl,5d4be384cf0b3a0f3f33e6cf,as,Q2,armchair,backpack on a chair,correct,0.4673,0.6174,,Backpack on a chair
+qwen_vl,5d4bedd7cf0b3a0f3f3505c4,as,Q2,armchair,closet,misclassification,0.2996,0.5194,,Closet
+qwen_vl,5d4becf4cf0b3a0f3f34ec16,as,Q2,armchair,plastic chair,correct,0.5584,0.635,,Plastic chair
+qwen_vl,5d4bf18bcf0b3a0f3f356b04,as,Q3,armchair,"outdoor scene with a blue plastic chair, a wooden bench, and some tools leaning",misclassification,0.4334,0.5903,,"Outdoor scene with a blue plastic chair, a wooden bench, and some tools leaning"
+qwen_vl,5d4beddbcf0b3a0f3f350644,as,Q3,armchair,cluttered room,misclassification,0.2901,0.534,,Cluttered room
+qwen_vl,5d4bf289cf0b3a0f3f3586c2,as,Q3,armchair,desk,correct,0.5352,0.5052,,Desk
+qwen_vl,5d4be1e3cf0b3a0f3f33bc51,as,Q3,armchair,rug,misclassification,0.3182,0.5082,,Rug
+qwen_vl,5f1055559d62c591e251751a,as,Q3,armchair,plastic chairs,correct,0.5131,0.5952,,Plastic chairs
+qwen_vl,5d4bf2e9cf0b3a0f3f359236,as,Q3,armchair,red plastic chair,correct,0.4921,0.6414,,Red plastic chair
+qwen_vl,5d4be80ccf0b3a0f3f346835,as,Q3,armchair,outdoor furniture,misclassification,0.4213,0.5657,,Outdoor furniture
+qwen_vl,5d4bf13fcf0b3a0f3f3563aa,as,Q3,armchair,veranda,misclassification,0.2334,0.5211,,Veranda
+qwen_vl,5d4bf143cf0b3a0f3f35641a,as,Q3,armchair,leather armchair,correct,0.8307,0.6775,,Leather armchair
+qwen_vl,5d4bf2dacf0b3a0f3f35907e,as,Q3,armchair,blue plastic chair,misclassification,0.4455,0.6439,,Blue plastic chair
+qwen_vl,5d4bf181cf0b3a0f3f3569fe,as,Q3,armchair,foldable chair,misclassification,0.4464,0.6459,,Foldable chair
+qwen_vl,5d4bf2a6cf0b3a0f3f358a32,as,Q3,armchair,plastic stool,misclassification,0.3673,0.5121,,Plastic stool
+qwen_vl,5d4bee8fcf0b3a0f3f3519ec,as,Q3,armchair,office desk,correct,0.4515,0.5109,,Office desk
+qwen_vl,5d4be2d3cf0b3a0f3f33d599,as,Q3,armchair,wooden chair,correct,0.6617,0.6352,,Wooden chair
+qwen_vl,5d4be1aecf0b3a0f3f33b781,as,Q3,armchair,sofa,correct,0.6299,0.5283,,Sofa
+qwen_vl,5d4be62fcf0b3a0f3f343363,as,Q3,armchair,man sitting on a bed in a room with a shelf and books,misclassification,0.2447,0.5208,,Man sitting on a bed in a room with a shelf and books.
+qwen_vl,5d4bf136cf0b3a0f3f35629c,as,Q3,armchair,living room furniture,misclassification,0.4292,0.6075,,Living room furniture
+qwen_vl,5d4be6afcf0b3a0f3f3441ea,as,Q3,armchair,bedroom,misclassification,0.3051,0.532,,Bedroom
+qwen_vl,5d4bf2bacf0b3a0f3f358cae,as,Q3,armchair,chair,correct,0.7285,0.6782,,Chair
+qwen_vl,5ec4f7e3f0611d7ddd740a05,as,Q3,armchair,plastic chair,correct,0.5584,0.635,,Plastic chair
+qwen_vl,5d4be9c5cf0b3a0f3f3493de,as,Q3,armchair,armchair,correct,1.0,0.7294,,Armchair
+qwen_vl,5d4be0e6cf0b3a0f3f33a15b,as,Q3,armchair,bed,misclassification,0.3012,0.5124,,Bed
+qwen_vl,5d4be6decf0b3a0f3f344752,as,Q3,armchair,living room,misclassification,0.3175,0.5534,,Living room
+qwen_vl,5d4be708cf0b3a0f3f344c40,as,Q3,armchair,chair,correct,0.7285,0.6782,,Chair
+qwen_vl,5d4bf293cf0b3a0f3f3587fc,as,Q3,armchair,wooden chair,correct,0.6617,0.6352,,Wooden chair
+qwen_vl,5d4be716cf0b3a0f3f344dfe,as,Q3,armchair,red plastic stool,misclassification,0.3163,0.5074,,Red plastic stool
+qwen_vl,5d4bf191cf0b3a0f3f356bb0,as,Q3,armchair,blue folding chair,correct,0.4503,0.6301,,Blue folding chair
+qwen_vl,5d4bf299cf0b3a0f3f3588be,as,Q3,armchair,stool,correct,0.4593,0.5454,,Stool
+qwen_vl,5d4be7f3cf0b3a0f3f346565,as,Q3,armchair,cat on a chair,misclassification,0.3611,0.5712,,Cat on a chair
+qwen_vl,5d4be2a7cf0b3a0f3f33d13b,as,Q3,armchair,plastic chair,correct,0.5584,0.635,,Plastic chair
+qwen_vl,5d4bf414cf0b3a0f3f35b07e,as,Q3,armchair,rattan chair,correct,0.5469,0.6525,,Rattan chair
+qwen_vl,5d4bf17ccf0b3a0f3f35695c,as,Q3,armchair,plastic chairs,correct,0.5131,0.5952,,Plastic chairs
+qwen_vl,5d4be71acf0b3a0f3f344e60,as,Q3,armchair,balcony,misclassification,0.3547,0.5167,,Balcony
+qwen_vl,5d4bf066cf0b3a0f3f354dba,as,Q3,armchair,couch,correct,0.6176,0.5328,,Couch
+qwen_vl,5d4beb93cf0b3a0f3f34c7b0,as,Q3,armchair,plastic chairs,correct,0.5131,0.5952,,Plastic chairs
+qwen_vl,5d4be704cf0b3a0f3f344bcc,as,Q3,armchair,"outdoor table with newspapers, shoes, and a wooden cabinet",misclassification,0.3216,0.5129,,"Outdoor table with newspapers, shoes, and a wooden cabinet."
+qwen_vl,5d4be7e8cf0b3a0f3f346417,as,Q3,armchair,bedroom,misclassification,0.3051,0.532,,Bedroom
+qwen_vl,5d4be7edcf0b3a0f3f34649f,as,Q3,armchair,wooden stool,correct,0.4696,0.5134,,Wooden stool
+qwen_vl,5d4bf078cf0b3a0f3f354f6c,as,Q3,armchair,sofa,correct,0.6299,0.5283,,Sofa
+qwen_vl,5d4bee81cf0b3a0f3f35184c,as,Q3,armchair,wooden chairs,correct,0.6101,0.5957,,Wooden chairs
+qwen_vl,5d4be18dcf0b3a0f3f33b3b1,as,Q3,armchair,living room,misclassification,0.3175,0.5534,,Living room
+qwen_vl,5d4be7f2cf0b3a0f3f346531,as,Q3,armchair,wooden table,correct,0.4519,0.5205,,Wooden table
+qwen_vl,5d4be6fccf0b3a0f3f344ad2,as,Q3,armchair,wooden chair,correct,0.6617,0.6352,,Wooden chair
+qwen_vl,5d4bedc8cf0b3a0f3f35040e,as,Q4,armchair,table with chairs,correct,0.4793,0.5987,,Table with chairs
+qwen_vl,5d4bea39cf0b3a0f3f34a082,as,Q4,armchair,plastic chair,correct,0.5584,0.635,,Plastic chair
+qwen_vl,5d4bf2bfcf0b3a0f3f358d36,as,Q4,armchair,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bee8bcf0b3a0f3f351970,as,Q4,armchair,wooden chair,correct,0.6617,0.6352,,Wooden chair
+qwen_vl,5edfe6d212a022d41687ea3a,as,Q4,armchair,bed,misclassification,0.3012,0.5124,,Bed
+qwen_vl,5d4be534cf0b3a0f3f3417f6,as,Q4,armchair,couch,correct,0.6176,0.5328,,Couch
+qwen_vl,5d4be4b6cf0b3a0f3f340968,as,Q4,armchair,living room,misclassification,0.3175,0.5534,,Living room
+qwen_vl,5d4be159cf0b3a0f3f33aea9,as,Q4,armchair,chair,correct,0.7285,0.6782,,Chair
+qwen_vl,5d4bdfc9cf0b3a0f3f3382e8,as,Q4,armchair,armchair,correct,1.0,0.7294,,Armchair
+qwen_vl,5d4be64dcf0b3a0f3f3436c9,as,Q4,armchair,table and chairs,correct,0.5148,0.5947,,Table and chairs
+qwen_vl,5d4be100cf0b3a0f3f33a453,as,Q4,armchair,living room,misclassification,0.3175,0.5534,,Living room
+qwen_vl,5d4bdfeecf0b3a0f3f338710,as,Q4,armchair,living room,misclassification,0.3175,0.5534,,Living room
+qwen_vl,5d4be7f7cf0b3a0f3f3465db,as,Q4,armchair,leather armchair,correct,0.8307,0.6775,,Leather armchair
+qwen_vl,5d4be655cf0b3a0f3f3437b9,as,Q4,armchair,bed,misclassification,0.3012,0.5124,,Bed
+qwen_vl,5d4be31ecf0b3a0f3f33dc45,as,Q4,armchair,wooden chair,correct,0.6617,0.6352,,Wooden chair
+qwen_vl,5d4bf2f0cf0b3a0f3f359322,as,Q4,armchair,wooden chair,correct,0.6617,0.6352,,Wooden chair
+qwen_vl,5d4be7ffcf0b3a0f3f3466bd,as,Q4,armchair,sofa,correct,0.6299,0.5283,,Sofa
+qwen_vl,5d4be06ecf0b3a0f3f33936e,as,Q4,armchair,wooden chair,correct,0.6617,0.6352,,Wooden chair
+qwen_vl,5d4bf17acf0b3a0f3f35692c,as,Q4,armchair,laptop on a coffee table,misclassification,0.2866,0.5229,,Laptop on a coffee table
+qwen_vl,5ec4f876f0611d7ddd740f03,as,Q4,armchair,wooden chair,correct,0.6617,0.6352,,Wooden chair
+qwen_vl,5d4be0b5cf0b3a0f3f339b9b,as,Q4,armchair,plastic chairs,correct,0.5131,0.5952,,Plastic chairs
+qwen_vl,5d4bef51cf0b3a0f3f353062,as,Q4,armchair,plastic chair,correct,0.5584,0.635,,Plastic chair
+qwen_vl,5ec4fabcf0611d7ddd74222e,as,Q4,armchair,chair,correct,0.7285,0.6782,,Chair
+qwen_vl,5d4be6b9cf0b3a0f3f34430a,as,Q4,armchair,bicycle,misclassification,0.3039,0.5029,,Bicycle
+qwen_vl,5d4be0c0cf0b3a0f3f339cdb,as,Q4,armchair,l-shaped sofa,correct,0.4589,0.5233,,L-shaped sofa
+qwen_vl,5ec4f7f8f0611d7ddd740ac2,as,Q4,armchair,sofa,correct,0.6299,0.5283,,Sofa
+qwen_vl,5d4be13ccf0b3a0f3f33ab49,as,Q4,armchair,couch,correct,0.6176,0.5328,,Couch
+qwen_vl,5d4bdf10cf0b3a0f3f3370d3,as,Q4,armchair,covered sofa,correct,0.5049,0.5154,,Covered sofa
+qwen_vl,5d4be0becf0b3a0f3f339ca5,as,Q4,armchair,office chair,correct,0.674,0.6124,,Office chair
+qwen_vl,5d4be836cf0b3a0f3f346ca7,as,Q4,armchair,cow-patterned chair,correct,0.4533,0.6426,,Cow-patterned chair
+qwen_vl,5d4be12bcf0b3a0f3f33a949,as,Q5,armchair,wooden chair,correct,0.6617,0.6352,,Wooden chair
+qwen_vl,5d4bf4a8cf0b3a0f3f35bfb2,as,Q5,armchair,wooden chair,correct,0.6617,0.6352,,Wooden chair
+qwen_vl,5ec4f963f0611d7ddd7416f3,as,Q5,armchair,wooden chair,correct,0.6617,0.6352,,Wooden chair
+qwen_vl,5d4be81fcf0b3a0f3f346a59,as,Q5,armchair,dining area,misclassification,0.3355,0.5085,,Dining area
+qwen_vl,5d4be11ccf0b3a0f3f33a78b,as,Q5,armchair,plastic chair,correct,0.5584,0.635,,Plastic chair
+qwen_vl,5d4be05dcf0b3a0f3f339198,as,Q5,armchair,office chair,correct,0.674,0.6124,,Office chair
+qwen_vl,5d4bef64cf0b3a0f3f353296,as,Q5,armchair,armchair,correct,1.0,0.7294,,Armchair
+qwen_vl,5d4bdff7cf0b3a0f3f33880e,as,Q5,armchair,office chair,correct,0.674,0.6124,,Office chair
+qwen_vl,5d4be70dcf0b3a0f3f344cd8,as,Q5,armchair,massage chair,correct,0.5518,0.6392,,Massage chair
+qwen_vl,5d4be827cf0b3a0f3f346adf,as,Q5,armchair,dining table and chairs,misclassification,0.4408,0.5702,,Dining table and chairs
+qwen_vl,5d4be828cf0b3a0f3f346b03,as,Q5,armchair,bedroom,misclassification,0.3051,0.532,,Bedroom
+qwen_vl,5d4be133cf0b3a0f3f33aa2f,as,Q5,armchair,plastic chair,correct,0.5584,0.635,,Plastic chair
+qwen_vl,5d4be13acf0b3a0f3f33ab19,as,Q5,armchair,office chair,correct,0.674,0.6124,,Office chair
+qwen_vl,5d4be0e8cf0b3a0f3f33a195,as,Q5,armchair,sofa,correct,0.6299,0.5283,,Sofa
+qwen_vl,5d4be641cf0b3a0f3f343569,as,Q5,armchair,home office,misclassification,0.3301,0.525,,Home office
+qwen_vl,5d4be0accf0b3a0f3f339a8f,as,Q5,armchair,plastic chair,correct,0.5584,0.635,,Plastic chair
+qwen_vl,5ec4f946f0611d7ddd7415f3,as,Q5,armchair,bean bag chair,correct,0.4804,0.5954,,Bean bag chair
+qwen_vl,5d4be058cf0b3a0f3f3390f2,as,Q5,armchair,wooden chair,correct,0.6617,0.6352,,Wooden chair
+qwen_vl,5d4be114cf0b3a0f3f33a697,as,Q5,armchair,living room,misclassification,0.3175,0.5534,,Living room
+qwen_vl,5d4be975cf0b3a0f3f348a7c,as,Q5,armchair,armchairs,correct,0.9189,0.7024,,Armchairs
+qwen_vl,5d4be812cf0b3a0f3f3468cb,as,Q5,armchair,massage chair,correct,0.5518,0.6392,,Massage chair
+qwen_vl,5d4bf1eecf0b3a0f3f35760a,am,Q1,armchair,plastic chair,correct,0.5584,0.635,,Plastic chair
+qwen_vl,5d4bf1c7cf0b3a0f3f357190,am,Q1,armchair,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bf218cf0b3a0f3f357aee,am,Q1,armchair,plastic chair,correct,0.5584,0.635,,Plastic chair
+qwen_vl,5d4be635cf0b3a0f3f34341d,am,Q1,armchair,shanty house interior,misclassification,0.1893,0.5141,,Shanty house interior
+qwen_vl,5d4be665cf0b3a0f3f34399d,am,Q1,armchair,shanty house interior,misclassification,0.1893,0.5141,,Shanty house interior
+qwen_vl,5d4bf1a8cf0b3a0f3f356e06,am,Q1,armchair,kitchen,misclassification,0.3395,0.5075,,Kitchen
+qwen_vl,5d4bf249cf0b3a0f3f358038,am,Q2,armchair,laundry basket,misclassification,0.1083,0.5029,,Laundry basket
+qwen_vl,5d4bf270cf0b3a0f3f3583d0,am,Q2,armchair,wooden chair,correct,0.6617,0.6352,,Wooden chair
+qwen_vl,5d4bdfa4cf0b3a0f3f337fab,am,Q2,armchair,wooden bench,correct,0.5346,0.5113,,Wooden bench
+qwen_vl,5d4bec65cf0b3a0f3f34ddb8,am,Q2,armchair,chair,correct,0.7285,0.6782,,Chair
+qwen_vl,5f42ddd4ebd73b1d9779c333,am,Q2,armchair,wooden chair,correct,0.6617,0.6352,,Wooden chair
+qwen_vl,5ec4fb7ff0611d7ddd74289d,am,Q2,armchair,chair,correct,0.7285,0.6782,,Chair
+qwen_vl,5ec4f88df0611d7ddd740fbf,am,Q2,armchair,wooden chair,correct,0.6617,0.6352,,Wooden chair
+qwen_vl,5d4be163cf0b3a0f3f33afc7,am,Q2,armchair,plastic stool,misclassification,0.3673,0.5121,,Plastic stool
+qwen_vl,5d4bdfa0cf0b3a0f3f337f51,am,Q3,armchair,bed,misclassification,0.3012,0.5124,,Bed
+qwen_vl,5ec4fb67f0611d7ddd7427cd,am,Q3,armchair,sofa,correct,0.6299,0.5283,,Sofa
+qwen_vl,5ec4fb57f0611d7ddd742753,am,Q3,armchair,armchair,correct,1.0,0.7294,,Armchair
+qwen_vl,5d4be14ccf0b3a0f3f33ad1b,am,Q3,armchair,couch,correct,0.6176,0.5328,,Couch
+qwen_vl,5d4be173cf0b3a0f3f33b1bb,am,Q3,armchair,sofa,correct,0.6299,0.5283,,Sofa
+qwen_vl,5d4bebc1cf0b3a0f3f34ccf5,am,Q3,armchair,laundry room,misclassification,0.2039,0.5109,,Laundry room
+qwen_vl,5d4be192cf0b3a0f3f33b44b,am,Q3,armchair,sofa,correct,0.6299,0.5283,,Sofa
+qwen_vl,5ec4f759f0611d7ddd74054a,am,Q3,armchair,sofa,correct,0.6299,0.5283,,Sofa
+qwen_vl,5ec4f769f0611d7ddd7405d5,am,Q3,armchair,rocking chair,correct,0.5588,0.6389,,Rocking chair
+qwen_vl,5d4bdeb0cf0b3a0f3f336749,am,Q3,armchair,bicycle,misclassification,0.3039,0.5029,,Bicycle
+qwen_vl,5ec4fb31f0611d7ddd74260d,am,Q3,armchair,sofa,correct,0.6299,0.5283,,Sofa
+qwen_vl,5d4be19ccf0b3a0f3f33b55d,am,Q3,armchair,sofa with blanket,correct,0.4511,0.5095,,Sofa with blanket
+qwen_vl,5d4be541cf0b3a0f3f341972,am,Q3,armchair,polka dot bean bag chair,misclassification,0.4382,0.6009,,Polka dot bean bag chair
+qwen_vl,5d4bf407cf0b3a0f3f35af0e,am,Q3,armchair,dining table,misclassification,0.4072,0.5121,,Dining table
+qwen_vl,5d4bde33cf0b3a0f3f335baf,am,Q3,armchair,"outdoor area with plastic chairs, garbage bags, and a ball",misclassification,0.2594,0.534,,"Outdoor area with plastic chairs, garbage bags, and a ball."
+qwen_vl,5d4be3c3cf0b3a0f3f33ee17,am,Q3,armchair,kitchen,misclassification,0.3395,0.5075,,Kitchen
+qwen_vl,5d4be3c6cf0b3a0f3f33ee73,am,Q3,armchair,toy box,misclassification,0.1845,0.5033,,Toy box
+qwen_vl,5d4bde4fcf0b3a0f3f335e55,am,Q3,armchair,red wingback chair,correct,0.5473,0.6228,,Red wingback chair
+qwen_vl,5d4be424cf0b3a0f3f33f94c,am,Q3,armchair,dining table,misclassification,0.4072,0.5121,,Dining table
+qwen_vl,5fa557870bd7ad6724b610ab,am,Q3,armchair,office chair,correct,0.674,0.6124,,Office chair
+qwen_vl,5d4be09ccf0b3a0f3f3398b7,am,Q3,armchair,couch,correct,0.6176,0.5328,,Couch
+qwen_vl,5f80acd3959799c9784c01d4,am,Q4,armchair,chair,correct,0.7285,0.6782,,Chair
+qwen_vl,5d4bef8acf0b3a0f3f353716,am,Q4,armchair,living room,misclassification,0.3175,0.5534,,Living room
+qwen_vl,5d4bef9ecf0b3a0f3f353864,am,Q4,armchair,home office,misclassification,0.3301,0.525,,Home office
+qwen_vl,5d4bef87cf0b3a0f3f3536ae,am,Q4,armchair,armchair,correct,1.0,0.7294,,Armchair
+qwen_vl,5d4be1aacf0b3a0f3f33b717,am,Q4,armchair,children's bedroom,misclassification,0.2325,0.5019,,Children's bedroom
+qwen_vl,5d4bed24cf0b3a0f3f34f154,am,Q4,armchair,armchair,correct,1.0,0.7294,,Armchair
+qwen_vl,5ec4fb6ef0611d7ddd74280d,am,Q4,armchair,green plastic chair,misclassification,0.4432,0.6425,,Green plastic chair
+qwen_vl,5ec4fb75f0611d7ddd742849,am,Q4,armchair,sofa,correct,0.6299,0.5283,,Sofa
+qwen_vl,5ec4fafdf0611d7ddd74245b,am,Q4,armchair,chair,correct,0.7285,0.6782,,Chair
+qwen_vl,5f4eab7e8bd7be60d527163a,am,Q4,armchair,plastic chair,correct,0.5584,0.635,,Plastic chair
+qwen_vl,5f1879801d89df562be9efcf,am,Q4,armchair,living room,misclassification,0.3175,0.5534,,Living room
+qwen_vl,5ec4f944f0611d7ddd7415e2,am,Q4,armchair,chair,correct,0.7285,0.6782,,Chair
+qwen_vl,5d4be3e0cf0b3a0f3f33f177,am,Q4,armchair,living room furniture,misclassification,0.4292,0.6075,,Living room furniture
+qwen_vl,5d4bef9ecf0b3a0f3f35385e,am,Q4,armchair,living room,misclassification,0.3175,0.5534,,Living room
+qwen_vl,5ec4fb22f0611d7ddd74258c,am,Q4,armchair,patterned chair,correct,0.5017,0.6689,,Patterned chair
+qwen_vl,5d4be539cf0b3a0f3f341888,am,Q4,armchair,wooden chair,correct,0.6617,0.6352,,Wooden chair
+qwen_vl,5d4bed35cf0b3a0f3f34f2fa,am,Q4,armchair,brown fabric chair,correct,0.4729,0.6523,,Brown fabric chair
+qwen_vl,5d4bdfc1cf0b3a0f3f338213,am,Q4,armchair,pallet sofa,correct,0.4765,0.5227,,Pallet sofa
+qwen_vl,5d4be4e6cf0b3a0f3f340ef4,am,Q4,armchair,leather armchair,correct,0.8307,0.6775,,Leather armchair
+qwen_vl,5d4be1f2cf0b3a0f3f33bdef,am,Q4,armchair,red round chair,correct,0.5575,0.6434,,Red round chair
+qwen_vl,5ec4fa08f0611d7ddd741c70,am,Q5,armchair,living room,misclassification,0.3175,0.5534,,Living room
+qwen_vl,5f889efd7e757219e8bad0b2,am,Q5,armchair,sofa,correct,0.6299,0.5283,,Sofa
+qwen_vl,5d4be1b4cf0b3a0f3f33b83d,am,Q5,armchair,red leather sofa,correct,0.5336,0.514,,Red leather sofa
+qwen_vl,5d4bde73cf0b3a0f3f336187,am,Q5,armchair,red leather armchair,correct,0.7349,0.6805,,Red leather armchair
+qwen_vl,5d4be3cfcf0b3a0f3f33ef83,am,Q5,armchair,recliner,correct,0.5284,0.5558,,Recliner
+qwen_vl,5d4be1f8cf0b3a0f3f33be8f,am,Q5,armchair,armchair,correct,1.0,0.7294,,Armchair
+qwen_vl,5f860b977299b53774922966,am,Q5,armchair,blue chair,correct,0.5906,0.6414,,Blue chair
+qwen_vl,5d4be41ecf0b3a0f3f33f894,am,Q5,armchair,wooden chair,correct,0.6617,0.6352,,Wooden chair
+qwen_vl,5d4be096cf0b3a0f3f33980b,am,Q5,armchair,sectional sofa,correct,0.6161,0.5123,,Sectional sofa
+qwen_vl,5d4bebeacf0b3a0f3f34d1d1,am,Q5,armchair,leather armchair,correct,0.8307,0.6775,,Leather armchair
+qwen_vl,5ec4f85df0611d7ddd740e25,am,Q5,armchair,textile,misclassification,0.1577,0.5098,,Textile
+qwen_vl,5ec4f609f4a4fb7dc0387c3c,am,Q5,armchair,leather armchair,correct,0.8307,0.6775,,Leather armchair
+qwen_vl,5d4befabcf0b3a0f3f3539e4,am,Q5,armchair,wicker sofa,correct,0.5715,0.5128,,Wicker sofa
+qwen_vl,5d4bdeefcf0b3a0f3f336d85,eu,Q2,armchair,room interior,misclassification,0.3164,0.5664,,Room interior
+qwen_vl,5d4bdf43cf0b3a0f3f337617,eu,Q2,armchair,living room,misclassification,0.3175,0.5534,,Living room
+qwen_vl,5d4bded7cf0b3a0f3f336aa5,eu,Q2,armchair,couch,correct,0.6176,0.5328,,Couch
+qwen_vl,5d4bdeddcf0b3a0f3f336b5f,eu,Q2,armchair,chair,correct,0.7285,0.6782,,Chair
+qwen_vl,5d4bdf03cf0b3a0f3f336f8f,eu,Q3,armchair,clothing pile,misclassification,0.2104,0.5006,,Clothing pile
+qwen_vl,5d4be8fccf0b3a0f3f347c7a,eu,Q3,armchair,chair,correct,0.7285,0.6782,,Chair
+qwen_vl,5d4be951cf0b3a0f3f34866a,eu,Q3,armchair,office chair,correct,0.674,0.6124,,Office chair
+qwen_vl,5ec4fc43f0611d7ddd742f07,eu,Q3,armchair,armchair,correct,1.0,0.7294,,Armchair
+qwen_vl,5d4bdfb2cf0b3a0f3f3380c3,eu,Q4,armchair,sofa,correct,0.6299,0.5283,,Sofa
+qwen_vl,5d4bdf94cf0b3a0f3f337dff,eu,Q4,armchair,living room,misclassification,0.3175,0.5534,,Living room
+qwen_vl,5d4be02fcf0b3a0f3f338c6e,eu,Q4,armchair,brown leather armchair,correct,0.7052,0.679,,Brown leather armchair
+qwen_vl,5ec4fac0f0611d7ddd742252,eu,Q4,armchair,kitchen table,misclassification,0.3828,0.5233,,Kitchen table
+qwen_vl,5d4bde6ecf0b3a0f3f336123,eu,Q4,armchair,antique chair,correct,0.5938,0.6599,,Antique chair
+qwen_vl,5d4bdfb9cf0b3a0f3f338161,eu,Q4,armchair,chair,correct,0.7285,0.6782,,Chair
+qwen_vl,5d4be04dcf0b3a0f3f338fa6,eu,Q4,armchair,recliner,correct,0.5284,0.5558,,Recliner
+qwen_vl,5d4be034cf0b3a0f3f338cf4,eu,Q4,armchair,living room,misclassification,0.3175,0.5534,,Living room
+qwen_vl,5d4bde95cf0b3a0f3f3364d3,eu,Q4,armchair,sofa,correct,0.6299,0.5283,,Sofa
+qwen_vl,5d4be0d4cf0b3a0f3f339f2b,eu,Q4,armchair,sofa,correct,0.6299,0.5283,,Sofa
+qwen_vl,5d4be409cf0b3a0f3f33f618,eu,Q4,armchair,armchair,correct,1.0,0.7294,,Armchair
+qwen_vl,5d4be0d9cf0b3a0f3f339fbd,eu,Q4,armchair,cat on a couch,misclassification,0.3105,0.5032,,Cat on a couch
+qwen_vl,5d4bdf80cf0b3a0f3f337c07,eu,Q4,armchair,children's bedroom,misclassification,0.2325,0.5019,,Children's bedroom
+qwen_vl,5d4bdfa0cf0b3a0f3f337f39,eu,Q4,armchair,wooden chair,correct,0.6617,0.6352,,Wooden chair
+qwen_vl,5ec4f5d0f4a4fb7dc0387a47,eu,Q4,armchair,office chair,correct,0.674,0.6124,,Office chair
+qwen_vl,5ec4f934f0611d7ddd741560,eu,Q5,armchair,sofa,correct,0.6299,0.5283,,Sofa
+qwen_vl,5ec4fa5cf0611d7ddd741f0e,eu,Q5,armchair,wooden chair,correct,0.6617,0.6352,,Wooden chair
+qwen_vl,5efb423048cdebde46b5c331,eu,Q5,armchair,wooden rocking chair,correct,0.5223,0.6419,,Wooden rocking chair
+qwen_vl,5ec4f8a1f0611d7ddd741078,eu,Q5,armchair,wooden chair,correct,0.6617,0.6352,,Wooden chair
+qwen_vl,5d4bde94cf0b3a0f3f3364b3,eu,Q5,armchair,green armchair,correct,0.7752,0.6729,,Green armchair
+qwen_vl,5ec4f914f0611d7ddd741448,eu,Q5,armchair,wicker chair,correct,0.632,0.6344,,Wicker chair
+qwen_vl,5ec4fc24f0611d7ddd742e00,eu,Q5,armchair,red leather armchair,correct,0.7349,0.6805,,Red leather armchair
+qwen_vl,5d4be025cf0b3a0f3f338b74,eu,Q5,armchair,rug,misclassification,0.3182,0.5082,,Rug
+qwen_vl,5d4be8d9cf0b3a0f3f34786e,eu,Q5,armchair,office chair,correct,0.674,0.6124,,Office chair
+qwen_vl,5d4bde2acf0b3a0f3f335adb,eu,Q5,armchair,leather sofa,correct,0.5919,0.5125,,Leather sofa
+qwen_vl,5ec4fc20f0611d7ddd742ddd,eu,Q5,armchair,brown armchair,correct,0.7525,0.6827,,Brown armchair
+qwen_vl,5d4bde21cf0b3a0f3f335a15,eu,Q5,armchair,living room,misclassification,0.3175,0.5534,,Living room
+qwen_vl,5ec4fa2bf0611d7ddd741da1,eu,Q5,armchair,outdoor chairs,correct,0.539,0.5797,,Outdoor chairs
+qwen_vl,5ec4f8f9f0611d7ddd74136c,eu,Q5,armchair,rocking chair,correct,0.5588,0.6389,,Rocking chair
+qwen_vl,5ec4f923f0611d7ddd7414d1,eu,Q5,armchair,white armchair,correct,0.7927,0.69,,White armchair
+qwen_vl,5ec4f909f0611d7ddd7413e5,eu,Q5,armchair,leather armchair,correct,0.8307,0.6775,,Leather armchair
+qwen_vl,5ec4fa3af0611d7ddd741e1e,eu,Q5,armchair,garden setting,misclassification,0.218,0.5021,,Garden setting
+qwen_vl,6057a174684cb2bdbece4085,eu,Q5,armchair,armchair,correct,1.0,0.7294,,Armchair
+qwen_vl,5d4bdf89cf0b3a0f3f337cfb,eu,Q5,armchair,rocking chair,correct,0.5588,0.6389,,Rocking chair
+qwen_vl,5ed7c9b3b323616e5f9eb585,eu,Q5,armchair,bean bag chair,correct,0.4804,0.5954,,Bean bag chair
+qwen_vl,5ec4f92ff0611d7ddd741539,eu,Q5,armchair,recliner,correct,0.5284,0.5558,,Recliner
+qwen_vl,5d4be925cf0b3a0f3f348150,eu,Q5,armchair,chair,correct,0.7285,0.6782,,Chair
+qwen_vl,5ec4f5523f62767d97a47327,eu,Q5,armchair,red armchair,correct,0.7936,0.6849,,Red armchair
+qwen_vl,5ec4f5523f62767d97a47328,eu,Q5,armchair,velvet armchair,correct,0.7611,0.6815,,Velvet armchair
+qwen_vl,5d4bf322cf0b3a0f3f3598b2,af,Q1,backyard,rural hut,misclassification,0.3493,0.504,,Rural hut
+qwen_vl,5d4bf33acf0b3a0f3f359b58,af,Q1,backyard,mud hut,misclassification,0.3802,0.5037,,Mud hut
+qwen_vl,5d4befc7cf0b3a0f3f353d12,af,Q1,backyard,dirt road,misclassification,0.4115,0.5151,,Dirt road
+qwen_vl,5d4bec84cf0b3a0f3f34e0f6,af,Q1,backyard,pathway,misclassification,0.1711,0.5377,,Pathway
+qwen_vl,5d4bf036cf0b3a0f3f354910,af,Q1,backyard,"outdoor courtyard with laundry, dried beans, and a person sitting under a tree",misclassification,0.3727,0.5697,,"Outdoor courtyard with laundry, dried beans, and a person sitting under a tree."
+qwen_vl,5d4bf342cf0b3a0f3f359c24,af,Q1,backyard,thatched hut,misclassification,0.2601,0.5166,,Thatched hut
+qwen_vl,5d4becbfcf0b3a0f3f34e6e2,af,Q1,backyard,village scene,misclassification,0.3687,0.5267,,Village scene
+qwen_vl,5d4becdfcf0b3a0f3f34e9a8,af,Q1,backyard,thatched roof hut,misclassification,0.3341,0.5237,,Thatched roof hut
+qwen_vl,5d4bf022cf0b3a0f3f354726,af,Q1,backyard,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bf00bcf0b3a0f3f354490,af,Q1,backyard,bucket,misclassification,0.2354,0.5041,,Bucket
+qwen_vl,5d4bf04bcf0b3a0f3f354b18,af,Q1,backyard,shanty town alley,misclassification,0.4217,0.5317,,Shanty town alley
+qwen_vl,5d4befb0cf0b3a0f3f353a6e,af,Q1,backyard,brickyard,correct,0.4751,0.6107,,Brickyard
+qwen_vl,5d4befdfcf0b3a0f3f353fa4,af,Q1,backyard,village path,misclassification,0.3862,0.5396,,Village Path
+qwen_vl,5d4bf38ecf0b3a0f3f35a3d8,af,Q1,backyard,desert landscape,misclassification,0.4429,0.5271,,Desert landscape
+qwen_vl,5d4bf054cf0b3a0f3f354bd6,af,Q1,backyard,rural houses,misclassification,0.4356,0.5339,,Rural houses
+qwen_vl,5d4bf09bcf0b3a0f3f3552fc,af,Q1,backyard,thatched roof structure,misclassification,0.2298,0.5229,,Thatched roof structure
+qwen_vl,5d4beff8cf0b3a0f3f35425c,af,Q1,backyard,brick wall,misclassification,0.3453,0.5295,,Brick wall
+qwen_vl,5d4beee5cf0b3a0f3f3523de,af,Q1,backyard,rural street,correct,0.4842,0.5194,,Rural street
+qwen_vl,5d4bee3ccf0b3a0f3f351068,af,Q1,backyard,rural pathway,misclassification,0.2998,0.5596,,Rural Pathway
+qwen_vl,5d4bef10cf0b3a0f3f3528cc,af,Q1,backyard,thatched roof structure,misclassification,0.2298,0.5229,,Thatched roof structure
+qwen_vl,5d4beca4cf0b3a0f3f34e450,af,Q1,backyard,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bef01cf0b3a0f3f352718,af,Q1,backyard,pathway in a rural area,misclassification,0.3465,0.5193,,Pathway in a rural area
+qwen_vl,5d4bf0decf0b3a0f3f355a1c,af,Q1,backyard,pathway in a dense green area,misclassification,0.268,0.5107,,Pathway in a dense green area
+qwen_vl,5d4be1cccf0b3a0f3f33ba3d,af,Q1,backyard,shed,correct,0.4742,0.5306,,Shed
+qwen_vl,5d4bf0bccf0b3a0f3f3556aa,af,Q1,backyard,abandoned house,misclassification,0.3758,0.5561,,Abandoned house
+qwen_vl,5ec4f9a7f0611d7ddd74193c,af,Q1,backyard,pathway in a rural area,misclassification,0.3465,0.5193,,Pathway in a rural area
+qwen_vl,5d4be62acf0b3a0f3f3432cd,af,Q1,backyard,shanty town,misclassification,0.3474,0.519,,Shanty town
+qwen_vl,5d4bed5ecf0b3a0f3f34f7be,af,Q1,backyard,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bed7acf0b3a0f3f34fb04,af,Q1,backyard,abandoned yard,correct,0.6722,0.6249,,Abandoned yard
+qwen_vl,5d4bef47cf0b3a0f3f352f4a,af,Q1,backyard,damaged building,misclassification,0.3481,0.5448,,Damaged building
+qwen_vl,5d4be3fbcf0b3a0f3f33f48e,af,Q1,backyard,thatched roof structure,misclassification,0.2298,0.5229,,Thatched roof structure
+qwen_vl,5d4bf419cf0b3a0f3f35b0f2,af,Q2,backyard,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4be4e5cf0b3a0f3f340edc,af,Q2,backyard,wooden structure,misclassification,0.2479,0.562,,Wooden structure
+qwen_vl,5d4bed95cf0b3a0f3f34fe26,af,Q2,backyard,construction site debris,misclassification,0.3747,0.5151,,Construction site debris
+qwen_vl,5ec4fb12f0611d7ddd74250d,af,Q2,backyard,dirty laundry,misclassification,0.2693,0.5121,,Dirty laundry
+qwen_vl,5d4bee4bcf0b3a0f3f35121c,af,Q2,backyard,dirt courtyard,correct,0.5537,0.5601,,Dirt courtyard
+qwen_vl,5d4bdee7cf0b3a0f3f336c8f,af,Q2,backyard,backyard area,correct,0.9103,0.7102,,Backyard area
+qwen_vl,5ec4f9e7f0611d7ddd741b5d,af,Q2,backyard,thatched roof structure,misclassification,0.2298,0.5229,,Thatched roof structure
+qwen_vl,5d4bdf31cf0b3a0f3f337449,af,Q2,backyard,thatched roof structure,misclassification,0.2298,0.5229,,Thatched roof structure
+qwen_vl,5ec4facaf0611d7ddd7422b0,af,Q2,backyard,trash in vegetation,misclassification,0.2633,0.535,,Trash in vegetation
+qwen_vl,5d4bee5ccf0b3a0f3f3513fe,af,Q3,backyard,alleyway,misclassification,0.4149,0.537,,Alleyway
+qwen_vl,5ec4f9cbf0611d7ddd741a67,af,Q3,backyard,banana trees and bamboo fence,misclassification,0.3382,0.5271,,Banana trees and bamboo fence
+qwen_vl,5ec4fa3af0611d7ddd741e19,af,Q3,backyard,garden,correct,0.6832,0.5434,,Garden
+qwen_vl,5ec4f9daf0611d7ddd741ae7,af,Q3,backyard,village scene,misclassification,0.3687,0.5267,,Village scene
+qwen_vl,5d4be004cf0b3a0f3f338928,af,Q3,backyard,alleyway,misclassification,0.4149,0.537,,Alleyway
+qwen_vl,5d4be283cf0b3a0f3f33cda3,af,Q3,backyard,residential area,correct,0.5227,0.5977,,Residential area
+qwen_vl,5d4bf236cf0b3a0f3f357e5a,af,Q3,backyard,garden,correct,0.6832,0.5434,,Garden
+qwen_vl,5d4be66ecf0b3a0f3f343a8f,af,Q4,backyard,abandoned lot,misclassification,0.3835,0.5333,,Abandoned lot
+qwen_vl,5d4beb7dcf0b3a0f3f34c520,af,Q5,backyard,backyard patio,correct,0.7914,0.6582,,Backyard patio
+qwen_vl,5d4be623cf0b3a0f3f3431f5,af,Q5,backyard,backyard with trees and bushes,correct,0.8102,0.6717,,Backyard with trees and bushes
+qwen_vl,5ec4fa4df0611d7ddd741e9d,af,Q5,backyard,satellite dish,misclassification,0.1757,0.5036,,Satellite dish
+qwen_vl,5d4bea8dcf0b3a0f3f34aa4c,as,Q1,backyard,thatched structure,misclassification,0.1824,0.5294,,Thatched structure
+qwen_vl,5d4be75acf0b3a0f3f3454b2,as,Q1,backyard,landscape,correct,0.5007,0.5588,,Landscape
+qwen_vl,5d4beed7cf0b3a0f3f352236,as,Q1,backyard,thatched hut,misclassification,0.2601,0.5166,,Thatched hut
+qwen_vl,5d4be6f0cf0b3a0f3f344970,as,Q1,backyard,grassland,misclassification,0.4279,0.517,,Grassland
+qwen_vl,5d4beee1cf0b3a0f3f352366,as,Q1,backyard,thatched hut,misclassification,0.2601,0.5166,,Thatched hut
+qwen_vl,5d4bf2cdcf0b3a0f3f358eee,as,Q1,backyard,garbage dump,misclassification,0.3362,0.5131,,garbage dump
+qwen_vl,5d4be751cf0b3a0f3f3453b0,as,Q1,backyard,grassland,misclassification,0.4279,0.517,,Grassland
+qwen_vl,5d4beae1cf0b3a0f3f34b436,as,Q1,backyard,thatched roof structure,misclassification,0.2298,0.5229,,Thatched roof structure
+qwen_vl,5d4be7bacf0b3a0f3f345fa0,as,Q1,backyard,haystack,misclassification,0.2221,0.5213,,Haystack
+qwen_vl,5d4be746cf0b3a0f3f345270,as,Q1,backyard,shelter in wooded area,misclassification,0.4096,0.5155,,Shelter in wooded area
+qwen_vl,5d4be7afcf0b3a0f3f345e52,as,Q1,backyard,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4be799cf0b3a0f3f345be0,as,Q1,backyard,garden area,correct,0.6401,0.559,,Garden area
+qwen_vl,5d4be75fcf0b3a0f3f34553a,as,Q1,backyard,trash in grass,misclassification,0.4333,0.5305,,Trash in grass
+qwen_vl,5d4bef6acf0b3a0f3f35334a,as,Q1,backyard,rural path,misclassification,0.378,0.5413,,Rural path
+qwen_vl,5d4be7a2cf0b3a0f3f345cc8,as,Q1,backyard,forest path,misclassification,0.3516,0.5019,,Forest path
+qwen_vl,5d4beeadcf0b3a0f3f351d70,as,Q1,backyard,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4beec9cf0b3a0f3f352082,as,Q1,backyard,palm tree grove,misclassification,0.4164,0.5108,,Palm tree grove
+qwen_vl,5d4beec2cf0b3a0f3f351fc0,as,Q1,backyard,train tracks with vehicles,misclassification,0.0962,0.5334,,Train tracks with vehicles
+qwen_vl,5d4be6dfcf0b3a0f3f34477e,as,Q1,backyard,backyard area,correct,0.9103,0.7102,,Backyard area
+qwen_vl,5d4bf165cf0b3a0f3f35672c,as,Q1,backyard,dirt path with laundry and plants,misclassification,0.3495,0.5418,,Dirt path with laundry and plants
+qwen_vl,5d4bf2d3cf0b3a0f3f358fa8,as,Q1,backyard,trash dump,misclassification,0.3365,0.5389,,Trash dump
+qwen_vl,5d4bef58cf0b3a0f3f353128,as,Q1,backyard,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bec81cf0b3a0f3f34e09c,as,Q1,backyard,trees,misclassification,0.3553,0.5076,,Trees
+qwen_vl,5d4bef5dcf0b3a0f3f3531d4,as,Q1,backyard,hillside with crops,misclassification,0.4278,0.5415,,Hillside with crops
+qwen_vl,5d4bf2afcf0b3a0f3f358b4e,as,Q1,backyard,forest clearing,misclassification,0.34,0.5006,,Forest clearing
+qwen_vl,5d4bef7dcf0b3a0f3f353588,as,Q2,backyard,damaged building,misclassification,0.3481,0.5448,,Damaged building
+qwen_vl,5d4be787cf0b3a0f3f3459d0,as,Q2,backyard,palm trees,misclassification,0.3563,0.5132,,Palm trees
+qwen_vl,5d4beea8cf0b3a0f3f351cc4,as,Q2,backyard,bamboo structure,misclassification,0.1767,0.5319,,Bamboo structure
+qwen_vl,5ec4f821f0611d7ddd740c21,as,Q2,backyard,fence,correct,0.4747,0.5117,,Fence
+qwen_vl,5d4beed0cf0b3a0f3f35215a,as,Q2,backyard,wellness center,misclassification,0.2662,0.5028,,Wellness center
+qwen_vl,5d4beebccf0b3a0f3f351ef6,as,Q2,backyard,abandoned items,misclassification,0.2661,0.5488,,Abandoned items
+qwen_vl,5d4bf2c7cf0b3a0f3f358e32,as,Q2,backyard,alleyway,misclassification,0.4149,0.537,,Alleyway
+qwen_vl,5d4bef70cf0b3a0f3f353406,as,Q2,backyard,field,misclassification,0.3428,0.5426,,Field
+qwen_vl,5d4bf158cf0b3a0f3f3565d0,as,Q2,backyard,banana plantation,misclassification,0.3462,0.52,,Banana plantation
+qwen_vl,5d4bf13ccf0b3a0f3f356354,as,Q2,backyard,backyard,correct,1.0,0.726,,Backyard
+qwen_vl,5d4bea4dcf0b3a0f3f34a2ce,as,Q2,backyard,pathway in a rural area,misclassification,0.3465,0.5193,,Pathway in a rural area
+qwen_vl,5d4beea1cf0b3a0f3f351bf4,as,Q2,backyard,abandoned yard,correct,0.6722,0.6249,,Abandoned yard
+qwen_vl,5d4be781cf0b3a0f3f34590c,as,Q2,backyard,backyard with debris,correct,0.7786,0.6456,,Backyard with debris
+qwen_vl,5ec4f816f0611d7ddd740bc4,as,Q2,backyard,cornfield,misclassification,0.4237,0.5186,,Cornfield
+qwen_vl,5d4bed06cf0b3a0f3f34edee,as,Q2,backyard,rural scene,correct,0.4634,0.5355,,Rural scene
+qwen_vl,5d4beeb5cf0b3a0f3f351e36,as,Q2,backyard,shanty town alley,misclassification,0.4217,0.5317,,Shanty town alley
+qwen_vl,5d4bed10cf0b3a0f3f34ef08,as,Q2,backyard,rural scene,correct,0.4634,0.5355,,Rural scene
+qwen_vl,5d4becfacf0b3a0f3f34ecc8,as,Q2,backyard,dirty outdoor area with plants and dishes,misclassification,0.4402,0.5547,,Dirty outdoor area with plants and dishes
+qwen_vl,5d4bf15fcf0b3a0f3f356688,as,Q2,backyard,brick stack,misclassification,0.2704,0.5309,,Brick stack
+qwen_vl,5d4bef76cf0b3a0f3f3534c0,as,Q2,backyard,tents,misclassification,0.404,0.5158,,Tents
+qwen_vl,5d4bf31bcf0b3a0f3f35980e,as,Q2,backyard,"backyard with corrugated metal structures, clothes hanging on a line, and",correct,0.5858,0.6605,,"Backyard with corrugated metal structures, clothes hanging on a line, and"
+qwen_vl,5f8e2a9e09641f5700721525,as,Q2,backyard,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bf2e2cf0b3a0f3f35915c,as,Q2,backyard,banana plantation,misclassification,0.3462,0.52,,Banana plantation
+qwen_vl,5d4bf313cf0b3a0f3f359736,as,Q2,backyard,clothing line,misclassification,0.2081,0.5047,,Clothing line
+qwen_vl,5d4bf2a0cf0b3a0f3f358994,as,Q2,backyard,rocks and vegetation,misclassification,0.3397,0.5401,,Rocks and vegetation
+qwen_vl,5d4be77acf0b3a0f3f34584a,as,Q2,backyard,abandoned yard,correct,0.6722,0.6249,,Abandoned yard
+qwen_vl,5d4be37bcf0b3a0f3f33e5b9,as,Q2,backyard,clothesline,misclassification,0.2105,0.5126,,Clothesline
+qwen_vl,5d4becf0cf0b3a0f3f34ebac,as,Q2,backyard,garden,correct,0.6832,0.5434,,Garden
+qwen_vl,5d4bf188cf0b3a0f3f356ab6,as,Q3,backyard,"outdoor scene with a blue plastic chair, a wooden bench, and some tools leaning",misclassification,0.3551,0.5531,,"Outdoor scene with a blue plastic chair, a wooden bench, and some tools leaning"
+qwen_vl,5d4bf171cf0b3a0f3f35682e,as,Q3,backyard,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bdf1ecf0b3a0f3f33725b,as,Q3,backyard,rural landscape,correct,0.4809,0.543,,Rural landscape
+qwen_vl,5d4bf2e9cf0b3a0f3f359234,as,Q3,backyard,cattle pen,misclassification,0.2381,0.5203,,Cattle pen
+qwen_vl,5d4be80dcf0b3a0f3f346837,as,Q3,backyard,damaged building,misclassification,0.3481,0.5448,,Damaged building
+qwen_vl,5d4bf143cf0b3a0f3f356418,as,Q3,backyard,backyard clutter,correct,0.674,0.6749,,Backyard clutter
+qwen_vl,5d4bf2dacf0b3a0f3f35907a,as,Q3,backyard,farmland,misclassification,0.4488,0.5409,,Farmland
+qwen_vl,5d4be2c4cf0b3a0f3f33d405,as,Q3,backyard,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bf136cf0b3a0f3f35629a,as,Q3,backyard,garden,correct,0.6832,0.5434,,Garden
+qwen_vl,5d4be6aacf0b3a0f3f34414e,as,Q3,backyard,trash and debris in a yard,correct,0.5584,0.631,,Trash and debris in a yard.
+qwen_vl,5d4bf2bacf0b3a0f3f358cac,as,Q3,backyard,construction site,misclassification,0.4096,0.522,,Construction site
+qwen_vl,5ec4f7e7f0611d7ddd740a29,as,Q3,backyard,rural yard,correct,0.7096,0.6251,,Rural yard
+qwen_vl,5d4be706cf0b3a0f3f344c06,as,Q3,backyard,weeds,misclassification,0.4117,0.5205,,Weeds
+qwen_vl,5d4bf29acf0b3a0f3f3588e4,as,Q3,backyard,lake,misclassification,0.3856,0.5028,,Lake
+qwen_vl,5d4be71acf0b3a0f3f344e6c,as,Q3,backyard,urban alleyway,correct,0.4702,0.5296,,Urban alleyway
+qwen_vl,5d4bf066cf0b3a0f3f354dbc,as,Q3,backyard,winter garden,correct,0.5618,0.5221,,Winter garden
+qwen_vl,5d4be702cf0b3a0f3f344b92,as,Q3,backyard,garden,correct,0.6832,0.5434,,Garden
+qwen_vl,5d4be191cf0b3a0f3f33b41d,as,Q3,backyard,alleyway,misclassification,0.4149,0.537,,Alleyway
+qwen_vl,5d4be349cf0b3a0f3f33e069,as,Q3,backyard,apartment complex,misclassification,0.3138,0.5117,,Apartment complex
+qwen_vl,5d4bf14bcf0b3a0f3f35650e,as,Q3,backyard,backyard with trees and a house,correct,0.8271,0.665,,Backyard with trees and a house
+qwen_vl,5d4be6fccf0b3a0f3f344ada,as,Q3,backyard,tent,misclassification,0.4237,0.5271,,Tent
+qwen_vl,5d4bedcdcf0b3a0f3f350496,as,Q4,backyard,tires and car parts,misclassification,0.171,0.5153,,Tires and car parts
+qwen_vl,5d4bea2bcf0b3a0f3f349ec8,as,Q4,backyard,shed,correct,0.4742,0.5306,,Shed
+qwen_vl,5d4bf2c0cf0b3a0f3f358d56,as,Q4,backyard,banana trees,misclassification,0.2985,0.5148,,Banana trees
+qwen_vl,5d4bee87cf0b3a0f3f3518f4,as,Q4,backyard,"backyard with a house, dog, gravel, and plants",correct,0.7337,0.6644,,"Backyard with a house, dog, gravel, and plants."
+qwen_vl,5d4be733cf0b3a0f3f345058,as,Q4,backyard,garden,correct,0.6832,0.5434,,Garden
+qwen_vl,5d4be322cf0b3a0f3f33dca5,as,Q4,backyard,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bf2f0cf0b3a0f3f359320,as,Q4,backyard,pathway with vegetation,misclassification,0.2753,0.5285,,Pathway with vegetation
+qwen_vl,5d4bf17acf0b3a0f3f35692a,as,Q4,backyard,alleyway,misclassification,0.4149,0.537,,Alleyway
+qwen_vl,5ec4f876f0611d7ddd740f02,as,Q4,backyard,concrete pathway,misclassification,0.3066,0.5224,,Concrete pathway
+qwen_vl,5d4be0b5cf0b3a0f3f339b99,as,Q4,backyard,backyard with clothesline,correct,0.711,0.6354,,Backyard with clothesline
+qwen_vl,5d4be0c6cf0b3a0f3f339d87,as,Q4,backyard,indoor garden,correct,0.5894,0.5419,,Indoor garden
+qwen_vl,5ec4f7fdf0611d7ddd740af1,as,Q4,backyard,parking lot,correct,0.5369,0.5247,,Parking lot
+qwen_vl,5d4be0becf0b3a0f3f339ca3,as,Q4,backyard,balcony garden,correct,0.6056,0.536,,Balcony garden
+qwen_vl,5d4bef64cf0b3a0f3f353294,as,Q5,backyard,garden,correct,0.6832,0.5434,,Garden
+qwen_vl,5d4be82dcf0b3a0f3f346bab,as,Q5,backyard,garden trellis,correct,0.4921,0.5067,,Garden trellis
+qwen_vl,5d4be82dcf0b3a0f3f346bad,as,Q5,backyard,chili plant,misclassification,0.2033,0.504,,Chili plant
+qwen_vl,5d4be133cf0b3a0f3f33aa37,as,Q5,backyard,backyard patio,correct,0.7914,0.6582,,Backyard patio
+qwen_vl,5d4be0eecf0b3a0f3f33a243,as,Q5,backyard,garden area,correct,0.6401,0.559,,Garden area
+qwen_vl,5d4be0abcf0b3a0f3f339a87,as,Q5,backyard,garden,correct,0.6832,0.5434,,Garden
+qwen_vl,5d4be974cf0b3a0f3f348a72,as,Q5,backyard,outdoor patio,correct,0.6084,0.5275,,Outdoor patio
+qwen_vl,5d4be81bcf0b3a0f3f3469e1,as,Q5,backyard,plant,misclassification,0.3874,0.5092,,Plant
+qwen_vl,5d4bf1efcf0b3a0f3f357612,am,Q1,backyard,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bf1bacf0b3a0f3f35701a,am,Q1,backyard,abandoned building,misclassification,0.4001,0.559,,Abandoned building
+qwen_vl,5d4bf437cf0b3a0f3f35b416,am,Q1,backyard,tent camp,misclassification,0.4199,0.5078,,Tent camp
+qwen_vl,5d4bf1d5cf0b3a0f3f35731c,am,Q1,backyard,shanty town,misclassification,0.3474,0.519,,Shanty town
+qwen_vl,5d4bf198cf0b3a0f3f356c82,am,Q1,backyard,tent,misclassification,0.4237,0.5271,,Tent
+qwen_vl,5d4bf473cf0b3a0f3f35bab8,am,Q1,backyard,pathway with debris,misclassification,0.287,0.5159,,Pathway with debris
+qwen_vl,5f42e470ebd73b46df79c78b,am,Q2,backyard,shack,misclassification,0.3098,0.5053,,Shack
+qwen_vl,5d4be163cf0b3a0f3f33afc5,am,Q2,backyard,clothesline,misclassification,0.2105,0.5126,,Clothesline
+qwen_vl,5d4be175cf0b3a0f3f33b1eb,am,Q3,backyard,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bebb3cf0b3a0f3f34cb4f,am,Q3,backyard,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5ec4f75af0611d7ddd740555,am,Q3,backyard,laundry area,misclassification,0.4289,0.5121,,Laundry area
+qwen_vl,5d4bdeb3cf0b3a0f3f33675f,am,Q3,backyard,"backyard area with trash bins, vehicles, and wooden fences",correct,0.63,0.6534,,"Backyard area with trash bins, vehicles, and wooden fences."
+qwen_vl,5ec4fb35f0611d7ddd74262b,am,Q3,backyard,balcony,correct,0.5301,0.5236,,Balcony
+qwen_vl,5d4be19fcf0b3a0f3f33b5bf,am,Q3,backyard,"backyard with laundry drying, plants, and a wall with meters",correct,0.6408,0.6472,,"Backyard with laundry drying, plants, and a wall with meters."
+qwen_vl,5d4bde33cf0b3a0f3f335bad,am,Q3,backyard,backyard scene,correct,0.8068,0.7041,,Backyard scene
+qwen_vl,5d4be3c1cf0b3a0f3f33edd7,am,Q3,backyard,sidewalk and gravel path,misclassification,0.2994,0.5139,,Sidewalk and gravel path
+qwen_vl,5d4bde50cf0b3a0f3f335e63,am,Q3,backyard,backyard scene,correct,0.8068,0.7041,,Backyard scene
+qwen_vl,5d4be421cf0b3a0f3f33f8fc,am,Q3,backyard,swing set,misclassification,0.2926,0.5011,,Swing set
+qwen_vl,5d4be09bcf0b3a0f3f3398ad,am,Q3,backyard,green plants,misclassification,0.2874,0.5266,,Green plants
+qwen_vl,5d4befa5cf0b3a0f3f353920,am,Q4,backyard,"outdoor patio with colorful flooring, plants, and a staircase",correct,0.4657,0.5342,,"Outdoor patio with colorful flooring, plants, and a staircase."
+qwen_vl,5d4bef87cf0b3a0f3f3536ac,am,Q4,backyard,"backyard garden with a blue tub, tree, plants, gravel, and a",correct,0.5433,0.6618,,"Backyard garden with a blue tub, tree, plants, gravel, and a"
+qwen_vl,5ec4fb72f0611d7ddd742832,am,Q4,backyard,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5ec4fb7cf0611d7ddd742887,am,Q4,backyard,garden patio,correct,0.6484,0.5396,,Garden patio
+qwen_vl,5d4be3dfcf0b3a0f3f33f15f,am,Q4,backyard,backyard,correct,1.0,0.726,,Backyard
+qwen_vl,5d4bef9ecf0b3a0f3f35385a,am,Q4,backyard,terrace garden,correct,0.538,0.5289,,Terrace garden
+qwen_vl,5ec4fb27f0611d7ddd7425b5,am,Q4,backyard,indoor garden,correct,0.5894,0.5419,,Indoor garden
+qwen_vl,5d4be536cf0b3a0f3f341832,am,Q4,backyard,backyard,correct,1.0,0.726,,Backyard
+qwen_vl,5d4bed35cf0b3a0f3f34f2f6,am,Q4,backyard,garden,correct,0.6832,0.5434,,Garden
+qwen_vl,5d4be4e6cf0b3a0f3f340efc,am,Q4,backyard,"backyard with shed, sandbox, and fence",correct,0.7248,0.6509,,"Backyard with shed, sandbox, and fence."
+qwen_vl,5d4bdf60cf0b3a0f3f3378c5,am,Q5,backyard,garden,correct,0.6832,0.5434,,Garden
+qwen_vl,5d4be3c7cf0b3a0f3f33ee89,am,Q5,backyard,"backyard with shed, fence, and steps",correct,0.7015,0.656,,"Backyard with shed, fence, and steps."
+qwen_vl,5d4be1f4cf0b3a0f3f33be17,am,Q5,backyard,potted plants,misclassification,0.2068,0.5461,,Potted plants
+qwen_vl,5f859afdc28f0f4e6d7d0f4d,am,Q5,backyard,stone wall fountain,misclassification,0.2753,0.5321,,Stone wall fountain
+qwen_vl,5d4be41fcf0b3a0f3f33f8bc,am,Q5,backyard,"backyard with stone walls, trees, and a house in the background",correct,0.715,0.6729,,"Backyard with stone walls, trees, and a house in the background."
+qwen_vl,5d4be09acf0b3a0f3f33988d,am,Q5,backyard,"backyard patio with colorful adirondack chairs, trees, and a garden",correct,0.5494,0.6611,,"Backyard patio with colorful Adirondack chairs, trees, and a garden"
+qwen_vl,5d4bebd1cf0b3a0f3f34cedd,am,Q5,backyard,church,misclassification,0.3407,0.5187,,Church
+qwen_vl,5ec4f857f0611d7ddd740de8,am,Q5,backyard,house,correct,0.479,0.5526,,House
+qwen_vl,5d4befabcf0b3a0f3f3539de,am,Q5,backyard,concrete floor,misclassification,0.3593,0.5095,,Concrete floor
+qwen_vl,5d4bdeefcf0b3a0f3f336d83,eu,Q2,backyard,abandoned yard,correct,0.6722,0.6249,,Abandoned yard
+qwen_vl,5d4bdf43cf0b3a0f3f337615,eu,Q2,backyard,greenhouse,misclassification,0.4358,0.5293,,Greenhouse
+qwen_vl,5d4bdeddcf0b3a0f3f336b5d,eu,Q2,backyard,abandoned area,correct,0.482,0.5941,,Abandoned area
+qwen_vl,5d4bdf03cf0b3a0f3f336f8d,eu,Q3,backyard,old wooden fence and gate,misclassification,0.3128,0.5423,,Old wooden fence and gate
+qwen_vl,5d4be902cf0b3a0f3f347d36,eu,Q3,backyard,field,misclassification,0.3428,0.5426,,Field
+qwen_vl,5ec4fc31f0611d7ddd742e72,eu,Q3,backyard,house exterior,misclassification,0.4418,0.5469,,House exterior
+qwen_vl,5ec4fbddf0611d7ddd742bb1,eu,Q3,backyard,backyard garden,correct,0.85,0.6725,,Backyard garden
+qwen_vl,5d4bdf98cf0b3a0f3f337e71,eu,Q4,backyard,abandoned lot,misclassification,0.3835,0.5333,,Abandoned lot
+qwen_vl,5d4bde5ecf0b3a0f3f335fbd,eu,Q4,backyard,garden,correct,0.6832,0.5434,,Garden
+qwen_vl,5d4bde95cf0b3a0f3f3364c9,eu,Q4,backyard,balcony view,misclassification,0.3744,0.5267,,Balcony view
+qwen_vl,5d4be405cf0b3a0f3f33f5b0,eu,Q4,backyard,outdoor patio furniture,misclassification,0.4345,0.5276,,Outdoor patio furniture
+qwen_vl,5d4bdf9fcf0b3a0f3f337f37,eu,Q4,backyard,roof garden,correct,0.5576,0.5438,,Roof garden
+qwen_vl,5ec4f5cff4a4fb7dc0387a3b,eu,Q4,backyard,snow-covered pathway,misclassification,0.2695,0.5201,,Snow-covered pathway
+qwen_vl,5ec4f940f0611d7ddd7415bb,eu,Q5,backyard,houseplants,misclassification,0.2656,0.5431,,Houseplants
+qwen_vl,5ec4f897f0611d7ddd74101a,eu,Q5,backyard,construction site,misclassification,0.4096,0.522,,Construction site
+qwen_vl,5d4bde94cf0b3a0f3f3364ad,eu,Q5,backyard,garden shed,correct,0.5469,0.534,,Garden shed
+qwen_vl,5ec4fc1ff0611d7ddd742ddb,eu,Q5,backyard,balcony,correct,0.5301,0.5236,,Balcony
+qwen_vl,5d4bde20cf0b3a0f3f335a05,eu,Q5,backyard,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5ec4fa2bf0611d7ddd741da0,eu,Q5,backyard,garden,correct,0.6832,0.5434,,Garden
+qwen_vl,5ec4f8f9f0611d7ddd74136b,eu,Q5,backyard,balcony,correct,0.5301,0.5236,,Balcony
+qwen_vl,5ec4fa6af0611d7ddd741f75,eu,Q5,backyard,garden,correct,0.6832,0.5434,,Garden
+qwen_vl,6057a174684cb22905ce4086,eu,Q5,backyard,"backyard patio with grill, table, bicycle, and ivy-covered fence",correct,0.5736,0.6462,,"Backyard patio with grill, table, bicycle, and ivy-covered fence."
+qwen_vl,5ec4f92ff0611d7ddd741538,eu,Q5,backyard,outdoor patio,correct,0.6084,0.5275,,Outdoor patio
+qwen_vl,5d4be92acf0b3a0f3f3481ca,eu,Q5,backyard,house,correct,0.479,0.5526,,House
+qwen_vl,5d4bf321cf0b3a0f3f3598a4,af,Q1,bathroom privacy,child in a natural setting,misclassification,0.1222,0.5297,,Child in a natural setting
+qwen_vl,5d4bf33acf0b3a0f3f359b4c,af,Q1,bathroom privacy,toilet,correct,0.5253,0.5841,,Toilet
+qwen_vl,5d4bf46ccf0b3a0f3f35b9ea,af,Q1,bathroom privacy,bushes,misclassification,0.1757,0.5137,,Bushes
+qwen_vl,5d4befd2cf0b3a0f3f353e6a,af,Q1,bathroom privacy,toilet structure,correct,0.4854,0.5698,,Toilet structure
+qwen_vl,5d4bec96cf0b3a0f3f34e2fa,af,Q1,bathroom privacy,grassland,misclassification,0.1275,0.5007,,Grassland
+qwen_vl,5d4bf043cf0b3a0f3f354a28,af,Q1,bathroom privacy,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4becd6cf0b3a0f3f34e8aa,af,Q1,bathroom privacy,concrete wall,misclassification,0.1482,0.5094,,Concrete wall
+qwen_vl,5d4beceacf0b3a0f3f34eae6,af,Q1,bathroom privacy,grassland,misclassification,0.1275,0.5007,,Grassland
+qwen_vl,5d4bef06cf0b3a0f3f3527a4,af,Q1,bathroom privacy,man in vegetation,misclassification,-0.0051,0.5006,,Man in vegetation
+qwen_vl,5d4bf02ecf0b3a0f3f354832,af,Q1,bathroom privacy,adobe wall,misclassification,0.1561,0.5184,,Adobe wall
+qwen_vl,5d4bf119cf0b3a0f3f355f98,af,Q1,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4bf368cf0b3a0f3f359f84,af,Q1,bathroom privacy,construction site,misclassification,0.0804,0.5052,,Construction site
+qwen_vl,5d4bf018cf0b3a0f3f354600,af,Q1,bathroom privacy,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bf049cf0b3a0f3f354ada,af,Q1,bathroom privacy,shack,misclassification,0.1695,0.5086,,Shack
+qwen_vl,5d4befbecf0b3a0f3f353c16,af,Q1,bathroom privacy,rope,misclassification,0.0369,0.5221,,Rope
+qwen_vl,5d4beff0cf0b3a0f3f35416e,af,Q1,bathroom privacy,cornfield,misclassification,0.1095,0.514,,Cornfield
+qwen_vl,5d4bf39dcf0b3a0f3f35a53c,af,Q1,bathroom privacy,desert landscape,misclassification,0.1064,0.5082,,Desert landscape
+qwen_vl,5d4bee1ecf0b3a0f3f350df0,af,Q1,bathroom privacy,vegetation and mud wall,misclassification,0.0834,0.5073,,Vegetation and mud wall
+qwen_vl,5d4bf37dcf0b3a0f3f35a1e2,af,Q1,bathroom privacy,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bf3b8cf0b3a0f3f35a80e,af,Q1,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4bf04dcf0b3a0f3f354b6a,af,Q1,bathroom privacy,grassland,misclassification,0.1275,0.5007,,Grassland
+qwen_vl,5d4bf08ccf0b3a0f3f35519c,af,Q1,bathroom privacy,leaves,misclassification,0.0783,0.5066,,Leaves
+qwen_vl,5d4bf002cf0b3a0f3f354390,af,Q1,bathroom privacy,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bf0f3cf0b3a0f3f355c90,af,Q1,bathroom privacy,alleyway,misclassification,0.2854,0.5308,,Alleyway
+qwen_vl,5d4bee3acf0b3a0f3f35102e,af,Q1,bathroom privacy,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4becb5cf0b3a0f3f34e5d0,af,Q1,bathroom privacy,forest,misclassification,0.056,0.5014,,Forest
+qwen_vl,5d4beef8cf0b3a0f3f35261c,af,Q1,bathroom privacy,man in forest,misclassification,-0.0595,0.5006,,Man in forest
+qwen_vl,5d4bf0d4cf0b3a0f3f3558ea,af,Q1,bathroom privacy,weeds,misclassification,0.1246,0.5194,,Weeds
+qwen_vl,5d4bf0adcf0b3a0f3f355508,af,Q1,bathroom privacy,trash in vegetation,misclassification,0.111,0.5014,,Trash in vegetation
+qwen_vl,5ed28b57fb6e132e5be0ea15,af,Q1,bathroom privacy,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bf055cf0b3a0f3f354bea,af,Q1,bathroom privacy,corrugated metal wall,misclassification,0.0725,0.5333,,corrugated metal wall
+qwen_vl,5d4be627cf0b3a0f3f34327b,af,Q1,bathroom privacy,bucket,misclassification,0.2483,0.5028,,Bucket
+qwen_vl,5d4bf3d9cf0b3a0f3f35aa5c,af,Q1,bathroom privacy,branches,misclassification,0.08,0.5304,,Branches
+qwen_vl,5d4be224cf0b3a0f3f33c357,af,Q1,bathroom privacy,wooden door,misclassification,0.2015,0.5266,,Wooden door
+qwen_vl,5d4bed6bcf0b3a0f3f34f93c,af,Q1,bathroom privacy,construction debris,misclassification,0.0612,0.5009,,Construction debris
+qwen_vl,5d4bed89cf0b3a0f3f34fcd2,af,Q1,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4bee0ccf0b3a0f3f350be0,af,Q1,bathroom privacy,toilet,correct,0.5253,0.5841,,Toilet
+qwen_vl,5d4bef45cf0b3a0f3f352f0a,af,Q1,bathroom privacy,clothing on a wooden structure,misclassification,0.0957,0.5046,,Clothing on a wooden structure
+qwen_vl,5d4bf42ecf0b3a0f3f35b2f6,af,Q2,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4bf067cf0b3a0f3f354dcc,af,Q2,bathroom privacy,shack,misclassification,0.1695,0.5086,,Shack
+qwen_vl,5d4bedbccf0b3a0f3f35029c,af,Q2,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4beda4cf0b3a0f3f34ffc6,af,Q2,bathroom privacy,doorway with washing machine,misclassification,0.2487,0.5319,,Doorway with washing machine
+qwen_vl,5ec4fb0ff0611d7ddd7424f6,af,Q2,bathroom privacy,toilet building,correct,0.5089,0.5805,,Toilet building
+qwen_vl,5d4bed4ccf0b3a0f3f34f59a,af,Q2,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4be400cf0b3a0f3f33f51a,af,Q2,bathroom privacy,construction site,misclassification,0.0804,0.5052,,Construction site
+qwen_vl,5d4bee46cf0b3a0f3f351194,af,Q2,bathroom privacy,toilet,correct,0.5253,0.5841,,Toilet
+qwen_vl,5d4be08bcf0b3a0f3f3396b7,af,Q2,bathroom privacy,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5ec4f9e6f0611d7ddd741b52,af,Q2,bathroom privacy,bamboo structure,misclassification,0.0127,0.5227,,Bamboo structure
+qwen_vl,5ec4faccf0611d7ddd7422bf,af,Q2,bathroom privacy,toilet,correct,0.5253,0.5841,,Toilet
+qwen_vl,5ec4f98ff0611d7ddd741860,af,Q2,bathroom privacy,toilet,correct,0.5253,0.5841,,Toilet
+qwen_vl,5d4be24fcf0b3a0f3f33c7e5,af,Q3,bathroom privacy,wooden door,misclassification,0.2015,0.5266,,Wooden door
+qwen_vl,5ec4f9caf0611d7ddd741a5a,af,Q3,bathroom privacy,shack,misclassification,0.1695,0.5086,,Shack
+qwen_vl,5d4bdf2bcf0b3a0f3f3373b7,af,Q3,bathroom privacy,toilet,correct,0.5253,0.5841,,Toilet
+qwen_vl,5ec4f9d8f0611d7ddd741ad8,af,Q3,bathroom privacy,hut,misclassification,0.1995,0.5441,,Hut
+qwen_vl,5d4be003cf0b3a0f3f33890e,af,Q3,bathroom privacy,toilet,correct,0.5253,0.5841,,Toilet
+qwen_vl,5d4bf232cf0b3a0f3f357df4,af,Q3,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4be4cecf0b3a0f3f340c36,af,Q4,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5d4bf22acf0b3a0f3f357cf6,af,Q4,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5d4be234cf0b3a0f3f33c50d,af,Q4,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4beb7dcf0b3a0f3f34c522,af,Q5,bathroom privacy,toilet,correct,0.5253,0.5841,,Toilet
+qwen_vl,5d4be623cf0b3a0f3f3431fb,af,Q5,bathroom privacy,closet doors,misclassification,0.4043,0.5453,,Closet doors
+qwen_vl,5ec4fa3cf0611d7ddd741e2f,af,Q5,bathroom privacy,shower stall,misclassification,0.4446,0.5581,,Shower stall
+qwen_vl,5d4bea9fcf0b3a0f3f34ac6a,as,Q1,bathroom privacy,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4beacccf0b3a0f3f34b1b8,as,Q1,bathroom privacy,trash pile,misclassification,0.1824,0.5013,,Trash pile
+qwen_vl,5d4be75bcf0b3a0f3f3454d6,as,Q1,bathroom privacy,shack,misclassification,0.1695,0.5086,,Shack
+qwen_vl,5d4be6f4cf0b3a0f3f3449e2,as,Q1,bathroom privacy,shelter,misclassification,0.2039,0.5291,,Shelter
+qwen_vl,5d4bea81cf0b3a0f3f34a8d2,as,Q1,bathroom privacy,pathway in a forest,misclassification,-0.0138,0.5006,,Pathway in a forest
+qwen_vl,5d4beeddcf0b3a0f3f3522e6,as,Q1,bathroom privacy,hut,misclassification,0.1995,0.5441,,Hut
+qwen_vl,5d4bf2c8cf0b3a0f3f358e52,as,Q1,bathroom privacy,rug,misclassification,0.2912,0.5207,,Rug
+qwen_vl,5d4be756cf0b3a0f3f345430,as,Q1,bathroom privacy,shack,misclassification,0.1695,0.5086,,Shack
+qwen_vl,5d4beaf2cf0b3a0f3f34b63c,as,Q1,bathroom privacy,sack,misclassification,0.0639,0.5097,,Sack
+qwen_vl,5d4be7b6cf0b3a0f3f345f14,as,Q1,bathroom privacy,rusted metal surface,misclassification,0.0341,0.5011,,Rusted metal surface
+qwen_vl,5d4be7b5cf0b3a0f3f345efc,as,Q1,bathroom privacy,toilet structure,correct,0.4854,0.5698,,Toilet structure
+qwen_vl,5d4be796cf0b3a0f3f345b84,as,Q1,bathroom privacy,toilet hygiene posters,correct,0.5108,0.5408,,Toilet hygiene posters
+qwen_vl,5d4beb0dcf0b3a0f3f34b960,as,Q1,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4bef6acf0b3a0f3f353348,as,Q1,bathroom privacy,vegetation,misclassification,0.0502,0.5056,,Vegetation
+qwen_vl,5d4be7a2cf0b3a0f3f345cca,as,Q1,bathroom privacy,shelter,misclassification,0.2039,0.5291,,Shelter
+qwen_vl,5d4beea9cf0b3a0f3f351ce0,as,Q1,bathroom privacy,sack with text,misclassification,0.0641,0.5057,,Sack with text
+qwen_vl,5d4beec3cf0b3a0f3f351fda,as,Q1,bathroom privacy,shower curtain,misclassification,0.3873,0.5566,,Shower curtain
+qwen_vl,5d4be79ccf0b3a0f3f345c38,as,Q1,bathroom privacy,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5ec4f7eaf0611d7ddd740a43,as,Q1,bathroom privacy,outdoor toilet,correct,0.4649,0.6115,,Outdoor toilet
+qwen_vl,5d4bf160cf0b3a0f3f356698,as,Q1,bathroom privacy,well-worn outdoor bathroom,correct,0.5356,0.5968,,Well-worn outdoor bathroom
+qwen_vl,5d4bf2cecf0b3a0f3f358f06,as,Q1,bathroom privacy,laundry area,misclassification,0.2957,0.5162,,Laundry area
+qwen_vl,5d4bef57cf0b3a0f3f353122,as,Q1,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4bec75cf0b3a0f3f34df82,as,Q1,bathroom privacy,tent,misclassification,0.142,0.5334,,Tent
+qwen_vl,5d4be78ecf0b3a0f3f345a8a,as,Q1,bathroom privacy,advertising banner,misclassification,0.0694,0.5077,,Advertising banner
+qwen_vl,5d4bef59cf0b3a0f3f353148,as,Q1,bathroom privacy,fence,misclassification,0.1671,0.5172,,Fence
+qwen_vl,5d4bf2adcf0b3a0f3f358b08,as,Q1,bathroom privacy,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5f64b0cfe2dc7fb72c61d08c,as,Q1,bathroom privacy,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bea1fcf0b3a0f3f349d68,as,Q1,bathroom privacy,shelter,misclassification,0.2039,0.5291,,Shelter
+qwen_vl,5d4be745cf0b3a0f3f345250,as,Q1,bathroom privacy,double doors,misclassification,0.2267,0.5384,,Double doors
+qwen_vl,5d4bef77cf0b3a0f3f3534e2,as,Q2,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4be787cf0b3a0f3f3459ce,as,Q2,bathroom privacy,forest stream,misclassification,-0.0011,0.5007,,Forest stream
+qwen_vl,5d4bee71cf0b3a0f3f351662,as,Q2,bathroom privacy,fabric,misclassification,0.1503,0.5052,,Fabric
+qwen_vl,5d4beabccf0b3a0f3f34afd8,as,Q2,bathroom privacy,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5ec4f821f0611d7ddd740c20,as,Q2,bathroom privacy,toilet structure,correct,0.4854,0.5698,,Toilet structure
+qwen_vl,5d4be792cf0b3a0f3f345af6,as,Q2,bathroom privacy,corrugated metal door,misclassification,0.1054,0.5363,,Corrugated metal door
+qwen_vl,5d4beecacf0b3a0f3f35209e,as,Q2,bathroom privacy,shower curtain,misclassification,0.3873,0.5566,,Shower curtain
+qwen_vl,5d4be74ecf0b3a0f3f345356,as,Q2,bathroom privacy,rainy alleyway,misclassification,0.2682,0.5016,,Rainy alleyway
+qwen_vl,5d4beeb6cf0b3a0f3f351e50,as,Q2,bathroom privacy,curtains,misclassification,0.3708,0.5082,,Curtains
+qwen_vl,5d4bf2c1cf0b3a0f3f358d72,as,Q2,bathroom privacy,shack interior,misclassification,0.191,0.5125,,Shack interior
+qwen_vl,5d4bef6bcf0b3a0f3f35336c,as,Q2,bathroom privacy,metal door,misclassification,0.1985,0.5045,,Metal door
+qwen_vl,5d4bf150cf0b3a0f3f35652c,as,Q2,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4bf137cf0b3a0f3f3562b4,as,Q2,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4bea61cf0b3a0f3f34a51a,as,Q2,bathroom privacy,metal sheet structure,misclassification,0.0293,0.5006,,Metal sheet structure
+qwen_vl,5d4bee9bcf0b3a0f3f351b42,as,Q2,bathroom privacy,restroom door,correct,0.5846,0.5835,,Restroom door
+qwen_vl,5d4be77bcf0b3a0f3f345866,as,Q2,bathroom privacy,shed,misclassification,0.1424,0.5215,,Shed
+qwen_vl,5ec4f816f0611d7ddd740bc3,as,Q2,bathroom privacy,outdoor latrine,misclassification,0.1394,0.5757,,Outdoor latrine
+qwen_vl,5d4beeaecf0b3a0f3f351d8a,as,Q2,bathroom privacy,note on wall,misclassification,0.2271,0.5324,,Note on wall
+qwen_vl,5d4bf2b2cf0b3a0f3f358ba8,as,Q2,bathroom privacy,forest trail,misclassification,0.0435,0.5011,,Forest trail
+qwen_vl,5d4bed15cf0b3a0f3f34ef98,as,Q2,bathroom privacy,tent,misclassification,0.142,0.5334,,Tent
+qwen_vl,5d4bf192cf0b3a0f3f356bc2,as,Q2,bathroom privacy,tent,misclassification,0.142,0.5334,,Tent
+qwen_vl,5d4be9a9cf0b3a0f3f34909e,as,Q2,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4bee7acf0b3a0f3f35177a,as,Q2,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4bed00cf0b3a0f3f34ed7c,as,Q2,bathroom privacy,cloth hanging on a makeshift clothesline,misclassification,0.0934,0.5038,,Cloth hanging on a makeshift clothesline.
+qwen_vl,5d4bf15acf0b3a0f3f3565ec,as,Q2,bathroom privacy,door with a banner,misclassification,0.1463,0.5027,,Door with a banner
+qwen_vl,5d4bef71cf0b3a0f3f353424,as,Q2,bathroom privacy,shack,misclassification,0.1695,0.5086,,Shack
+qwen_vl,5d4bf314cf0b3a0f3f359756,as,Q2,bathroom privacy,green corrugated metal door,misclassification,0.0926,0.5279,,Green corrugated metal door
+qwen_vl,5f8e3033d7a21d7440b18982,as,Q2,bathroom privacy,toilet,correct,0.5253,0.5841,,Toilet
+qwen_vl,5d4bf2e1cf0b3a0f3f35915a,as,Q2,bathroom privacy,toilet,correct,0.5253,0.5841,,Toilet
+qwen_vl,5d4bf30dcf0b3a0f3f35968a,as,Q2,bathroom privacy,shutters,misclassification,0.3136,0.5067,,Shutters
+qwen_vl,5d4be774cf0b3a0f3f34578a,as,Q2,bathroom privacy,toilet,correct,0.5253,0.5841,,Toilet
+qwen_vl,5d4be8c7cf0b3a0f3f347654,as,Q2,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4bf29dcf0b3a0f3f35892e,as,Q2,bathroom privacy,stone structure,misclassification,0.1072,0.5012,,Stone structure
+qwen_vl,5d4bedcdcf0b3a0f3f3504a4,as,Q2,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4be9fccf0b3a0f3f34994e,as,Q2,bathroom privacy,curtain,misclassification,0.3737,0.5449,,Curtain
+qwen_vl,5d4be388cf0b3a0f3f33e73f,as,Q2,bathroom privacy,toilet,correct,0.5253,0.5841,,Toilet
+qwen_vl,5d4becf5cf0b3a0f3f34ec42,as,Q2,bathroom privacy,polka dot curtain,misclassification,0.2285,0.5098,,Polka dot curtain
+qwen_vl,5d4bf186cf0b3a0f3f356a8c,as,Q3,bathroom privacy,corrugated metal door,misclassification,0.1054,0.5363,,Corrugated metal door
+qwen_vl,5d4bf171cf0b3a0f3f35682a,as,Q3,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4beddacf0b3a0f3f35061a,as,Q3,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4bf283cf0b3a0f3f35860e,as,Q3,bathroom privacy,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4be1e0cf0b3a0f3f33bbf9,as,Q3,bathroom privacy,outhouse,misclassification,0.2528,0.5453,,outhouse
+qwen_vl,5f1053289d62c5192b516fe9,as,Q3,bathroom privacy,toilet,correct,0.5253,0.5841,,Toilet
+qwen_vl,5d4bf2e8cf0b3a0f3f359230,as,Q3,bathroom privacy,outhouse,misclassification,0.2528,0.5453,,outhouse
+qwen_vl,5d4bf13ecf0b3a0f3f356376,as,Q3,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4bf2dacf0b3a0f3f359076,as,Q3,bathroom privacy,field,misclassification,0.0983,0.5217,,Field
+qwen_vl,5d4bf183cf0b3a0f3f356a40,as,Q3,bathroom privacy,toilet,correct,0.5253,0.5841,,Toilet
+qwen_vl,5d4bf2a2cf0b3a0f3f3589be,as,Q3,bathroom privacy,bathroom stalls,misclassification,0.4307,0.6294,,Bathroom stalls
+qwen_vl,5d4bee91cf0b3a0f3f351a22,as,Q3,bathroom privacy,door hinge,misclassification,0.1401,0.5264,,Door hinge
+qwen_vl,5d4be2dacf0b3a0f3f33d647,as,Q3,bathroom privacy,door with decorations,misclassification,0.2084,0.5158,,Door with decorations
+qwen_vl,5d4bf130cf0b3a0f3f3561d6,as,Q3,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5d4bf2b7cf0b3a0f3f358c44,as,Q3,bathroom privacy,public restroom,correct,0.7094,0.6637,,Public restroom
+qwen_vl,5ec4f7def0611d7ddd7409d7,as,Q3,bathroom privacy,toilet,correct,0.5253,0.5841,,Toilet
+qwen_vl,5d4be9cccf0b3a0f3f3494bc,as,Q3,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4be769cf0b3a0f3f345654,as,Q3,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4be0e6cf0b3a0f3f33a155,as,Q3,bathroom privacy,bathroom door,correct,0.5929,0.6318,,Bathroom door
+qwen_vl,5d4be706cf0b3a0f3f344c02,as,Q3,bathroom privacy,wooden door,misclassification,0.2015,0.5266,,Wooden door
+qwen_vl,5d4bf293cf0b3a0f3f3587f8,as,Q3,bathroom privacy,toilet,correct,0.5253,0.5841,,Toilet
+qwen_vl,5d4be718cf0b3a0f3f344e3a,as,Q3,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4bf18ccf0b3a0f3f356b16,as,Q3,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5d4bf295cf0b3a0f3f358838,as,Q3,bathroom privacy,wooden door,misclassification,0.2015,0.5266,,Wooden door
+qwen_vl,5d4be7f4cf0b3a0f3f346581,as,Q3,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5d4be2aecf0b3a0f3f33d1dd,as,Q3,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4bf40fcf0b3a0f3f35afe6,as,Q3,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4bf180cf0b3a0f3f3569d6,as,Q3,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5d4be71ecf0b3a0f3f344ee4,as,Q3,bathroom privacy,kitchen door,misclassification,0.2993,0.5364,,Kitchen door
+qwen_vl,5d4beb94cf0b3a0f3f34c7d4,as,Q3,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5d4bf06bcf0b3a0f3f354e30,as,Q3,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5d4bee83cf0b3a0f3f351874,as,Q3,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4be047cf0b3a0f3f338efc,as,Q3,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4be368cf0b3a0f3f33e3b7,as,Q3,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5d4bf144cf0b3a0f3f35643c,as,Q3,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4be6f7cf0b3a0f3f344a3a,as,Q3,bathroom privacy,outhouse,misclassification,0.2528,0.5453,,outhouse
+qwen_vl,5d4be6fccf0b3a0f3f344aea,as,Q3,bathroom privacy,outhouse,misclassification,0.2528,0.5453,,outhouse
+qwen_vl,5d4bedc8cf0b3a0f3f350406,as,Q4,bathroom privacy,doors,misclassification,0.324,0.5727,,Doors
+qwen_vl,5d4bea3dcf0b3a0f3f34a0ea,as,Q4,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5d4bea3ecf0b3a0f3f34a108,as,Q4,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4bf2becf0b3a0f3f358d16,as,Q4,bathroom privacy,toilet,correct,0.5253,0.5841,,Toilet
+qwen_vl,5d4bee8ccf0b3a0f3f351992,as,Q4,bathroom privacy,stained glass door,misclassification,0.1993,0.531,,Stained glass door
+qwen_vl,5edf935c12a022021087e0fe,as,Q4,bathroom privacy,door with text,misclassification,0.2355,0.5241,,Door with text
+qwen_vl,5d4be73ecf0b3a0f3f345190,as,Q4,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4be30fcf0b3a0f3f33daa9,as,Q4,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4be152cf0b3a0f3f33ade9,as,Q4,bathroom privacy,closed door,misclassification,0.2878,0.5555,,closed door
+qwen_vl,5d4bdfc7cf0b3a0f3f3382aa,as,Q4,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4bf289cf0b3a0f3f3586d8,as,Q4,bathroom privacy,shower curtain,misclassification,0.3873,0.5566,,Shower curtain
+qwen_vl,5d4bdfa0cf0b3a0f3f337f3d,as,Q4,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4bdff1cf0b3a0f3f338760,as,Q4,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5d4be334cf0b3a0f3f33de6d,as,Q4,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5d4bf2eacf0b3a0f3f35925c,as,Q4,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4be7fbcf0b3a0f3f34664b,as,Q4,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5d4bf173cf0b3a0f3f356856,as,Q4,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4be0adcf0b3a0f3f339ab7,as,Q4,bathroom privacy,backyard scene,misclassification,0.213,0.5104,,Backyard scene
+qwen_vl,5ec4f7fdf0611d7ddd740af0,as,Q4,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5d4be12acf0b3a0f3f33a93f,as,Q5,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5d4bf4aacf0b3a0f3f35bfe6,as,Q5,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4be81fcf0b3a0f3f346a53,as,Q5,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5d4be115cf0b3a0f3f33a6cd,as,Q5,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5d4bf2a7cf0b3a0f3f358a64,as,Q5,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5d4bdffdcf0b3a0f3f338894,as,Q5,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4be710cf0b3a0f3f344d38,as,Q5,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4be0e8cf0b3a0f3f33a17d,as,Q5,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5d4be63fcf0b3a0f3f343539,as,Q5,bathroom privacy,toilet,correct,0.5253,0.5841,,Toilet
+qwen_vl,5d4be0a4cf0b3a0f3f3399b9,as,Q5,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5ec4f953f0611d7ddd741660,as,Q5,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5d4be0f4cf0b3a0f3f33a2f3,as,Q5,bathroom privacy,person applying makeup,misclassification,0.1,0.5006,,Person applying makeup
+qwen_vl,5d4be05fcf0b3a0f3f3391d2,as,Q5,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5d4be986cf0b3a0f3f348c8c,as,Q5,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4bf1cccf0b3a0f3f357214,am,Q1,bathroom privacy,dog sleeping,misclassification,-0.0188,0.5008,,Dog sleeping
+qwen_vl,5d4bf445cf0b3a0f3f35b5a6,am,Q1,bathroom privacy,corrugated metal structure,misclassification,-0.0019,0.5107,,corrugated metal structure
+qwen_vl,5d4bf1e6cf0b3a0f3f357506,am,Q1,bathroom privacy,vegetation,misclassification,0.0502,0.5056,,Vegetation
+qwen_vl,5d4bf21fcf0b3a0f3f357bb6,am,Q1,bathroom privacy,corrugated metal door,misclassification,0.1054,0.5363,,Corrugated metal door
+qwen_vl,5d4be663cf0b3a0f3f34394d,am,Q1,bathroom privacy,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bf1b0cf0b3a0f3f356ee2,am,Q1,bathroom privacy,graffiti on a door,misclassification,0.2469,0.502,,Graffiti on a door
+qwen_vl,5d4bf48bcf0b3a0f3f35bce4,am,Q1,bathroom privacy,toilet,correct,0.5253,0.5841,,Toilet
+qwen_vl,5d4bf24fcf0b3a0f3f3580e0,am,Q2,bathroom privacy,toilet,correct,0.5253,0.5841,,Toilet
+qwen_vl,5d4bf276cf0b3a0f3f358490,am,Q2,bathroom privacy,trash and debris,misclassification,0.1829,0.5009,,Trash and debris
+qwen_vl,5d4bec6acf0b3a0f3f34de44,am,Q2,bathroom privacy,grass,misclassification,0.1345,0.5009,,Grass
+qwen_vl,5f42e470ebd73b4fea79c78c,am,Q2,bathroom privacy,shack,misclassification,0.1695,0.5086,,Shack
+qwen_vl,5d4bf302cf0b3a0f3f359534,am,Q2,bathroom privacy,public bathroom,correct,0.775,0.6561,,Public bathroom
+qwen_vl,5d4bf3f8cf0b3a0f3f35adcc,am,Q2,bathroom privacy,clothesline,misclassification,0.1653,0.5635,,Clothesline
+qwen_vl,5ec4f882f0611d7ddd740f72,am,Q2,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5ec4fa8cf0611d7ddd74209a,am,Q2,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5ec4fa7df0611d7ddd742019,am,Q2,bathroom privacy,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4be15acf0b3a0f3f33aecf,am,Q2,bathroom privacy,blue wooden slats,misclassification,0.0829,0.5214,,Blue wooden slats
+qwen_vl,5d4be151cf0b3a0f3f33adbd,am,Q3,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5d4be179cf0b3a0f3f33b25d,am,Q3,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5d4bebc8cf0b3a0f3f34cdcb,am,Q3,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5d4be194cf0b3a0f3f33b47b,am,Q3,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5ec4f751f0611d7ddd740510,am,Q3,bathroom privacy,toilet,correct,0.5253,0.5841,,Toilet
+qwen_vl,5ec4f761f0611d7ddd74058e,am,Q3,bathroom privacy,shower,correct,0.4673,0.5695,,Shower
+qwen_vl,5d4bdebfcf0b3a0f3f336819,am,Q3,bathroom privacy,closet,misclassification,0.3998,0.5301,,Closet
+qwen_vl,5ec4fb31f0611d7ddd74260e,am,Q3,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4bf40ecf0b3a0f3f35afce,am,Q3,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4bde43cf0b3a0f3f335d25,am,Q3,bathroom privacy,closet,misclassification,0.3998,0.5301,,Closet
+qwen_vl,5d4be3becf0b3a0f3f33ed91,am,Q3,bathroom privacy,bathroom door,correct,0.5929,0.6318,,Bathroom door
+qwen_vl,5d4bde4ecf0b3a0f3f335e43,am,Q3,bathroom privacy,person,misclassification,0.1827,0.5651,,Person
+qwen_vl,5fa3e8e2b030741acf539365,am,Q3,bathroom privacy,shower curtain,misclassification,0.3873,0.5566,,Shower curtain
+qwen_vl,5d4bef88cf0b3a0f3f3536c6,am,Q4,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5d4bef9fcf0b3a0f3f35387e,am,Q4,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4bef7fcf0b3a0f3f3535be,am,Q4,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5d4be1a7cf0b3a0f3f33b6b9,am,Q4,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5ec4fb78f0611d7ddd74285f,am,Q4,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5ec4fb08f0611d7ddd7424b7,am,Q4,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5f4fa4d10ed38defe862b94b,am,Q4,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5f176d189607c12b9774c1f7,am,Q4,bathroom privacy,bathroom shelf,correct,0.4834,0.6308,,Bathroom shelf
+qwen_vl,5ec4f944f0611d7ddd7415e0,am,Q4,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5d4be3f7cf0b3a0f3f33f41d,am,Q4,bathroom privacy,hallway,misclassification,0.3906,0.5206,,Hallway
+qwen_vl,5d4bef9ecf0b3a0f3f35385c,am,Q4,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4be535cf0b3a0f3f341810,am,Q4,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5d4bed2fcf0b3a0f3f34f24c,am,Q4,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4be4e6cf0b3a0f3f340eea,am,Q4,bathroom privacy,toilet,correct,0.5253,0.5841,,Toilet
+qwen_vl,5f31d2eb1d4eb50e96cac358,am,Q4,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5ec4f9f7f0611d7ddd741bda,am,Q5,bathroom privacy,shower stall,misclassification,0.4446,0.5581,,Shower stall
+qwen_vl,5ec4f9fcf0611d7ddd741c05,am,Q5,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5d4be1b6cf0b3a0f3f33b85f,am,Q5,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4bde5ccf0b3a0f3f335f83,am,Q5,bathroom privacy,closed door,misclassification,0.2878,0.5555,,closed door
+qwen_vl,5d4be207cf0b3a0f3f33c019,am,Q5,bathroom privacy,doorway,misclassification,0.2922,0.5616,,Doorway
+qwen_vl,5f8609e37299b59102922934,am,Q5,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5d4be41dcf0b3a0f3f33f86e,am,Q5,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4be04acf0b3a0f3f338f56,am,Q5,bathroom privacy,closet doors,misclassification,0.4043,0.5453,,Closet doors
+qwen_vl,5d4bebf0cf0b3a0f3f34d283,am,Q5,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5ec4f60ef4a4fb7dc0387c68,am,Q5,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5d4befa6cf0b3a0f3f35393a,am,Q5,bathroom privacy,closed wooden door,misclassification,0.2047,0.5419,,closed wooden door
+qwen_vl,5d4bdeedcf0b3a0f3f336d4b,eu,Q2,bathroom privacy,abandoned building,misclassification,0.1501,0.5091,,Abandoned building
+qwen_vl,5d4be916cf0b3a0f3f347f86,eu,Q3,bathroom privacy,wooden door,misclassification,0.2015,0.5266,,Wooden door
+qwen_vl,5d4be965cf0b3a0f3f3488b8,eu,Q3,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5ec4fc54f0611d7ddd742f8c,eu,Q3,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5ec4fbf3f0611d7ddd742c6f,eu,Q3,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4bdf7ccf0b3a0f3f337b93,eu,Q4,bathroom privacy,shower room,correct,0.5108,0.5968,,Shower room
+qwen_vl,5ec4fabef0611d7ddd742246,eu,Q4,bathroom privacy,door handle,misclassification,0.1686,0.5393,,Door handle
+qwen_vl,5d4bde73cf0b3a0f3f33617f,eu,Q4,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5ec4f8d6f0611d7ddd741238,eu,Q4,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4bdea3cf0b3a0f3f336617,eu,Q4,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5f6241eec9cd32e83950a240,eu,Q4,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4bdf80cf0b3a0f3f337c05,eu,Q4,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5d4bdf9fcf0b3a0f3f337f33,eu,Q4,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5ec4f5c4f4a4fb7dc03879db,eu,Q4,bathroom privacy,curtain,misclassification,0.3737,0.5449,,Curtain
+qwen_vl,5ec4f931f0611d7ddd74154c,eu,Q5,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5ec4f8a6f0611d7ddd74109e,eu,Q5,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5d4bde8bcf0b3a0f3f3363db,eu,Q5,bathroom privacy,door handle,misclassification,0.1686,0.5393,,Door handle
+qwen_vl,5ec4f909f0611d7ddd7413e6,eu,Q5,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5ec4fc2df0611d7ddd742e50,eu,Q5,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4be8dacf0b3a0f3f34788c,eu,Q5,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5ec4f8ecf0611d7ddd7412fe,eu,Q5,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5ec4f917f0611d7ddd741462,eu,Q5,bathroom privacy,bathroom,correct,0.6959,0.6872,,Bathroom
+qwen_vl,5ec4f8faf0611d7ddd74137a,eu,Q5,bathroom privacy,toilet,correct,0.5253,0.5841,,Toilet
+qwen_vl,605a7446801a87271885f00a,eu,Q5,bathroom privacy,door handle and keyhole,misclassification,0.1488,0.5109,,Door handle and keyhole
+qwen_vl,5ed6e46cb323613afe9eb423,eu,Q5,bathroom privacy,doors,misclassification,0.324,0.5727,,Doors
+qwen_vl,5ec4f925f0611d7ddd7414e1,eu,Q5,bathroom privacy,bathroom door,correct,0.5929,0.6318,,Bathroom door
+qwen_vl,5d4be928cf0b3a0f3f348192,eu,Q5,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5ec4f5453f62767d97a472ba,eu,Q5,bathroom privacy,door,misclassification,0.2817,0.5686,,Door
+qwen_vl,5d4bf33acf0b3a0f3f359b50,af,Q1,bathroom/toilet,ancient structure,misclassification,0.1898,0.5057,,Ancient structure
+qwen_vl,5d4bf46ccf0b3a0f3f35b9f0,af,Q1,bathroom/toilet,agricultural field,misclassification,0.0624,0.5006,,Agricultural field
+qwen_vl,5d4bdf76cf0b3a0f3f337ae7,af,Q1,bathroom/toilet,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bec4ccf0b3a0f3f34db14,af,Q1,bathroom/toilet,shanty town,misclassification,0.2874,0.5218,,Shanty town
+qwen_vl,5d4bec96cf0b3a0f3f34e2fe,af,Q1,bathroom/toilet,pathway in a forested area,misclassification,0.0382,0.5006,,Pathway in a forested area
+qwen_vl,5d4bf043cf0b3a0f3f354a2e,af,Q1,bathroom/toilet,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bf34ecf0b3a0f3f359d7a,af,Q1,bathroom/toilet,hut,misclassification,0.3127,0.5712,,Hut
+qwen_vl,5d4becd7cf0b3a0f3f34e8ae,af,Q1,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4beceacf0b3a0f3f34eaea,af,Q1,bathroom/toilet,grassland with trees,misclassification,0.0971,0.5006,,Grassland with trees
+qwen_vl,5d4bef06cf0b3a0f3f3527a8,af,Q1,bathroom/toilet,vegetation,misclassification,0.1708,0.5014,,Vegetation
+qwen_vl,5d4bf02ecf0b3a0f3f35482c,af,Q1,bathroom/toilet,thatched roof structure,misclassification,0.0648,0.5006,,Thatched roof structure
+qwen_vl,5d4bf119cf0b3a0f3f355f9e,af,Q1,bathroom/toilet,garden gate,misclassification,0.2118,0.5022,,Garden gate
+qwen_vl,5d4bf369cf0b3a0f3f359f8c,af,Q1,bathroom/toilet,shack,misclassification,0.369,0.5047,,Shack
+qwen_vl,5d4bdf30cf0b3a0f3f337431,af,Q1,bathroom/toilet,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bf018cf0b3a0f3f354606,af,Q1,bathroom/toilet,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bf049cf0b3a0f3f354adc,af,Q1,bathroom/toilet,shanty town,misclassification,0.2874,0.5218,,Shanty town
+qwen_vl,5d4befbfcf0b3a0f3f353c28,af,Q1,bathroom/toilet,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4beff0cf0b3a0f3f354174,af,Q1,bathroom/toilet,cornfield,misclassification,0.1859,0.5049,,Cornfield
+qwen_vl,5d4bf39dcf0b3a0f3f35a542,af,Q1,bathroom/toilet,desert landscape,misclassification,0.1815,0.5006,,Desert landscape
+qwen_vl,5d4bf37dcf0b3a0f3f35a1e8,af,Q1,bathroom/toilet,mud wall,misclassification,0.3528,0.5085,,Mud wall
+qwen_vl,5d4bf3b8cf0b3a0f3f35a814,af,Q1,bathroom/toilet,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bef1fcf0b3a0f3f352a98,af,Q1,bathroom/toilet,forest floor,misclassification,0.2674,0.5049,,Forest floor
+qwen_vl,5d4bf08ccf0b3a0f3f3551a2,af,Q1,bathroom/toilet,forest floor,misclassification,0.2674,0.5049,,Forest floor
+qwen_vl,5d4bf002cf0b3a0f3f354396,af,Q1,bathroom/toilet,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4beee7cf0b3a0f3f352416,af,Q1,bathroom/toilet,trashy landscape,misclassification,0.2605,0.5095,,Trashy landscape
+qwen_vl,5d4bdf6dcf0b3a0f3f3379ff,af,Q1,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bf0f3cf0b3a0f3f355c94,af,Q1,bathroom/toilet,dirty floor,correct,0.4675,0.532,,Dirty floor
+qwen_vl,5d4bee3bcf0b3a0f3f351038,af,Q1,bathroom/toilet,hut entrance,misclassification,0.3267,0.5536,,Hut entrance
+qwen_vl,5d4becb5cf0b3a0f3f34e5d8,af,Q1,bathroom/toilet,forest,misclassification,0.1782,0.5006,,Forest
+qwen_vl,5d4bf0d4cf0b3a0f3f3558f2,af,Q1,bathroom/toilet,tree in a forested area,misclassification,-0.0066,0.5006,,Tree in a forested area
+qwen_vl,5d4be1cfcf0b3a0f3f33ba7f,af,Q1,bathroom/toilet,rusted metal structure,misclassification,0.0712,0.5006,,Rusted metal structure
+qwen_vl,5d4bf0aecf0b3a0f3f35550e,af,Q1,bathroom/toilet,trash in a natural area,misclassification,0.315,0.5032,,Trash in a natural area
+qwen_vl,5ed16fd2581a3d46fa7f8e25,af,Q1,bathroom/toilet,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bf055cf0b3a0f3f354bf0,af,Q1,bathroom/toilet,rustic door,misclassification,0.2751,0.5099,,Rustic door
+qwen_vl,5d4bf3dacf0b3a0f3f35aa68,af,Q1,bathroom/toilet,bushes,misclassification,0.2575,0.5348,,Bushes
+qwen_vl,5d4be22dcf0b3a0f3f33c445,af,Q1,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bed6bcf0b3a0f3f34f942,af,Q1,bathroom/toilet,construction debris,misclassification,0.1363,0.5006,,Construction debris
+qwen_vl,5d4bed8acf0b3a0f3f34fce6,af,Q1,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bee0ccf0b3a0f3f350be6,af,Q1,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4be3fccf0b3a0f3f33f4b2,af,Q1,bathroom/toilet,trench,misclassification,0.3283,0.5266,,Trench
+qwen_vl,5d4bdf25cf0b3a0f3f337315,af,Q2,bathroom/toilet,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bf42dcf0b3a0f3f35b2ee,af,Q2,bathroom/toilet,shack,misclassification,0.369,0.5047,,Shack
+qwen_vl,5d4bdf73cf0b3a0f3f337a9d,af,Q2,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bedbdcf0b3a0f3f3502b8,af,Q2,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4beda4cf0b3a0f3f34ffce,af,Q2,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5ec4fb10f0611d7ddd7424f8,af,Q2,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bed4ccf0b3a0f3f34f5a8,af,Q2,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bee46cf0b3a0f3f351196,af,Q2,bathroom/toilet,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bdee7cf0b3a0f3f336c89,af,Q2,bathroom/toilet,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5ec4f9e7f0611d7ddd741b61,af,Q2,bathroom/toilet,bamboo structure,misclassification,0.111,0.5221,,Bamboo structure
+qwen_vl,5f046b8535531c3105a0fd17,af,Q2,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5ec4faccf0611d7ddd7422be,af,Q2,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bee5bcf0b3a0f3f3513e0,af,Q3,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be253cf0b3a0f3f33c85f,af,Q3,bathroom/toilet,doorway,misclassification,0.4147,0.5379,,Doorway
+qwen_vl,5ec4f9d0f0611d7ddd741a94,af,Q3,bathroom/toilet,banana plantation,misclassification,0.2282,0.5006,,Banana plantation
+qwen_vl,5ec4fa3af0611d7ddd741e18,af,Q3,bathroom/toilet,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5ec4f9def0611d7ddd741b13,af,Q3,bathroom/toilet,wooden structure,misclassification,0.1798,0.5103,,Wooden structure
+qwen_vl,5d4be008cf0b3a0f3f338978,af,Q3,bathroom/toilet,bucket,misclassification,0.3993,0.5049,,Bucket
+qwen_vl,5ec4f97bf0611d7ddd7417bd,af,Q3,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be288cf0b3a0f3f33ce2d,af,Q3,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bf230cf0b3a0f3f357dbe,af,Q3,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be671cf0b3a0f3f343af5,af,Q4,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4be672cf0b3a0f3f343b05,af,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be234cf0b3a0f3f33c50f,af,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be00fcf0b3a0f3f338a18,af,Q5,bathroom/toilet,bathroom sink,correct,0.6264,0.6745,,Bathroom sink
+qwen_vl,5d4be61fcf0b3a0f3f343195,af,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5ec4fa47f0611d7ddd741e76,af,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bea9fcf0b3a0f3f34ac70,as,Q1,bathroom/toilet,weeds,misclassification,0.2768,0.5134,,Weeds
+qwen_vl,5d4be75bcf0b3a0f3f3454da,as,Q1,bathroom/toilet,shack,misclassification,0.369,0.5047,,Shack
+qwen_vl,5d4beed4cf0b3a0f3f3521ce,as,Q1,bathroom/toilet,hut,misclassification,0.3127,0.5712,,Hut
+qwen_vl,5d4be6f3cf0b3a0f3f3449d8,as,Q1,bathroom/toilet,shelter,misclassification,0.2462,0.5208,,Shelter
+qwen_vl,5d4bea80cf0b3a0f3f34a8c0,as,Q1,bathroom/toilet,overgrown vegetation,misclassification,0.1275,0.5006,,Overgrown vegetation
+qwen_vl,5d4beeddcf0b3a0f3f3522e4,as,Q1,bathroom/toilet,hut,misclassification,0.3127,0.5712,,Hut
+qwen_vl,5d4bf2cdcf0b3a0f3f358eec,as,Q1,bathroom/toilet,tent interior,misclassification,0.1962,0.5558,,Tent interior
+qwen_vl,5d4be756cf0b3a0f3f34542e,as,Q1,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4beaf2cf0b3a0f3f34b642,as,Q1,bathroom/toilet,palm tree,misclassification,0.1417,0.5006,,Palm tree
+qwen_vl,5d4be7b6cf0b3a0f3f345f16,as,Q1,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4be7b5cf0b3a0f3f345ef8,as,Q1,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4be796cf0b3a0f3f345b86,as,Q1,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4beb0dcf0b3a0f3f34b972,as,Q1,bathroom/toilet,abandoned yard,misclassification,0.2039,0.5009,,Abandoned yard
+qwen_vl,5d4be763cf0b3a0f3f3455a0,as,Q1,bathroom/toilet,grass,misclassification,0.327,0.5006,,Grass
+qwen_vl,5d4bef6acf0b3a0f3f353346,as,Q1,bathroom/toilet,pathway in a garden,misclassification,0.2374,0.5006,,Pathway in a garden
+qwen_vl,5d4be7a2cf0b3a0f3f345ccc,as,Q1,bathroom/toilet,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4beeadcf0b3a0f3f351d6c,as,Q1,bathroom/toilet,flooded room,misclassification,0.4006,0.5529,,Flooded room
+qwen_vl,5d4beec9cf0b3a0f3f352080,as,Q1,bathroom/toilet,toilet in a tropical setting,correct,0.6296,0.5893,,Toilet in a tropical setting
+qwen_vl,5d4be79ccf0b3a0f3f345c36,as,Q1,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4be6eacf0b3a0f3f3448ca,as,Q1,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bf160cf0b3a0f3f35669a,as,Q1,bathroom/toilet,well,misclassification,0.2193,0.5623,,Well
+qwen_vl,5d4bf2d3cf0b3a0f3f358fa6,as,Q1,bathroom/toilet,dirty kitchen,misclassification,0.433,0.5174,,Dirty kitchen
+qwen_vl,5d4bef52cf0b3a0f3f353086,as,Q1,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bec75cf0b3a0f3f34df86,as,Q1,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4be789cf0b3a0f3f3459f0,as,Q1,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bef5dcf0b3a0f3f3531d2,as,Q1,bathroom/toilet,compost bin,misclassification,0.2317,0.5067,,Compost bin
+qwen_vl,5f64b28ee2dc7f404e61d3bb,as,Q1,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bea1ecf0b3a0f3f349d58,as,Q1,bathroom/toilet,bamboo structure,misclassification,0.111,0.5221,,Bamboo structure
+qwen_vl,5d4be745cf0b3a0f3f345252,as,Q1,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bef7dcf0b3a0f3f353586,as,Q2,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4be782cf0b3a0f3f34592c,as,Q2,bathroom/toilet,rock by a stream,misclassification,0.1678,0.502,,Rock by a stream
+qwen_vl,5d4bdf0dcf0b3a0f3f33707d,as,Q2,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bee71cf0b3a0f3f351664,as,Q2,bathroom/toilet,shack interior,misclassification,0.3104,0.5173,,Shack interior
+qwen_vl,5d4beaaacf0b3a0f3f34adc0,as,Q2,bathroom/toilet,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4beea8cf0b3a0f3f351cc2,as,Q2,bathroom/toilet,bamboo plants,misclassification,0.1009,0.5006,,Bamboo plants
+qwen_vl,5d4be792cf0b3a0f3f345af8,as,Q2,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bedd5cf0b3a0f3f35057c,as,Q2,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4beed0cf0b3a0f3f352158,as,Q2,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4be74ecf0b3a0f3f345358,as,Q2,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4beebbcf0b3a0f3f351ef4,as,Q2,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bf2c7cf0b3a0f3f358e30,as,Q2,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bef70cf0b3a0f3f353404,as,Q2,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5ec4f829f0611d7ddd740c66,as,Q2,bathroom/toilet,polluted area,misclassification,0.2385,0.5079,,Polluted area
+qwen_vl,5d4bf158cf0b3a0f3f3565cc,as,Q2,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bf13ccf0b3a0f3f356352,as,Q2,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bea61cf0b3a0f3f34a512,as,Q2,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4beea1cf0b3a0f3f351bf2,as,Q2,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bdf19cf0b3a0f3f3371c9,as,Q2,bathroom/toilet,sink,correct,0.5025,0.5336,,Sink
+qwen_vl,5d4be781cf0b3a0f3f34590a,as,Q2,bathroom/toilet,shed,misclassification,0.2204,0.5338,,Shed
+qwen_vl,5d4bed0bcf0b3a0f3f34ee82,as,Q2,bathroom/toilet,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4beeb5cf0b3a0f3f351e34,as,Q2,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bed15cf0b3a0f3f34ef96,as,Q2,bathroom/toilet,shelter made of wood and fabric in a forested area,misclassification,0.0383,0.5029,,Shelter made of wood and fabric in a forested area.
+qwen_vl,5d4bf198cf0b3a0f3f356c76,as,Q2,bathroom/toilet,tent,misclassification,0.2363,0.5509,,Tent
+qwen_vl,5d4be9a9cf0b3a0f3f349096,as,Q2,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5ec4f8eaf0611d7ddd7412ed,as,Q2,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bee7acf0b3a0f3f35177c,as,Q2,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bed00cf0b3a0f3f34ed7e,as,Q2,bathroom/toilet,shack interior,misclassification,0.3104,0.5173,,Shack interior
+qwen_vl,5d4bf15fcf0b3a0f3f356684,as,Q2,bathroom/toilet,stone sink,correct,0.4514,0.5734,,Stone sink
+qwen_vl,5d4bef76cf0b3a0f3f3534be,as,Q2,bathroom/toilet,shack,misclassification,0.369,0.5047,,Shack
+qwen_vl,5d4bdf07cf0b3a0f3f336fe7,as,Q2,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bf31bcf0b3a0f3f35980c,as,Q2,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5f8e3033d7a21dbc0bb18981,as,Q2,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bf313cf0b3a0f3f359734,as,Q2,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4be8c8cf0b3a0f3f347662,as,Q2,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4be775cf0b3a0f3f3457a2,as,Q2,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5ec4f7d9f0611d7ddd7409b1,as,Q2,bathroom/toilet,paint buckets,misclassification,0.2878,0.5011,,Paint buckets
+qwen_vl,5d4be9fccf0b3a0f3f349946,as,Q2,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4be388cf0b3a0f3f33e745,as,Q2,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bedd6cf0b3a0f3f3505a4,as,Q2,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4becf5cf0b3a0f3f34ec44,as,Q2,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bf171cf0b3a0f3f356828,as,Q3,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4beddacf0b3a0f3f35061c,as,Q3,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bf289cf0b3a0f3f3586c4,as,Q3,bathroom/toilet,abandoned room,misclassification,0.3358,0.5504,,Abandoned room
+qwen_vl,5d4bf2e8cf0b3a0f3f359232,as,Q3,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bf143cf0b3a0f3f356416,as,Q3,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bf2dacf0b3a0f3f359078,as,Q3,bathroom/toilet,farmland,misclassification,0.1686,0.501,,Farmland
+qwen_vl,5d4bf184cf0b3a0f3f356a58,as,Q3,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bee9acf0b3a0f3f351b26,as,Q3,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4be2dacf0b3a0f3f33d64d,as,Q3,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be1abcf0b3a0f3f33b72f,as,Q3,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4be630cf0b3a0f3f34337d,as,Q3,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bf136cf0b3a0f3f356298,as,Q3,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4be6b2cf0b3a0f3f34423a,as,Q3,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5ec4f7def0611d7ddd7409da,as,Q3,bathroom/toilet,woman standing in doorway of a brick building,misclassification,0.1138,0.5054,,Woman standing in doorway of a brick building.
+qwen_vl,5d4be9cbcf0b3a0f3f349498,as,Q3,bathroom/toilet,bidet,misclassification,0.3766,0.5579,,Bidet
+qwen_vl,5d4be769cf0b3a0f3f34564e,as,Q3,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4be0e6cf0b3a0f3f33a153,as,Q3,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be6ddcf0b3a0f3f344742,as,Q3,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4be705cf0b3a0f3f344bfa,as,Q3,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4be712cf0b3a0f3f344d7c,as,Q3,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4be2aecf0b3a0f3f33d1e3,as,Q3,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bf40fcf0b3a0f3f35afea,as,Q3,bathroom/toilet,laundry room,correct,0.4918,0.5353,,Laundry room
+qwen_vl,5d4be71bcf0b3a0f3f344e82,as,Q3,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bf066cf0b3a0f3f354db8,as,Q3,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4beb93cf0b3a0f3f34c7be,as,Q3,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be703cf0b3a0f3f344ba6,as,Q3,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bee83cf0b3a0f3f351876,as,Q3,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be191cf0b3a0f3f33b41b,as,Q3,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be365cf0b3a0f3f33e34f,as,Q3,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bf14bcf0b3a0f3f35650a,as,Q3,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bedcdcf0b3a0f3f350494,as,Q4,bathroom/toilet,shower room,correct,0.6004,0.6055,,Shower room
+qwen_vl,5d4bea3ccf0b3a0f3f34a0da,as,Q4,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bee8ccf0b3a0f3f351994,as,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5eded4388bd2ddf060333fce,as,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be30fcf0b3a0f3f33dab1,as,Q4,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4be159cf0b3a0f3f33aea7,as,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bdfcbcf0b3a0f3f338324,as,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bf28dcf0b3a0f3f358744,as,Q4,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4be64bcf0b3a0f3f34368f,as,Q4,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4be05ccf0b3a0f3f33916e,as,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bdff2cf0b3a0f3f338776,as,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be654cf0b3a0f3f3437a9,as,Q4,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4be44ccf0b3a0f3f33fdf8,as,Q4,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bf2f0cf0b3a0f3f35931e,as,Q4,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4be061cf0b3a0f3f33920c,as,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bf17acf0b3a0f3f356928,as,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5ec4f876f0611d7ddd740f01,as,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be054cf0b3a0f3f33907e,as,Q4,bathroom/toilet,laundry area,misclassification,0.4465,0.5219,,Laundry area
+qwen_vl,5d4bef51cf0b3a0f3f35305c,as,Q4,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5ec4fabcf0611d7ddd74222d,as,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be6becf0b3a0f3f3443a6,as,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be056cf0b3a0f3f3390ba,as,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be141cf0b3a0f3f33abdd,as,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be0becf0b3a0f3f339ca1,as,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be831cf0b3a0f3f346c17,as,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bf4aacf0b3a0f3f35bfea,as,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5ec4f963f0611d7ddd7416f2,as,Q5,bathroom/toilet,shower,correct,0.5345,0.5668,,Shower
+qwen_vl,5d4be81fcf0b3a0f3f346a47,as,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be11ccf0b3a0f3f33a78f,as,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be05ecf0b3a0f3f3391a4,as,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bef5ecf0b3a0f3f3531f4,as,Q5,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bdffccf0b3a0f3f33887a,as,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be70ccf0b3a0f3f344cc0,as,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be132cf0b3a0f3f33aa2d,as,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be13acf0b3a0f3f33ab17,as,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be0eecf0b3a0f3f33a23d,as,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be0abcf0b3a0f3f339a89,as,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be058cf0b3a0f3f339106,as,Q5,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4be10dcf0b3a0f3f33a5d1,as,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be987cf0b3a0f3f348ca4,as,Q5,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bf200cf0b3a0f3f35780c,am,Q1,bathroom/toilet,dirt path in a forest,misclassification,0.1801,0.5006,,Dirt path in a forest
+qwen_vl,5d4bf1cccf0b3a0f3f35721a,am,Q1,bathroom/toilet,dog sleeping on ground,misclassification,0.0187,0.5006,,Dog sleeping on ground
+qwen_vl,5d4bf446cf0b3a0f3f35b5b2,am,Q1,bathroom/toilet,trash dump,misclassification,0.4265,0.5106,,Trash dump
+qwen_vl,5d4bf1e6cf0b3a0f3f35750c,am,Q1,bathroom/toilet,weeds,misclassification,0.2768,0.5134,,Weeds
+qwen_vl,5d4bf21fcf0b3a0f3f357bbc,am,Q1,bathroom/toilet,corrugated metal structure,misclassification,-0.0259,0.5048,,corrugated metal structure
+qwen_vl,5d4bdef1cf0b3a0f3f336dbb,am,Q1,bathroom/toilet,shanty house,misclassification,0.3471,0.5579,,Shanty house
+qwen_vl,5d4bf1b0cf0b3a0f3f356eec,am,Q1,bathroom/toilet,toilet facilities,correct,0.7787,0.6657,,Toilet facilities
+qwen_vl,5d4bf48bcf0b3a0f3f35bcec,am,Q1,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bf24fcf0b3a0f3f3580e8,am,Q2,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bf277cf0b3a0f3f358498,am,Q2,bathroom/toilet,outdoor bathroom area,correct,0.5714,0.6646,,Outdoor bathroom area
+qwen_vl,5d4bdfa6cf0b3a0f3f337fd5,am,Q2,bathroom/toilet,shelter,misclassification,0.2462,0.5208,,Shelter
+qwen_vl,5d4bec6acf0b3a0f3f34de4e,am,Q2,bathroom/toilet,grassland,misclassification,0.2144,0.5006,,Grassland
+qwen_vl,5d4bf303cf0b3a0f3f359546,am,Q2,bathroom/toilet,dog entering a building,misclassification,0.1251,0.5024,,Dog entering a building
+qwen_vl,5ec4fb82f0611d7ddd7428be,am,Q2,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bf3f8cf0b3a0f3f35add6,am,Q2,bathroom/toilet,construction site,misclassification,0.2243,0.5065,,Construction site
+qwen_vl,5ec4f88df0611d7ddd740fbe,am,Q2,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5ec4fa82f0611d7ddd742047,am,Q2,bathroom/toilet,construction site,misclassification,0.2243,0.5065,,Construction site
+qwen_vl,5d4be16acf0b3a0f3f33b0a3,am,Q2,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4be163cf0b3a0f3f33afc3,am,Q2,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bdfa1cf0b3a0f3f337f59,am,Q3,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5ec4fb65f0611d7ddd7427b9,am,Q3,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5ec4fb62f0611d7ddd7427a4,am,Q3,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be14bcf0b3a0f3f33acff,am,Q3,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bebc8cf0b3a0f3f34cdd1,am,Q3,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4be191cf0b3a0f3f33b42b,am,Q3,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5ec4f763f0611d7ddd7405a3,am,Q3,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bdebfcf0b3a0f3f336827,am,Q3,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5ec4fb3bf0611d7ddd742663,am,Q3,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be19acf0b3a0f3f33b531,am,Q3,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be1a3cf0b3a0f3f33b643,am,Q3,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be542cf0b3a0f3f341998,am,Q3,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be3bfcf0b3a0f3f33ed97,am,Q3,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4be3c6cf0b3a0f3f33ee71,am,Q3,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bde56cf0b3a0f3f335ef5,am,Q3,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be425cf0b3a0f3f33f95e,am,Q3,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5fa3e8050593f5399850e853,am,Q3,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be062cf0b3a0f3f339216,am,Q3,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5f80bbe72d35623719a53617,am,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bef8ccf0b3a0f3f353744,am,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4befa5cf0b3a0f3f35391e,am,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bef87cf0b3a0f3f3536a8,am,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be1a5cf0b3a0f3f33b669,am,Q4,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bed24cf0b3a0f3f34f152,am,Q4,bathroom/toilet,bathtub,correct,0.5607,0.6963,,Bathtub
+qwen_vl,5ec4fb69f0611d7ddd7427e4,am,Q4,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5ec4fb78f0611d7ddd742860,am,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5ec4fb0af0611d7ddd7424c7,am,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5f4f86dbdb46f88c063ec02c,am,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5f17731e9607c1941974c2ca,am,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5ec4f944f0611d7ddd7415de,am,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be3f7cf0b3a0f3f33f425,am,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bef9ecf0b3a0f3f353858,am,Q4,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5ec4fb26f0611d7ddd7425ae,am,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be53ccf0b3a0f3f3418e6,am,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bed35cf0b3a0f3f34f2f8,am,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,bathroom
+qwen_vl,5d4be4eacf0b3a0f3f340f6c,am,Q4,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5f31d2eb1d4eb5430bcac359,am,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be1c3cf0b3a0f3f33b973,am,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bdf53cf0b3a0f3f337789,am,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be3cdcf0b3a0f3f33ef49,am,Q5,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4be3dbcf0b3a0f3f33f0eb,am,Q5,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bde5ecf0b3a0f3f335fb9,am,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be209cf0b3a0f3f33c063,am,Q5,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5f8587d6e4d0292df41d8c49,am,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be420cf0b3a0f3f33f8dc,am,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bebf0cf0b3a0f3f34d295,am,Q5,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5ec4f869f0611d7ddd740e92,am,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bdf43cf0b3a0f3f337613,eu,Q2,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bdf03cf0b3a0f3f336f8b,eu,Q3,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be917cf0b3a0f3f347f98,eu,Q3,bathroom/toilet,shed,misclassification,0.2204,0.5338,,Shed
+qwen_vl,5d4be966cf0b3a0f3f3488ca,eu,Q3,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5ec4fc54f0611d7ddd742f90,eu,Q3,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bdfb4cf0b3a0f3f3380ed,eu,Q4,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bdf98cf0b3a0f3f337e6f,eu,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5ec4fac9f0611d7ddd7422a7,eu,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bde74cf0b3a0f3f336197,eu,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5ec4f8d7f0611d7ddd741247,eu,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be04acf0b3a0f3f338f68,eu,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be037cf0b3a0f3f338d54,eu,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5f497ba395eb2323670a5199,eu,Q4,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5f6241eec9cd32fe2450a23f,eu,Q4,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4be0d5cf0b3a0f3f339f5d,eu,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be403cf0b3a0f3f33f570,eu,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be405cf0b3a0f3f33f5a4,eu,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be051cf0b3a0f3f33901e,eu,Q4,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5d4bdf9fcf0b3a0f3f337f35,eu,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5ec4f5c5f4a4fb7dc03879dd,eu,Q4,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5ec4f940f0611d7ddd7415ba,eu,Q5,bathroom/toilet,bathroom sink,correct,0.6264,0.6745,,Bathroom sink
+qwen_vl,5ec4fa66f0611d7ddd741f5f,eu,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5efb423048cdeb0e81b5c330,eu,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5ec4f8abf0611d7ddd7410d2,eu,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bde94cf0b3a0f3f3364b1,eu,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5ec4f914f0611d7ddd741447,eu,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5ec4fc23f0611d7ddd742df8,eu,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be02acf0b3a0f3f338be6,eu,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be8dacf0b3a0f3f347894,eu,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bde2dcf0b3a0f3f335b33,eu,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5ec4fc1ff0611d7ddd742dd9,eu,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bde26cf0b3a0f3f335a8f,eu,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5ec4fa2bf0611d7ddd741d9f,eu,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5ec4f8f9f0611d7ddd74136a,eu,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5ec4f923f0611d7ddd7414d0,eu,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5ec4f909f0611d7ddd7413e4,eu,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5ec4fa6ff0611d7ddd741fa2,eu,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,6057a174684cb26989ce4087,eu,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bdf8fcf0b3a0f3f337d95,eu,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5ed6e76ab323614aec9eb445,eu,Q5,bathroom/toilet,toilet,correct,0.882,0.6568,,Toilet
+qwen_vl,5ec4f931f0611d7ddd741545,eu,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4be929cf0b3a0f3f3481ba,eu,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5ec4f5513f62767d97a47325,eu,Q5,bathroom/toilet,bathroom,correct,0.8715,0.6848,,Bathroom
+qwen_vl,5d4bf32bcf0b3a0f3f3599a8,af,Q1,bed,clothing,misclassification,0.3408,0.5556,,Clothing
+qwen_vl,5d4bf336cf0b3a0f3f359ae2,af,Q1,bed,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bf468cf0b3a0f3f35b97c,af,Q1,bed,rug,misclassification,0.3308,0.5147,,Rug
+qwen_vl,5d4befd0cf0b3a0f3f353e28,af,Q1,bed,bamboo flooring,misclassification,0.1987,0.5317,,Bamboo flooring
+qwen_vl,5d4bdf76cf0b3a0f3f337b03,af,Q1,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bec40cf0b3a0f3f34d9aa,af,Q1,bed,rug,misclassification,0.3308,0.5147,,Rug
+qwen_vl,5d4bec92cf0b3a0f3f34e298,af,Q1,bed,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bf041cf0b3a0f3f3549f6,af,Q1,bed,bamboo mat,misclassification,0.2089,0.5774,,Bamboo mat
+qwen_vl,5d4bf349cf0b3a0f3f359ce4,af,Q1,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4becd4cf0b3a0f3f34e852,af,Q1,bed,clothes,misclassification,0.3663,0.5663,,Clothes
+qwen_vl,5d4bece7cf0b3a0f3f34ea92,af,Q1,bed,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bef09cf0b3a0f3f352810,af,Q1,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bf02ccf0b3a0f3f3547f2,af,Q1,bed,bamboo mat,misclassification,0.2089,0.5774,,Bamboo mat
+qwen_vl,5d4bf115cf0b3a0f3f355f2e,af,Q1,bed,rug,misclassification,0.3308,0.5147,,Rug
+qwen_vl,5d4bf366cf0b3a0f3f359f48,af,Q1,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bdf30cf0b3a0f3f33742f,af,Q1,bed,rug,misclassification,0.3308,0.5147,,Rug
+qwen_vl,5d4bf015cf0b3a0f3f3545c2,af,Q1,bed,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bf04dcf0b3a0f3f354b56,af,Q1,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4befb9cf0b3a0f3f353b7e,af,Q1,bed,clothing on a tarp,misclassification,0.1939,0.5074,,Clothing on a tarp
+qwen_vl,5d4befedcf0b3a0f3f35412a,af,Q1,bed,rug,misclassification,0.3308,0.5147,,Rug
+qwen_vl,5d4bf39acf0b3a0f3f35a4e2,af,Q1,bed,bamboo bundles,misclassification,0.1279,0.546,,Bamboo bundles
+qwen_vl,5d4bee21cf0b3a0f3f350e54,af,Q1,bed,bed with mosquito net,correct,0.493,0.6362,,Bed with mosquito net
+qwen_vl,5d4bf37acf0b3a0f3f35a198,af,Q1,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bf3b5cf0b3a0f3f35a7c2,af,Q1,bed,rug,misclassification,0.3308,0.5147,,Rug
+qwen_vl,5d4bf054cf0b3a0f3f354bd4,af,Q1,bed,dirty room,correct,0.4527,0.5443,,Dirty room
+qwen_vl,5d4bef25cf0b3a0f3f352b4c,af,Q1,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4bf089cf0b3a0f3f355148,af,Q1,bed,rug,misclassification,0.3308,0.5147,,Rug
+qwen_vl,5d4bf000cf0b3a0f3f354346,af,Q1,bed,bamboo mat,misclassification,0.2089,0.5774,,Bamboo mat
+qwen_vl,5d4beeedcf0b3a0f3f3524b4,af,Q1,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bdf69cf0b3a0f3f3379a3,af,Q1,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bf0efcf0b3a0f3f355c1a,af,Q1,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bee3bcf0b3a0f3f35103e,af,Q1,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bef19cf0b3a0f3f3529ee,af,Q1,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4becb1cf0b3a0f3f34e576,af,Q1,bed,dirty room,correct,0.4527,0.5443,,Dirty room
+qwen_vl,5d4beeffcf0b3a0f3f3526d2,af,Q1,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4bf0d1cf0b3a0f3f35589a,af,Q1,bed,person sleeping on a bed,correct,0.5687,0.6508,,Person sleeping on a bed
+qwen_vl,5d4be1cfcf0b3a0f3f33ba7b,af,Q1,bed,bamboo mats,misclassification,0.1845,0.5573,,Bamboo mats
+qwen_vl,5d4bf0aacf0b3a0f3f3554a0,af,Q1,bed,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5ec4f9a7f0611d7ddd74193b,af,Q1,bed,bamboo mat,misclassification,0.2089,0.5774,,Bamboo mat
+qwen_vl,5d4bf059cf0b3a0f3f354c58,af,Q1,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4bf059cf0b3a0f3f354c5a,af,Q1,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4bf3d6cf0b3a0f3f35aa04,af,Q1,bed,textile,misclassification,0.147,0.5207,,Textile
+qwen_vl,5d4be228cf0b3a0f3f33c3bf,af,Q1,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bed67cf0b3a0f3f34f8d4,af,Q1,bed,floor cushions,misclassification,0.2648,0.5192,,Floor cushions
+qwen_vl,5d4bed86cf0b3a0f3f34fc62,af,Q1,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bee08cf0b3a0f3f350b72,af,Q1,bed,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bf05dcf0b3a0f3f354cb4,af,Q1,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4bf05dcf0b3a0f3f354cb6,af,Q1,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4bef32cf0b3a0f3f352cda,af,Q1,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be3f9cf0b3a0f3f33f44c,af,Q1,bed,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bf42bcf0b3a0f3f35b2a2,af,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bdf70cf0b3a0f3f337a4f,af,Q2,bed,floral blanket,misclassification,0.2366,0.508,,Floral blanket
+qwen_vl,5d4be4e3cf0b3a0f3f340e9a,af,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bf069cf0b3a0f3f354e0a,af,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bedbacf0b3a0f3f350258,af,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4beda1cf0b3a0f3f34ff78,af,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5ec4fb15f0611d7ddd742529,af,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bed49cf0b3a0f3f34f542,af,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be3fdcf0b3a0f3f33f4c8,af,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bdf64cf0b3a0f3f337917,af,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bdf5acf0b3a0f3f337827,af,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bee4ccf0b3a0f3f351246,af,Q2,bed,bed with mosquito net,correct,0.493,0.6362,,Bed with mosquito net
+qwen_vl,5d4be08acf0b3a0f3f3396b5,af,Q2,bed,mat,misclassification,0.321,0.5481,,Mat
+qwen_vl,5d4bdee7cf0b3a0f3f336c87,af,Q2,bed,bed with mosquito net,correct,0.493,0.6362,,Bed with mosquito net
+qwen_vl,5ec4f9ecf0611d7ddd741b8c,af,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bdf34cf0b3a0f3f337491,af,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bdee2cf0b3a0f3f336be7,af,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5ec4facdf0611d7ddd7422c5,af,Q2,bed,hammock,misclassification,0.2903,0.5124,,Hammock
+qwen_vl,5ec4facef0611d7ddd7422cd,af,Q2,bed,hammock,misclassification,0.2903,0.5124,,Hammock
+qwen_vl,5ec4f98ff0611d7ddd74185f,af,Q2,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4bee58cf0b3a0f3f351384,af,Q3,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be259cf0b3a0f3f33c8fd,af,Q3,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5ec4f9d0f0611d7ddd741a93,af,Q3,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5ec4fa39f0611d7ddd741e17,af,Q3,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4bdf2bcf0b3a0f3f3373b5,af,Q3,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5ec4f9def0611d7ddd741b10,af,Q3,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be008cf0b3a0f3f338976,af,Q3,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5ec4f985f0611d7ddd74180e,af,Q3,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bf235cf0b3a0f3f357e52,af,Q3,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be670cf0b3a0f3f343acf,af,Q4,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be4cecf0b3a0f3f340c32,af,Q4,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bf22fcf0b3a0f3f357da2,af,Q4,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be234cf0b3a0f3f33c505,af,Q4,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be043cf0b3a0f3f338e9e,af,Q4,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4beb81cf0b3a0f3f34c590,af,Q5,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be024cf0b3a0f3f338b54,af,Q5,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be61dcf0b3a0f3f343155,af,Q5,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5ec4fa46f0611d7ddd741e73,af,Q5,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4bea9dcf0b3a0f3f34ac28,as,Q1,bed,clothing,misclassification,0.3408,0.5556,,Clothing
+qwen_vl,5d4beacacf0b3a0f3f34b184,as,Q1,bed,feet on a tarp,misclassification,0.1957,0.5009,,Feet on a tarp
+qwen_vl,5d4be75dcf0b3a0f3f3454fe,as,Q1,bed,rug on wooden floor,misclassification,0.1606,0.5091,,Rug on wooden floor
+qwen_vl,5d4beed6cf0b3a0f3f352200,as,Q1,bed,clothing,misclassification,0.3408,0.5556,,Clothing
+qwen_vl,5d4be6f4cf0b3a0f3f3449ea,as,Q1,bed,rug,misclassification,0.3308,0.5147,,Rug
+qwen_vl,5d4bea7dcf0b3a0f3f34a86e,as,Q1,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4beee0cf0b3a0f3f352346,as,Q1,bed,hut interior,misclassification,0.2869,0.5526,,Hut interior
+qwen_vl,5d4bf2cdcf0b3a0f3f358eea,as,Q1,bed,bedding,correct,0.7084,0.6997,,Bedding
+qwen_vl,5d4be753cf0b3a0f3f3453ec,as,Q1,bed,"rooftop area of a thatched-roof structure with cats, baskets",misclassification,0.1701,0.5116,,"Rooftop area of a thatched-roof structure with cats, baskets"
+qwen_vl,5d4beaeecf0b3a0f3f34b5cc,as,Q1,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be7b9cf0b3a0f3f345f76,as,Q1,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be7b9cf0b3a0f3f345f82,as,Q1,bed,mattress,correct,0.686,0.5214,,Mattress
+qwen_vl,5d4be746cf0b3a0f3f34527a,as,Q1,bed,bamboo structure,misclassification,0.0874,0.6069,,Bamboo structure
+qwen_vl,5d4be7b0cf0b3a0f3f345e6a,as,Q1,bed,woven basket,misclassification,0.1454,0.5209,,Woven basket
+qwen_vl,5d4be7b1cf0b3a0f3f345e90,as,Q1,bed,hammock,misclassification,0.2903,0.5124,,Hammock
+qwen_vl,5d4be7b1cf0b3a0f3f345e92,as,Q1,bed,mosquito net,misclassification,0.2004,0.5041,,Mosquito net
+qwen_vl,5d4be797cf0b3a0f3f345b9e,as,Q1,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be798cf0b3a0f3f345ba8,as,Q1,bed,hammock,misclassification,0.2903,0.5124,,Hammock
+qwen_vl,5d4be798cf0b3a0f3f345bb6,as,Q1,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be762cf0b3a0f3f345584,as,Q1,bed,bamboo hut,misclassification,0.3011,0.55,,Bamboo hut
+qwen_vl,5d4be764cf0b3a0f3f3455ae,as,Q1,bed,clothing on a wooden structure,misclassification,0.1381,0.5441,,Clothing on a wooden structure
+qwen_vl,5d4bef6acf0b3a0f3f353344,as,Q1,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be7a6cf0b3a0f3f345d3c,as,Q1,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4beeadcf0b3a0f3f351d6e,as,Q1,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4beec9cf0b3a0f3f35207e,as,Q1,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be79acf0b3a0f3f345bfc,as,Q1,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be79dcf0b3a0f3f345c4e,as,Q1,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4beec2cf0b3a0f3f351fbe,as,Q1,bed,floor,misclassification,0.446,0.5355,,Floor
+qwen_vl,5d4be6eacf0b3a0f3f3448c6,as,Q1,bed,person sleeping on bed,correct,0.5638,0.6566,,Person sleeping on bed
+qwen_vl,5d4bf165cf0b3a0f3f356726,as,Q1,bed,bed with clothes,correct,0.6978,0.6586,,Bed with clothes
+qwen_vl,5d4bf2d3cf0b3a0f3f358fa4,as,Q1,bed,floor tiles,misclassification,0.116,0.5127,,Floor tiles
+qwen_vl,5d4bef57cf0b3a0f3f353120,as,Q1,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5ec4f880f0611d7ddd740f5d,as,Q1,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bec81cf0b3a0f3f34e092,as,Q1,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be78dcf0b3a0f3f345a80,as,Q1,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be78ecf0b3a0f3f345a84,as,Q1,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bef5dcf0b3a0f3f3531d0,as,Q1,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bf2afcf0b3a0f3f358b4c,as,Q1,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5f63b2b847329228ca1702a9,as,Q1,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bea1ccf0b3a0f3f349d10,as,Q1,bed,altar,misclassification,0.3074,0.5145,,Altar
+qwen_vl,5ec4f808f0611d7ddd740b54,as,Q1,bed,clothing,misclassification,0.3408,0.5556,,Clothing
+qwen_vl,5d4be740cf0b3a0f3f3451cc,as,Q1,bed,room interior,misclassification,0.3762,0.541,,Room interior
+qwen_vl,5d4bef7dcf0b3a0f3f353584,as,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be787cf0b3a0f3f3459c6,as,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bdf0acf0b3a0f3f337045,as,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bee70cf0b3a0f3f351648,as,Q2,bed,room interior,misclassification,0.3762,0.541,,Room interior
+qwen_vl,5d4beab8cf0b3a0f3f34af64,as,Q2,bed,roll of paper towels,misclassification,0.1993,0.5143,,Roll of paper towels
+qwen_vl,5d4beab9cf0b3a0f3f34af70,as,Q2,bed,roll of fabric,misclassification,0.2323,0.5334,,Roll of fabric
+qwen_vl,5d4beea8cf0b3a0f3f351cc0,as,Q2,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be790cf0b3a0f3f345ac6,as,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be791cf0b3a0f3f345aea,as,Q2,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4bedd5cf0b3a0f3f35057a,as,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4beed0cf0b3a0f3f352156,as,Q2,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be74ecf0b3a0f3f345348,as,Q2,bed,hammock,misclassification,0.2903,0.5124,,Hammock
+qwen_vl,5d4be74ecf0b3a0f3f34534a,as,Q2,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4beebbcf0b3a0f3f351ef2,as,Q2,bed,floor tiles,misclassification,0.116,0.5127,,Floor tiles
+qwen_vl,5d4bef70cf0b3a0f3f353402,as,Q2,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5ec4f828f0611d7ddd740c62,as,Q2,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5ec4f829f0611d7ddd740c65,as,Q2,bed,shanty,misclassification,0.3429,0.524,,Shanty
+qwen_vl,5d4bf158cf0b3a0f3f3565c8,as,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bf13ccf0b3a0f3f356350,as,Q2,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4bea5ccf0b3a0f3f34a498,as,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4beea1cf0b3a0f3f351bf0,as,Q2,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4bdf17cf0b3a0f3f337191,as,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be781cf0b3a0f3f345902,as,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be781cf0b3a0f3f345906,as,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5ec4f816f0611d7ddd740bc2,as,Q2,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4bed0bcf0b3a0f3f34ee6c,as,Q2,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4beeb5cf0b3a0f3f351e32,as,Q2,bed,cardboard box,misclassification,0.317,0.5077,,Cardboard box
+qwen_vl,5d4bf2b4cf0b3a0f3f358bf2,as,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bed14cf0b3a0f3f34ef80,as,Q2,bed,bamboo floor with a red floral blanket and pillows,misclassification,0.2252,0.5345,,Bamboo floor with a red floral blanket and pillows.
+qwen_vl,5d4bf198cf0b3a0f3f356c74,as,Q2,bed,chair,misclassification,0.3604,0.5128,,Chair
+qwen_vl,5d4be9a5cf0b3a0f3f349030,as,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5ec4f8eaf0611d7ddd7412ec,as,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bee79cf0b3a0f3f351762,as,Q2,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4becffcf0b3a0f3f34ed60,as,Q2,bed,tent interior,misclassification,0.3321,0.5313,,Tent interior
+qwen_vl,5d4bf15fcf0b3a0f3f35667e,as,Q2,bed,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bef76cf0b3a0f3f3534bc,as,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bdf04cf0b3a0f3f336f9d,as,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bf31bcf0b3a0f3f35980a,as,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5f8c5d491268e97a858e85db,as,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bf2e1cf0b3a0f3f359156,as,Q2,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4bf313cf0b3a0f3f359732,as,Q2,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be773cf0b3a0f3f345776,as,Q2,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be773cf0b3a0f3f34577e,as,Q2,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be774cf0b3a0f3f345784,as,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be8c5cf0b3a0f3f347604,as,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bf2a0cf0b3a0f3f358992,as,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be77acf0b3a0f3f345836,as,Q2,bed,bed with mosquito net,correct,0.493,0.6362,,Bed with mosquito net
+qwen_vl,5d4be77acf0b3a0f3f345840,as,Q2,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4bedd1cf0b3a0f3f35051a,as,Q2,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5ec4f7d9f0611d7ddd7409b0,as,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be9f2cf0b3a0f3f3498de,as,Q2,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be385cf0b3a0f3f33e6d7,as,Q2,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bedd9cf0b3a0f3f3505f6,as,Q2,bed,couch,correct,0.4969,0.5124,,Couch
+qwen_vl,5d4becf0cf0b3a0f3f34eb98,as,Q2,bed,bed frame,correct,0.6865,0.6817,,Bed frame
+qwen_vl,5d4bf18bcf0b3a0f3f356b00,as,Q3,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bf171cf0b3a0f3f35681c,as,Q3,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4beddbcf0b3a0f3f35062a,as,Q3,bed,inflatable bed,correct,0.5615,0.6355,,Inflatable bed
+qwen_vl,5d4bedddcf0b3a0f3f35066a,as,Q3,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bf289cf0b3a0f3f3586c0,as,Q3,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be1e5cf0b3a0f3f33bc77,as,Q3,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5ec4f606f4a4fb7dc0387c26,as,Q3,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bdf20cf0b3a0f3f337291,as,Q3,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4bf2e8cf0b3a0f3f35922a,as,Q3,bed,clothing storage,misclassification,0.2139,0.5365,,Clothing storage
+qwen_vl,5d4be80bcf0b3a0f3f34681b,as,Q3,bed,abstention,abstention,0.0,0.0,,Unknown
+qwen_vl,5d4bf143cf0b3a0f3f356414,as,Q3,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4bf2dacf0b3a0f3f359072,as,Q3,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bf181cf0b3a0f3f3569f2,as,Q3,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bf2a5cf0b3a0f3f358a2e,as,Q3,bed,bunk bed,correct,0.7177,0.689,,Bunk bed
+qwen_vl,5d4bf2a5cf0b3a0f3f358a30,as,Q3,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bf2a6cf0b3a0f3f358a34,as,Q3,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bee9acf0b3a0f3f351b28,as,Q3,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be2d5cf0b3a0f3f33d5d3,as,Q3,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be1b1cf0b3a0f3f33b7e7,as,Q3,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be62fcf0b3a0f3f34336d,as,Q3,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4bf136cf0b3a0f3f356296,as,Q3,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bf2bacf0b3a0f3f358caa,as,Q3,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5ec4f7e3f0611d7ddd740a08,as,Q3,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5ec4f7e8f0611d7ddd740a35,as,Q3,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5ec4f7e8f0611d7ddd740a36,as,Q3,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be9c7cf0b3a0f3f349426,as,Q3,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be76acf0b3a0f3f345670,as,Q3,bed,floor mat,misclassification,0.3177,0.5236,,Floor mat
+qwen_vl,5d4be0e6cf0b3a0f3f33a14b,as,Q3,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be6ddcf0b3a0f3f34474c,as,Q3,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be705cf0b3a0f3f344bf2,as,Q3,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be707cf0b3a0f3f344c30,as,Q3,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4bf293cf0b3a0f3f3587f6,as,Q3,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be713cf0b3a0f3f344d9e,as,Q3,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be713cf0b3a0f3f344da0,as,Q3,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4bf191cf0b3a0f3f356bac,as,Q3,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4bf29acf0b3a0f3f3588e2,as,Q3,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be2a9cf0b3a0f3f33d173,as,Q3,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bf414cf0b3a0f3f35b07a,as,Q3,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bf180cf0b3a0f3f3569d2,as,Q3,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be71fcf0b3a0f3f344eec,as,Q3,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4bf066cf0b3a0f3f354db0,as,Q3,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4beb91cf0b3a0f3f34c770,as,Q3,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be6fecf0b3a0f3f344b18,as,Q3,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be7eacf0b3a0f3f346447,as,Q3,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bf079cf0b3a0f3f354f84,as,Q3,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4bee82cf0b3a0f3f35185e,as,Q3,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be191cf0b3a0f3f33b417,as,Q3,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be35fcf0b3a0f3f33e2af,as,Q3,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4bf14bcf0b3a0f3f35650c,as,Q3,bed,mattress,correct,0.686,0.5214,,Mattress
+qwen_vl,5d4be6facf0b3a0f3f344aa6,as,Q3,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bedcdcf0b3a0f3f350492,as,Q4,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bea3ccf0b3a0f3f34a0d4,as,Q4,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4bf2bfcf0b3a0f3f358d46,as,Q4,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bf2c0cf0b3a0f3f358d50,as,Q4,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4bee8bcf0b3a0f3f35197c,as,Q4,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5edf78ee12a02277d587d4d8,as,Q4,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be73dcf0b3a0f3f345184,as,Q4,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be2f8cf0b3a0f3f33d857,as,Q4,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be159cf0b3a0f3f33aea5,as,Q4,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4bf28dcf0b3a0f3f358742,as,Q4,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be653cf0b3a0f3f343787,as,Q4,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be05ccf0b3a0f3f33916c,as,Q4,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bdff1cf0b3a0f3f33874e,as,Q4,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be7f9cf0b3a0f3f346615,as,Q4,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be659cf0b3a0f3f34382f,as,Q4,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be32fcf0b3a0f3f33de05,as,Q4,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bf2f0cf0b3a0f3f35931c,as,Q4,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be7fccf0b3a0f3f34666b,as,Q4,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be7fecf0b3a0f3f3466a9,as,Q4,bed,children's bedroom,correct,0.5063,0.6416,,Children's bedroom
+qwen_vl,5d4be06ecf0b3a0f3f33936a,as,Q4,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4bf17acf0b3a0f3f356920,as,Q4,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5ec4f876f0611d7ddd740f00,as,Q4,bed,bed with a colorful crocheted blanket,correct,0.4648,0.6418,,Bed with a colorful crocheted blanket
+qwen_vl,5d4be0b4cf0b3a0f3f339b95,as,Q4,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4bef51cf0b3a0f3f35305e,as,Q4,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5ec4fabbf0611d7ddd74222b,as,Q4,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be6bacf0b3a0f3f344334,as,Q4,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be6bacf0b3a0f3f344336,as,Q4,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be055cf0b3a0f3f33909e,as,Q4,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5ec4f7fef0611d7ddd740afd,as,Q4,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be141cf0b3a0f3f33abdb,as,Q4,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bdf10cf0b3a0f3f3370cf,as,Q4,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be0becf0b3a0f3f339c9d,as,Q4,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be835cf0b3a0f3f346c7f,as,Q4,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be12bcf0b3a0f3f33a947,as,Q5,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4bf4a8cf0b3a0f3f35bfc2,as,Q5,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5ec4f963f0611d7ddd7416f5,as,Q5,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4be81dcf0b3a0f3f346a23,as,Q5,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be115cf0b3a0f3f33a6b9,as,Q5,bed,man sleeping on a mattress,misclassification,0.3986,0.5956,,Man sleeping on a mattress
+qwen_vl,5d4be05dcf0b3a0f3f33919c,as,Q5,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bf2accf0b3a0f3f358af6,as,Q5,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bef64cf0b3a0f3f353292,as,Q5,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bdff7cf0b3a0f3f338806,as,Q5,bed,bed,correct,1.0,0.7273,,Bed
+qwen_vl,5d4bdffdcf0b3a0f3f33888e,as,Q5,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be70ccf0b3a0f3f344cc2,as,Q5,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be70ccf0b3a0f3f344cc4,as,Q5,bed,bedroom,correct,0.6985,0.6629,,Bedroom
+qwen_vl,5d4be133cf0b3a0f3f33aa35,as,Q5,bed,bed,correct,1.0,0.7273,,Bed
