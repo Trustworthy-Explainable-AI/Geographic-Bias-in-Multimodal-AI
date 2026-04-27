@@ -4,13 +4,13 @@ import csv
 import json
 import random
 from pathlib import Path
-
+RAW_BASE_MODEL = "https://raw.githubusercontent.com/Trustworthy-Explainable-AI/Geographic-Bias-in-Multimodal-AI/refs/heads/haybee/open-ended-tests/result-3196"
 RAW_BASE = "https://raw.githubusercontent.com/HayBeeCoder/4k-dollarstreet/refs/heads/main"
-MAX_ITEMS = 3000
+MAX_ITEMS = 4000
 MODELS = {
-    "clip_vitb32": "result-3196/clip_vitb32_predictions_filtered_by_qwen.csv",
-    "gemini": "result-3196/gemini_predictions_filtered_by_qwen.csv",
-    "qwen_vl": "result-3196/qwen_vl_predictions.csv",
+    "clip_vitb32": f"{RAW_BASE_MODEL}/clip_vitb32_predictions.csv",
+    "gemini": f"{RAW_BASE_MODEL}/gemini_predictions.csv",
+    "qwen_vl": f"{RAW_BASE_MODEL}/qwen_vl_predictions.csv",
 }
 
 
