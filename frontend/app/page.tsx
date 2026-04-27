@@ -92,7 +92,7 @@ export default function HomePage() {
 
     return (
         <main className="main">
-            <div className="row" style={{ justifyContent: "space-between", alignItems: "center" }}>
+            <div className="topbar">
                 <h1>Human Evaluation</h1>
                 <a href="/admin">Admin Dashboard</a>
             </div>
@@ -109,7 +109,7 @@ export default function HomePage() {
 
             {item ? (
                 <div className="card">
-                    <p className="small">Task {item.task_id} | {item.model} | {item.region} | {item.income_quintile}</p>
+                    <p className="small meta">Task {item.task_id} | {item.model} | {item.region} | {item.income_quintile}</p>
                     <div className="image-container">
                         <img
                             className={`eval-image ${imageLoaded ? "is-loaded" : ""}`}
@@ -130,7 +130,7 @@ export default function HomePage() {
                         placeholder="Any context or ambiguity you noticed"
                     />
 
-                    <div className="row" style={{ marginTop: 12 }}>
+                    <div className="row action-row">
                         <button className="true" onClick={() => submit("true")}>True</button>
                         <button className="false" onClick={() => submit("false")}>False</button>
                         <button className="unsure" onClick={() => submit("unsure")}>Unsure / Ambiguous</button>
