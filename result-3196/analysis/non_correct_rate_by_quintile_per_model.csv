@@ -1,0 +1,16 @@
+model,income_quintile,non_correct_rate_pct
+clip_vitb32,Q1,68.2
+clip_vitb32,Q2,48.36
+clip_vitb32,Q3,41.56
+clip_vitb32,Q4,36.05
+clip_vitb32,Q5,37.61
+gemini,Q1,62.69
+gemini,Q2,45.07
+gemini,Q3,39.29
+gemini,Q4,36.19
+gemini,Q5,36.34
+qwen_vl,Q1,58.72
+qwen_vl,Q2,43.91
+qwen_vl,Q3,38.8
+qwen_vl,Q4,31.9
+qwen_vl,Q5,31.27

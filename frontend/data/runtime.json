@@ -1,0 +1,422 @@
+{
+  "targetSampleSize": 120,
+  "sampledTaskIds": [
+    "4260",
+    "250",
+    "6097",
+    "5947",
+    "837",
+    "7860",
+    "6213",
+    "7212",
+    "4002",
+    "1935",
+    "449",
+    "2601",
+    "7978",
+    "6194",
+    "3200",
+    "2796",
+    "6436",
+    "9133",
+    "4639",
+    "2161",
+    "545",
+    "6141",
+    "4751",
+    "7980",
+    "774",
+    "5408",
+    "7827",
+    "5339",
+    "2519",
+    "6727",
+    "836",
+    "4486",
+    "3428",
+    "8285",
+    "8534",
+    "1713",
+    "5801",
+    "1509",
+    "458",
+    "5332",
+    "4179",
+    "5393",
+    "5206",
+    "3814",
+    "3477",
+    "5517",
+    "3029",
+    "6347",
+    "4438",
+    "7527",
+    "5909",
+    "3626",
+    "7372",
+    "984",
+    "3727",
+    "418",
+    "5578",
+    "6459",
+    "4056",
+    "8436",
+    "7278",
+    "7851",
+    "5194",
+    "3968",
+    "3569",
+    "176",
+    "690",
+    "3067",
+    "4616",
+    "4000",
+    "3406",
+    "7728",
+    "7605",
+    "5992",
+    "5711",
+    "3330",
+    "5535",
+    "887",
+    "5442",
+    "8681",
+    "6497",
+    "8052",
+    "6997",
+    "525",
+    "4448",
+    "1000",
+    "8513",
+    "6825",
+    "3784",
+    "2813",
+    "8989",
+    "6488",
+    "8350",
+    "6637",
+    "1541",
+    "536",
+    "2602",
+    "803",
+    "2238",
+    "4980",
+    "1381",
+    "2207",
+    "5538",
+    "6495",
+    "3272",
+    "3148",
+    "636",
+    "3130",
+    "2369",
+    "90",
+    "8371",
+    "8896",
+    "1217",
+    "6168",
+    "3780",
+    "8234",
+    "3452",
+    "6490",
+    "1904",
+    "3965"
+  ],
+  "responses": [
+    {
+      "taskId": "4260",
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "verdict": "true",
+      "note": "",
+      "createdAt": "2026-04-27T00:33:28.623Z"
+    },
+    {
+      "taskId": "250",
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "verdict": "true",
+      "note": "",
+      "createdAt": "2026-04-27T00:34:03.443Z"
+    },
+    {
+      "taskId": "6097",
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "verdict": "true",
+      "note": "",
+      "createdAt": "2026-04-27T00:34:15.561Z"
+    },
+    {
+      "taskId": "5947",
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "verdict": "true",
+      "note": "",
+      "createdAt": "2026-04-27T00:36:37.487Z"
+    },
+    {
+      "taskId": "837",
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "verdict": "true",
+      "note": "",
+      "createdAt": "2026-04-27T00:36:46.063Z"
+    },
+    {
+      "taskId": "7860",
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "verdict": "true",
+      "note": "",
+      "createdAt": "2026-04-27T00:36:49.043Z"
+    },
+    {
+      "taskId": "6213",
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "verdict": "true",
+      "note": "",
+      "createdAt": "2026-04-27T00:36:53.059Z"
+    },
+    {
+      "taskId": "7212",
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "verdict": "true",
+      "note": "",
+      "createdAt": "2026-04-27T00:38:20.917Z"
+    },
+    {
+      "taskId": "4002",
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "verdict": "true",
+      "note": "",
+      "createdAt": "2026-04-27T00:38:29.451Z"
+    },
+    {
+      "taskId": "1935",
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "verdict": "true",
+      "note": "",
+      "createdAt": "2026-04-27T00:38:31.010Z"
+    },
+    {
+      "taskId": "449",
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "verdict": "true",
+      "note": "",
+      "createdAt": "2026-04-27T00:38:31.891Z"
+    },
+    {
+      "taskId": "2601",
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "verdict": "true",
+      "note": "",
+      "createdAt": "2026-04-27T00:38:36.660Z"
+    },
+    {
+      "taskId": "7978",
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "verdict": "unsure",
+      "note": "",
+      "createdAt": "2026-04-27T00:46:26.019Z"
+    },
+    {
+      "taskId": "6194",
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "verdict": "false",
+      "note": "",
+      "createdAt": "2026-04-27T00:46:28.682Z"
+    },
+    {
+      "taskId": "3200",
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "verdict": "true",
+      "note": "",
+      "createdAt": "2026-04-27T00:46:32.454Z"
+    },
+    {
+      "taskId": "2796",
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "verdict": "unsure",
+      "note": "",
+      "createdAt": "2026-04-27T00:46:34.882Z"
+    },
+    {
+      "taskId": "6436",
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "verdict": "true",
+      "note": "",
+      "createdAt": "2026-04-27T00:46:38.673Z"
+    },
+    {
+      "taskId": "9133",
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "verdict": "unsure",
+      "note": "",
+      "createdAt": "2026-04-27T00:46:43.196Z"
+    },
+    {
+      "taskId": "4639",
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "verdict": "true",
+      "note": "",
+      "createdAt": "2026-04-27T00:47:46.732Z"
+    },
+    {
+      "taskId": "2161",
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "verdict": "false",
+      "note": "",
+      "createdAt": "2026-04-27T00:48:02.053Z"
+    },
+    {
+      "taskId": "545",
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "verdict": "true",
+      "note": "",
+      "createdAt": "2026-04-27T00:48:06.087Z"
+    },
+    {
+      "taskId": "6141",
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "verdict": "true",
+      "note": "",
+      "createdAt": "2026-04-27T00:48:12.351Z"
+    },
+    {
+      "taskId": "4751",
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "verdict": "true",
+      "note": "",
+      "createdAt": "2026-04-27T00:48:16.517Z"
+    },
+    {
+      "taskId": "7980",
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "verdict": "true",
+      "note": "",
+      "createdAt": "2026-04-27T00:55:29.974Z"
+    },
+    {
+      "taskId": "774",
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "verdict": "unsure",
+      "note": "",
+      "createdAt": "2026-04-27T00:56:10.751Z"
+    },
+    {
+      "taskId": "5393",
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "verdict": "unsure",
+      "note": "",
+      "createdAt": "2026-04-27T01:06:56.519Z"
+    },
+    {
+      "taskId": "5206",
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "verdict": "true",
+      "note": "",
+      "createdAt": "2026-04-27T01:09:31.409Z"
+    },
+    {
+      "taskId": "5517",
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "verdict": "true",
+      "note": "",
+      "createdAt": "2026-04-27T01:11:05.871Z"
+    },
+    {
+      "taskId": "3029",
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "verdict": "true",
+      "note": "",
+      "createdAt": "2026-04-27T01:11:08.492Z"
+    }
+  ],
+  "skipped": [
+    {
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "taskId": "5408",
+      "createdAt": "2026-04-27T00:56:33.947Z"
+    },
+    {
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "taskId": "7827",
+      "createdAt": "2026-04-27T01:01:09.576Z"
+    },
+    {
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "taskId": "5339",
+      "createdAt": "2026-04-27T01:01:11.869Z"
+    },
+    {
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "taskId": "2519",
+      "createdAt": "2026-04-27T01:01:15.536Z"
+    },
+    {
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "taskId": "6727",
+      "createdAt": "2026-04-27T01:01:17.768Z"
+    },
+    {
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "taskId": "836",
+      "createdAt": "2026-04-27T01:01:20.648Z"
+    },
+    {
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "taskId": "4486",
+      "createdAt": "2026-04-27T01:01:22.569Z"
+    },
+    {
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "taskId": "3428",
+      "createdAt": "2026-04-27T01:01:25.602Z"
+    },
+    {
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "taskId": "8285",
+      "createdAt": "2026-04-27T01:01:29.169Z"
+    },
+    {
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "taskId": "8534",
+      "createdAt": "2026-04-27T01:04:03.385Z"
+    },
+    {
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "taskId": "1713",
+      "createdAt": "2026-04-27T01:04:08.941Z"
+    },
+    {
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "taskId": "5801",
+      "createdAt": "2026-04-27T01:04:14.161Z"
+    },
+    {
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "taskId": "1509",
+      "createdAt": "2026-04-27T01:04:17.624Z"
+    },
+    {
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "taskId": "458",
+      "createdAt": "2026-04-27T01:04:21.092Z"
+    },
+    {
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "taskId": "5332",
+      "createdAt": "2026-04-27T01:04:24.948Z"
+    },
+    {
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "taskId": "4179",
+      "createdAt": "2026-04-27T01:04:29.755Z"
+    },
+    {
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "taskId": "3814",
+      "createdAt": "2026-04-27T01:10:42.964Z"
+    },
+    {
+      "sessionId": "5372aa35-f920-447c-8d72-501bda769eba",
+      "taskId": "3477",
+      "createdAt": "2026-04-27T01:10:53.546Z"
+    }
+  ]
+}

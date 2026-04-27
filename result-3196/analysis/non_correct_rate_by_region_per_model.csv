@@ -1,0 +1,13 @@
+model,region,non_correct_rate_pct
+clip_vitb32,af,55.69
+clip_vitb32,am,43.18
+clip_vitb32,as,48.44
+clip_vitb32,eu,36.8
+gemini,af,53.19
+gemini,am,40.43
+gemini,as,45.06
+gemini,eu,36.05
+qwen_vl,af,51.19
+qwen_vl,am,37.05
+qwen_vl,as,41.8
+qwen_vl,eu,32.04
