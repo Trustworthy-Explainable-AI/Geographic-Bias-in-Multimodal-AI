@@ -1,2 +1,0 @@
-file_path,absolute_path,error_type,error_message
-assets/5d4befbfcf0b3a0f3f353c2e/5d4befbfcf0b3a0f3f353c2e.jpg,data/images/assets/5d4befbfcf0b3a0f3f353c2e/5d4befbfcf0b3a0f3f353c2e.jpg,OSError (Truncated/Corrupted),OSError (Truncated/Corrupted): image file is truncated (34 bytes not processed)
