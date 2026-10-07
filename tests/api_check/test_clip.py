@@ -4,12 +4,10 @@ from PIL import Image
 import requests
 from io import BytesIO
 
-print("🔄 Loading CLIP model...")
 device = "cuda" if torch.cuda.is_available() else "cpu"
-model, preprocess = clip.load("ViT-B/32", device=device)   # small & fast
+model, preprocess = clip.load("ViT-B/32", device=device)   
 
-# Test image (Dollar-Street-style household item)
-url = "https://picsum.photos/id/1015/800/600"   # ← real photo of a simple home interior
+url = "https://picsum.photos/id/1015/800/600"
 image = Image.open(requests.get(url, stream=True).raw).convert("RGB")
 image_input = preprocess(image).unsqueeze(0).to(device)
 
@@ -20,6 +18,4 @@ with torch.no_grad():
     text_features = model.encode_text(text)
     similarity = (image_features @ text_features.T).softmax(dim=-1)
 
-print("✅ SUCCESS: CLIP is working!")
 print("Similarity scores:", similarity[0].tolist())
-print("Model loaded on:", device)

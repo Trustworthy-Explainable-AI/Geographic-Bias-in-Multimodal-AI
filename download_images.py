@@ -7,7 +7,7 @@ load_dotenv()
 import kagglehub
 
 DATASET   = "mlcommons/the-dollar-street-dataset"
-CSV_PATH  = "data/dollar_street_eval_subset_v2.csv"
+CSV_PATH  = "data/dollar_street_eval_subset_v3.csv"
 IMAGE_DIR = Path("data/images")
 
 df = pd.read_csv(CSV_PATH)

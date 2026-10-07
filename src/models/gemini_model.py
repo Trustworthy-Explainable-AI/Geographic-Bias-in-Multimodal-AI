@@ -1,13 +1,13 @@
 import io
 import time
-from typing import List, Optional
+from typing import List
 
 from PIL import Image
 from google import genai
 from google.genai import types
 
 from .base import BaseModel
-from ..config import GEMINI_MODEL_NAME, GEMINI_API_KEY, GEMINI_MAX_RETRIES, GEMINI_RETRY_DELAY
+from ..config.config import GEMINI_MODEL_NAME, GEMINI_API_KEY, GEMINI_MAX_RETRIES, GEMINI_RETRY_DELAY
 from .utils import _build_prompt, _parse_response
 
 
@@ -46,12 +46,12 @@ class GeminiModel(BaseModel):
             )
         self._client = genai.Client(api_key=self._api_key)
 
-    def predict_batch(self, images: List[Image.Image], categories: List[str]) -> List[dict]:
-        return [self._predict_single(img, categories) for img in images]
+    def predict_batch(self, images: List[Image.Image]) -> List[dict]:
+        return [self._predict_single(img) for img in images]
 
-    def _predict_single(self, image: Image.Image, categories: List[str]) -> dict:
-        time.sleep(2)
-        prompt    = _build_prompt(categories)
+    def _predict_single(self, image: Image.Image) -> dict:
+        time.sleep(5)
+        prompt    = _build_prompt()
         img_bytes = _pil_to_jpeg_bytes(image)
 
         last_error = None
@@ -66,7 +66,7 @@ class GeminiModel(BaseModel):
                 )
                 raw = response.text
                 return {
-                    "predicted":    _parse_response(raw, categories),
+                    "predicted":    _parse_response(raw),
                     "confidence":   None,
                     "all_scores":   {},
                     "raw_response": raw,

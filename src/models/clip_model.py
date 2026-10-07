@@ -3,11 +3,13 @@ from typing import List
 import clip
 import torch
 from PIL import Image
- 
+import logging
+
 from .base import BaseModel
-from ..config.config import CLIP_MODEL_NAME, CLIP_PROMPT_TEMPLATE, CATEGORY_PROMPTS
- 
- 
+from ..config.config import CLIP_MODEL_NAME
+
+log = logging.getLogger(__name__)
+
 class CLIPModel(BaseModel):
 
     def __init__(self, model_name: str = CLIP_MODEL_NAME):
@@ -28,47 +30,47 @@ class CLIPModel(BaseModel):
         self._model.eval()
  
     def predict_batch(self, images: List[Image.Image], categories: List[str]) -> List[dict]:
+        """
+        CLIP override: Computes similarity against dynamic categories.
+        """
+        if not categories:
+            log.error("CLIP requires categories for prediction. Returning abstentions.")
+            return [{"predicted": "abstention", "confidence": 0.0, "all_scores": {}, "raw_response": None} for _ in images]
+
+        # We wrap categories in a template to help CLIP (optional, but recommended)
+        text_inputs = torch.cat([clip.tokenize(f"a photo of {c}") for c in categories]).to(self._device)
         
-        text_features = self._encode_texts(categories)
+        with torch.no_grad():
+            text_features = self._model.encode_text(text_inputs)
+            text_features /= text_features.norm(dim=-1, keepdim=True)
+
         results = []
         for img in images:
-            img_tensor   = self._preprocess(img).unsqueeze(0).to(self._device)
-            img_features = self._encode_image(img_tensor)
+            img_tensor = self._preprocess(img).unsqueeze(0).to(self._device)
+            with torch.no_grad():
+                image_features = self._model.encode_image(img_tensor)
+                image_features /= image_features.norm(dim=-1, keepdim=True)
 
-            sims = (img_features @ text_features.T).squeeze(0)
-            sims_cpu = sims.cpu().float().numpy()
- 
-            best_idx = int(sims_cpu.argmax())
+            # Calculate Similarity
+            # Logits are scaled by 100 per CLIP default implementation
+            similarity = (100.0 * image_features @ text_features.T).softmax(dim=-1)
+            values, indices = similarity.topk(1)
+            
+            best_idx = int(indices.item())
+            conf_score = float(values.item())
+
             results.append({
                 "predicted":    categories[best_idx],
-                "confidence":   float(sims_cpu[best_idx]),
-                "all_scores":   {cat: float(s) for cat, s in zip(categories, sims_cpu)},
+                "confidence":   conf_score,
+                "all_scores":   {},
                 "raw_response": None
             })
  
         return results
- 
+
+
     def unload(self) -> None:
         del self._model, self._preprocess
         self._model = self._preprocess = None
         if torch.cuda.is_available():
             torch.cuda.empty_cache()
- 
- 
-    def _encode_texts(self, categories: List[str]) -> torch.Tensor:
-        prompts = [
-            CLIP_PROMPT_TEMPLATE.format(label=CATEGORY_PROMPTS.get(cat, cat))
-            for cat in categories
-        ]
-        tokens = clip.tokenize(prompts).to(self._device)
-        with torch.no_grad():
-            feats = self._model.encode_text(tokens)
-            feats = feats / feats.norm(dim=-1, keepdim=True)
-        return feats
-
-
-    def _encode_image(self, img_tensor: torch.Tensor) -> torch.Tensor:
-        with torch.no_grad():
-            feats = self._model.encode_image(img_tensor)
-            feats = feats / feats.norm(dim=-1, keepdim=True)
-        return feats

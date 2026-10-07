@@ -1,0 +1,4 @@
+error_type,count
+correct,2409
+hallucination,628
+misclassification,159
